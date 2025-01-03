@@ -25,6 +25,7 @@ if [ ! -d $DIR_CONTEXT ]; then mkdir $DIR_CONTEXT; fi
 if [ ! -d $DIR_ASPI ] || [ ! -d $DIR_DUMP ] || [ ! -d $DIR_CONCORD ] || [ ! -d $DIR_CONTEXT ]
 then
     echo "Vous n'avez pas les droits pour écrire dans les dossiers" >&2
+    exit
 fi
 
 TAB_UP=$(
