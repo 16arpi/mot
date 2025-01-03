@@ -1,0 +1,489 @@
+    #Accueil Fil RSS des dix derni�res actualit�s
+
+     * Les composantes
+
+   (BUTTON) Votre profil
+     * Lycéen
+     * Étudiant
+     * Étudiant international
+     * Chercheur, enseignant chercheur ou doctorant
+     * Personnel de l'université
+     * Salarié, indépendant ou demandeur d'emploi
+     * Entreprise, association ou collectivité
+     * Alumni
+     * Journaliste
+
+     * (BUTTON) Français
+          + FR-Français
+          + EN-English
+
+   [logo_epe_NB.png]
+
+Université Grenoble Alpes
+
+     * Université
+          + Ambition et stratégie
+          + Engagements
+          + Chiffres-clés et classements
+          + Organisation
+          + Nos campus
+          + Travailler à l'université
+          + Histoire de l'UGA
+       Voir toute la rubrique
+     * Formation
+          + Pourquoi choisir l'UGA ?
+          + Catalogue des formations
+          + Modalités de formation
+          + Admissions et inscriptions
+          + Orientation, insertion, stage, emploi
+          + Mobilité internationale
+          + Enrichir son parcours
+          + Graduate school
+          + Devenir de nos diplômés
+          + Dispositifs innovants
+       Voir toute la rubrique
+     * Recherche
+          + Ambition et stratégie de recherche
+          + Talents et découvertes
+          + Projets structurants et partenaires
+          + Laboratoires de recherche
+          + Boostez votre recherche
+          + Valorisation et transfert
+          + Doctorat
+          + Nous rejoindre
+       Voir toute la rubrique
+     * Partenariats
+          + Décrypter l'université
+          + Entreprise
+          + Action publique et collective
+       Voir toute la rubrique
+     * Rayonnement
+          + L’UGA et l’international
+          + L'UGA et ses territoires
+          + Sciences et société
+          + Chiffres-clés et classements
+       Voir toute la rubrique
+     * Campus
+          + Découvrir nos campus
+          + Vie pratique
+          + Services numériques
+          + Bibliothèques
+          + Vie associative et citoyenne
+          + Activités culturelles
+          + Activités sportives
+          + Santé, handicap et aides
+          + UGA Shop
+       Voir toute la rubrique
+
+   (BUTTON) Recherche
+
+   (BUTTON) Menu (BUTTON) Recherche (BUTTON) Votre profil (BUTTON) FR
+   Français
+     * (BUTTON) Université
+          + Ambition et stratégie
+          + Engagements
+          + Chiffres-clés et classements
+          + Organisation
+          + Nos campus
+          + Travailler à l'université
+          + Histoire de l'UGA
+     * (BUTTON) Formation
+          + Pourquoi choisir l'UGA ?
+          + Catalogue des formations
+          + Modalités de formation
+          + Admissions et inscriptions
+          + Orientation, insertion, stage, emploi
+          + Mobilité internationale
+          + Enrichir son parcours
+          + Graduate school
+          + Devenir de nos diplômés
+          + Dispositifs innovants
+     * (BUTTON) Recherche
+          + Ambition et stratégie de recherche
+          + Talents et découvertes
+          + Projets structurants et partenaires
+          + Laboratoires de recherche
+          + Boostez votre recherche
+          + Valorisation et transfert
+          + Doctorat
+          + Nous rejoindre
+     * (BUTTON) Partenariats
+          + Décrypter l'université
+          + Entreprise
+          + Action publique et collective
+     * (BUTTON) Rayonnement
+          + L’UGA et l’international
+          + L'UGA et ses territoires
+          + Sciences et société
+          + Chiffres-clés et classements
+     * (BUTTON) Campus
+          + Découvrir nos campus
+          + Vie pratique
+          + Services numériques
+          + Bibliothèques
+          + Vie associative et citoyenne
+          + Activités culturelles
+          + Activités sportives
+          + Santé, handicap et aides
+          + UGA Shop
+
+     * Les composantes
+
+   Votre profil
+     * Lycéen
+     * Étudiant
+     * Étudiant international
+     * Chercheur, enseignant chercheur ou doctorant
+     * Personnel de l'université
+     * Salarié, indépendant ou demandeur d'emploi
+     * Entreprise, association ou collectivité
+     * Alumni
+     * Journaliste
+
+     * FR-Français
+     * EN-English
+
+     * Facebook
+     * X
+     * Instagram
+     * YouTube
+     * LinkedIn
+     * RSS
+
+   Vous êtes ici :
+    1. Accueil
+
+     Actualités
+
+     The Conversation
+
+     Sciences
+
+The Conversation : "Émergence du langage dans l’évolution humaine : des
+chercheurs font parler les structures osseuses fossilisées"
+
+   Imprimer (BUTTON) Partager Partager sur Facebook Partager sur X
+   Partager sur LinkedIn (BUTTON)
+   Recherche
+   le  3 mai 2024
+   Depuis quelle époque l'humain est-il capable de parler ?
+   Procy/Shutterstock Depuis quelle époque l'humain est-il capable de
+   parler ? Procy/Shutterstock
+   Pour savoir quand le langage articulé est apparu , il faudrait pouvoir
+   étudier les langues de nos ancêtres. Problème, elles ne fossilisent
+   pas, il faut donc les modéliser.
+   Les positions d’Aristote et de Descartes, qui affirmaient que le
+   langage est le « propre de l’homme », se trouvent aujourd’hui
+   contestées par des observations éthologiques sur les singes ou les
+   oiseaux. En effet, on retrouve dans les signaux de communication de ces
+   espèces, des caractéristiques similaires à celle du langage parlé
+   humain, telles que la notion de sémantique (un cri est porteur de
+   sens), la variation d’un son qui change la signification du cri (ce qui
+   se rapproche de la notion de phonème, unité minimale du langage parlé
+   humain), ou la notion de morphologie (il existe dans les cris des
+   éléments qui peuvent être combinés de manière variée au sein de
+   différentes structures plus complexes). Mais rien ne permet
+   d’abandonner l’idée que la parole reste « le propre de l’homme »,
+   c’est-à-dire la capacité à articuler avec sa bouche des sons
+   distinctifs qui peuvent se combiner à l’infini pour donner une infinité
+   de sens.
+
+   C’est sans doute à cette spécificité que la question de l’émergence de
+   la parole dans l’évolution humaine doit d’être restée à travers les
+   âges au cœur de recherches dans le domaine de la philosophie, de la
+   linguistique et, plus récemment, de l’éthologie, de la psychologie et
+   des neurosciences. Cette question renvoie à la fois à l’existence des
+   capacités cognitives adaptées à l’émergence du langage, qu’il soit
+   parlé ou non, et à l’existence de capacités physiques de la bouche et
+   des lèvres pour structurer et articuler les unités sonores qui seront
+   les vecteurs acoustiques du langage, via la parole.
+
+   Cognitivement, le langage renvoie fondamentalement à la capacité
+   d’abstraction. C’est la raison pour laquelle la fabrication d’outils,
+   la maîtrise du feu, les peintures pariétales, la structuration de
+   l’habitat sont autant d’étapes de l’évolution humaine qui ont
+   fréquemment été utilisées comme des marqueurs potentiels de l’émergence
+   de la capacité au langage. Il n’y a pas de consensus sur l’émergence de
+   la parole. Nos travaux visent à contribuer à ces débats, en étudiant si
+   les capacités des hominines fossiles (les Néandertaliens qui sont
+   proches de nous comme leurs ancêtres, les H. heidelbergensis datant de
+   500 000 ans voire les Australopithèques qui sont beaucoup plus anciens
+   et appartiennent à un autre genre) leur permettaient d’articuler
+   suffisamment de sons distinctifs pour constituer la base du langage
+   parlé.
+
+Depuis quand peut-on articuler ?
+
+   Sur le plan physique, c’est l’usage de la bouche qui est au cœur de la
+   capacité à parler. Le célèbre ethnologue français André Leroi-Gourhan
+   (1911-1986) voyait dans le passage de la quadrupédie à la bipédie une
+   étape essentielle dans l’émergence du langage parlé : permettant
+   l’usage de la main pour des gestes de préhension jusqu’alors effectués
+   par la bouche, la bipédie a « libéré » la mandibule, les lèvres et la
+   langue pour leur permettre d’exécuter un répertoire gestuel riche et
+   structuré, capable de transmettre le langage via le son.
+
+   Quand est apparue la capacité physique à articuler des sons
+   distinctifs ? C’est lorsque l’ensemble de cartilages marqué par la
+   pomme d’Adam, qu’on appelle le larynx, est suffisamment descendu dans
+   le cou, répondit le chercheur américain Philip Lieberman (1934-2022)
+   dans le journal Science en 1969. Cette descente du larynx aurait, selon
+   lui, offert à la langue un espace vertical nouveau, suffisamment large
+   pour qu’elle puisse se déformer, se bomber ou s’aplatir pour générer
+   une variété de formes et de sons appropriée à la richesse combinatoire
+   du langage.
+
+   Cette hypothèse, qui a fonctionné pendant plusieurs décennies, en
+   sclérosant quelque peu la recherche dans ce domaine, a depuis lors été
+   fortement contestée. Le chercheur Louis-Jean Boë et ses collègues ont
+   en effet montré que les cris de babouins, dont le larynx est élevé et
+   la langue plate, contiennent des sons proches du « a », du « ou » et du
+   « i », les trois voyelles qui constituent la base fondamentale des
+   systèmes vocaliques des langues du monde.
+
+   De même, Fitch, pourtant disciple de Lieberman, et ses collègues, dans
+   un article paru dans Science Advances en 2016, ont montré, à partir de
+   radiographies de la gueule de macaques au cours de la déglutition, que
+   malgré leur larynx élevé, ces primates pouvaient générer des formes de
+   langue compatibles avec la production de voyelles suffisamment variées
+   et distinctes pour constituer les bases sonores d’un langage parlé. La
+   descente du larynx ne semble donc pas constituer un marqueur fiable de
+   l’émergence de la capacité physique à parler au cours de l’évolution
+   humaine, et le mystère reste entier.
+
+   Pour tenter de le percer, notre projet « Origins of Speech », s’est
+   proposé d’élaborer des modèles biomécaniques de langue d’humains
+   fossiles.
+
+   Un modèle biomécanique est un modèle numérique, sur ordinateur, qui
+   représente une partie du corps humain, avec son anatomie, ses
+   structures osseuses, ses tissus mous, ses muscles, et est capable de
+   rendre compte des mécanismes physiques qui régissent leurs mouvements
+   et leurs déformations sous l’action d’activations musculaires. Pour la
+   langue, de tels modèles permettent d’étudier comment les muscles
+   linguaux influencent la forme et la position de la langue dans la
+   bouche. Ainsi, pour les fossiles, ces modèles offriraient la
+   possibilité d’étudier, quantitativement et systématiquement, leur
+   capacité à produire des sons de parole.
+
+Prédire la langue des humains fossiles à partir des os de la tête
+
+   Mais sur quoi s’appuyer pour élaborer de tels modèles ? Aucune donnée
+   anatomique n’existe. En effet, les tissus mous de langue, des parois de
+   la bouche, et du visage ne fossilisent pas. Seuls restent les os, plus
+   ou moins abîmés par les sévices du temps.
+
+   C’est l’idée originale de notre projet, présentée dans notre article
+   récent publié dans le journal PLoS Computational Biology porté par les
+   jeunes chercheurs de notre équipe, Pablo Alvarez, Marouane El Mouss et
+   Maxime Calka.
+   Processus permettant la génération d’un modèle biomécanique de langue
+   de babouin par la transformation d’un modèle de référence élaboré sur
+   un humain actuel. Cette transformation s’appuie sur la modélisation
+   mathématique des différences morphologiques entre les structures
+   osseuses crâniennes de l’humain actuel et du babouin. Fourni par
+   l'auteur
+
+   Elle consiste à exploiter les structures osseuses fossilisées pour
+   prédire la forme et l’anatomie de la langue de ces humains disparus.
+   Pour cela, nous utilisons comme référence le modèle biomécanique de
+   langue d’un humain vivant, que nous avons soigneusement conçu dans nos
+   laboratoires grenoblois GIPSA-lab et TIMC au cours de près de 3
+   décennies de recherches coordonnées.
+
+   Ce modèle rend compte fidèlement de la morphologie de la langue, de ses
+   structures musculaires, des caractéristiques mécaniques de ses tissus
+   mous, et de ses interactions mécaniques avec la mandibule, le palais et
+   l’os hyoïde, un petit os mobile qui relie la langue… au larynx.
+
+   IFRAME:
+   https://www.youtube.com/embed/Pz0A5HTYFeM?wmode=transparent&start=0
+
+   Modèle de langue TIMC et Gipsa lab Grenoble.
+
+   C’est en modifiant la géométrie du modèle de référence que nous
+   générerons des modèles biomécaniques pour les langues fossiles. Pour
+   cela, en nous appuyant sur des outils mathématiques combinant des
+   transformations géométriques complexes, nous déterminons tout d’abord
+   la transformation géométrique optimale qui permet de passer de la
+   géométrie du crâne et de la mandibule de l’humain actuel à celle du
+   crâne et de la mandibule de l’humain fossile.
+
+   Puis nous appliquons cette transformation géométrique au modèle de
+   langue du premier pour le déformer et en faire un modèle de langue pour
+   le second, avec sa forme spécifique, ses structures musculaires, et ses
+   interactions avec la mandibule, le palais et l’os hyoïde…
+
+   Mais dans quelle mesure peut-on faire confiance à une transformation
+   géométrique basée sur les structures osseuses pour prédire les tissus
+   mous de la langue ? Pour répondre à cette question, cruciale pour
+   valider la méthode, nous avons choisi d’évaluer leur méthode sur la
+   génération d’un modèle biomécanique de langue de babouin, un primate
+   non-humain dont la morphologie de la tête est très différente de celle
+   d’un Homo Sapiens.
+
+   Notre hypothèse en la matière consiste à dire que si cette méthode
+   marche pour un tel primate, alors il est vraisemblable qu’elle sera
+   fiable pour la prédiction de la langue de tous les humains fossiles
+   dont les crânes sont moins différents de celui d’un Homo Sapiens, que
+   ne l’est celui d’un babouin.Nous avons alors généré deux modèles de
+   langue de babouin. Le premier a été conçu en utilisant une
+   transformation géométrique optimale déterminée en prenant en compte les
+   structures osseuses et les tissus mous de la tête. Comme on peut s’y
+   attendre, la complétude des informations morphologiques prises en
+   compte permet d’obtenir un modèle qui décrit avec une grande précision
+   la morphologie de la langue du babouin.
+
+   Puis nous avons généré un second modèle, en déterminant la
+   transformation géométrique optimale sur la seule base des informations
+   sur les structures osseuses, ignorant celles sur les tissus mous. Ce
+   second modèle s’est avéré être très proche du premier et la fiabilité
+   de cette prédiction a été validée par des outils statistiques de
+   quantification des incertitudes développés par Anca Belme à l’Institut
+   Jean Le Rond d’Alembert de Sorbonne Université. Nous avons alors pu
+   conclure que notre méthode est fiable pour générer, à partir des seules
+   structures osseuses, des modèles biomécaniques réalistes pour les
+   langues de primates, qu’ils soient humains ou non humains, qu’ils
+   soient vivants ou (bientôt car les analyses sont en cours) fossiles.
+
+   C’est en exploitant cette méthode, que nous travaillons actuellement à
+   la génération de modèles biomécaniques de la langue d’humains fossiles,
+   tels que les Homo Heidelbergensis connus en Europe à partir de
+   600 000 ans ou les Néandertaliens de 70-50 000 ans, à partir
+   respectivement des ossements d’Arago 21 (grotte à proximité de
+   Perpignan) et de ceux de La Ferrassie 1 en Dordogne. Notre but est
+   d’explorer systématiquement les conséquences des activations des
+   muscles de la langue dans ces modèles, d’observer le spectre des formes
+   de la bouche qui peuvent ainsi être générées et d’analyser les
+   caractéristiques des sons qui seraient ainsi produits par les fossiles,
+   en faisant l’hypothèse qu’ils possédaient des cordes vocales et des
+   capacités pulmonaires similaires à celles des Homo Sapiens. Il sera
+   aussi possible de tester quantitativement, en jouant sur la position de
+   l’os hyoïde, connecté au larynx, dans quelle mesure la position, plus
+   ou moins haute, du larynx est susceptible d’influencer la richesse des
+   formes de bouches et des sons produits.
+
+   C’est la méthodologie de recherche que nous avons choisie pour percer
+   le mystère de l’émergence au cours de l’évolution humaine de la
+   capacité à produire avec la bouche des sons suffisamment variés pour
+   constituer la base d’un langage utilisant l’acoustique pour véhiculer
+   des idées entre congénères… The Conversation
+   Cet article est republié à partir de The Conversation sous licence
+   Creative Commons. Lire l’article original.
+   Publié le  3 mai 2024
+   Mis à jour le  3 mai 2024
+
+Les auteurs
+
+   Pascal Perrier
+   Professeur en Mathématiques du Signal - Modèles biomécaniques
+   orofociaux - Modèlisation du contrôle moteur de la production de la
+   parole
+   Institut polytechnique de Grenoble (Grenoble INP)
+   Amélie Vialet
+   Maître de conférences en paléoanthropologie
+   Muséum national d’histoire naturelle (MNHN)
+   Yohan Payan
+   Chercheur en biomécanique des tissus mous, laboratoire TIMC (CNRS,
+   Univ. Grenoble Alpes)
+   Université Grenoble Alpes (UGA)
+
+The Conversation
+
+   L’Université Grenoble Alpes est partenaire membre fondateur du média en
+   ligne The Conversation. Ce site internet propose de conjuguer
+   l’expertise universitaire et le savoir-faire journalistique pour offrir
+   au grand public une information gratuite, indépendante et de qualité.
+   Les articles, sur un format court, traitent de dossiers d’actualité et
+   de phénomènes de société. Ils sont écrits par des chercheurs et
+   universitaires en collaboration avec une équipe de journalistes
+   expérimentés.
+
+   theconversation.com
+
+Abonnez-vous !
+
+   Pour suivre au quotidien les experts de The Conversation, abonnez-vous
+   à la newsletter.
+   theconversation.com/fr/newsletter
+   Imprimer (BUTTON) Partager Partager sur Facebook Partager sur X
+   Partager sur LinkedIn (BUTTON)
+
+Actualités
+
+     * À la une
+     * Agenda
+     * Appels et campagnes
+     * Expositions
+     * Parutions
+     * Newsletter
+     * The Conversation
+     * Let's play
+     * Réseaux sociaux
+
+     * Université Grenoble Alpes
+
+   Université Grenoble Alpes
+   621 avenue Centrale
+   38400 Saint-Martin-d'Hères
+   France
+     * Actualités
+          + À la une
+          + Agenda
+          + Appels et campagnes
+          + Expositions
+          + Parutions
+          + Newsletter
+          + The Conversation
+          + Let's play
+          + Réseaux sociaux
+     * Informations pratiques
+          + Contact
+          + Annuaire
+          + Plans d'accès
+          + Réclamation
+          + Emploi
+          + Marchés publics
+          + Presse
+          + Paiement en ligne
+     * Informations légales
+          + Mentions légales
+          + Données personnelles
+          + Crédits
+          + Plan du site
+          + Gestion des cookies
+          + Accessibilité : non conforme
+     * Accès réservés
+          + Intranet des étudiants et des personnels
+
+   Suivez-nous
+     * Facebook
+     * X
+     * Instagram
+     * YouTube
+     * LinkedIn
+     * RSS
+
+   (BUTTON)
+
+   URL de page
+   https://www.univ-grenoble-alpes.fr/actualites/the-conversation/sciences
+   /the-conversation-emergence-du-langage-dans-l-evolution-humaine-des-che
+   rcheurs-font-parler-les-structures-osseuses-fossilisees--1425836.kjsp?R
+   H=1650009373055 Titre de page
+
+   Vous êtes Vous souhaitez Valider Partager le lien Copier Copié Fermer
+   la fenêtre modale Partager l'URL de cette page Je recommande cette page
+   : Consultable à cette adresse : La page sera alors accessible depuis
+   votre menu "Mes favoris". Arrêter la vidéo Jouer la vidéo Couper le son
+   Jouer le son Chat : Une question ? Chatbot Robo Fabrica Statistiques de
+   fréquentation Matomo X (anciennement Twitter)
+
+Que recherchez-vous ?
+
+   (BUTTON)
+
+   ____________________
+   Valider
+
+   Plus de critères

@@ -1,0 +1,707 @@
+     3 Sémiologie
+
+     4 La phonologie et la phonétique des langues des signes
+   (BUTTON) Afficher / masquer la sous-section La phonologie et la
+   phonétique des langues des signes
+     * 4.1 Introduction
+
+--
+
+
+   7 Comparaison des langues des signes
+
+   (BUTTON) Afficher / masquer la sous-section Comparaison des langues des
+   signes
+     * 7.1 Reconnaissance légale et soutien juridique à l'accès des sourds
+       à la langue des signes
+
+
+
+   7.2 Reconnaissance des langues signées par pays
+
+     * 7.2.1 France
+--
+
+
+   7.3 Liste des langues des signes
+
+
+
+   7.4 Langue des signes pour bébés
+
+
+
+   7.5 Langue des signes utilisée avec des enfants autistes
+
+
+
+   7.6 Langue des signes tactile
+
+
+--
+
+
+   9 Personnalités sourdes ou ayant recours à la langue des signes
+
+
+--
+   [ ] Basculer la table des matières
+
+Langue des signes
+
+   [ ] 102 langues
+     * Afrikaans
+     * አማርኛ
+--
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   [LSQ_v.jpg] Lettre V en langue des signes québécoise.Preservation of
+   the Sign Language (1913).
+
+   Les langues des signes sont les langues visuo-gestuelles (produites par
+   les mouvements des mains, du visage et du corps dans son ensemble) qui
+   ont émergé au contact des personnes sourdes entre elles et dont
+   l'évolution au cours du temps résulte de la pratique de leurs
+   locuteurs. Elles assurent toutes les fonctions remplies par les langues
+   vocales.
+
+--
+   [modifier | modifier le code]
+
+   Les langues des signes sont des langues naturelles, qui, au même titre
+   que les langues vocales, ont émergé et évolué spontanément au cours du
+   temps par la pratique de leurs locuteurs, sans planification ni
+   prescription consciente ou explicite. Il importe en ce sens de les
+--
+   pédagogiques.
+
+   Des recherches linguistiques récentes^[1]^,^[2] menées sur deux langues
+   des signes apparues récemment en Palestine confirment l'émergence
+   autonome des langues des signes et, partant, leur dimension naturelle :
+   la langue des signes palestinienne, résultant du contact de différentes
+   langues des signes apportées par la migration qu'a connue le pays au
+   cours du XX^e siècle, et la langue des signes bédouine d'Al-Sayyid,
+   apparue spontanément au sein d'une communauté autonome de bédouins
+   comptant de nombreuses personnes sourdes et installée depuis 200 ans
+--
+   l'évolution de leur grammaire au cours des générations. Elles ont
+   décrit l'apparition, en trois générations, d'une des caractéristiques
+   centrales et propres à la grammaire de toutes les langues des signes :
+   l'usage iconique de l'espace, notamment pour les verbes de déplacement
+   et la plupart des verbes transitifs. Une telle évolution linguistique,
+   à savoir l'apparition d'une caractéristique grammaticale absente des
+   langues vocales environnantes, atteste l'autonomie de ces deux langues
+   et, partant, de leur statut de langue naturelle à part entière.
+
+   Le caractère naturel des langues des signes est également attesté par
+   des recherches historiques portant sur l'éducation des enfants sourds
+   en Europe à partir de la fin du XVIII^e siècle initiée par l’abbé de
+   L’Épée à Paris. S'il est difficile, faute de traces et documentations
+   écrites, de remonter aux origines des langues des signes au-delà de
+   cette période^[3], l'étude de la scolarisation des enfants sourds a
+   apporté la preuve que c'est premièrement le regroupement des enfants en
+   institutions séparées qui a contribué à l'émergence des langues signées
+   et a assuré leur transmission d'une génération à l'autre. En effet,
+   l'éducation des enfants sourds a été marquée par des courants
+   radicalement opposés à la langue des signes et à son usage pédagogique,
+   notamment à la suite du Congrès de Milan de 1880, voire plus tôt
+   déjà^[4]^,^[5]. Or, même durant les périodes bannissant toute
+   communication gestuelle, les langues des signes sont parvenues à se
+   maintenir et à se diffuser parmi les enfants sourds. En regroupant les
+   enfants sourds entre eux, les institutions à visée oraliste ont ainsi
+   sans le vouloir contribué à la pratique des langues des signes en
+   dehors de la classe et, partant, à leur transmission et diffusion^[6].
+
+   Des recherches utilisant différentes méthodes de neuroimagerie ainsi
+   qu'une méta-analyse récente ont montré que la langue des signes est
+   traitée dans des réseaux cérébraux qui chevauchent le traitement du
+   langage parlé^[7].
+--
+
+   [modifier | modifier le code]
+   Article détaillé : Histoire de la langue des signes.
+
+   Depuis le congrès de Milan de 1880, les méthodes orales ont été
+   privilégiées dans l'éducation des enfants sourds, au détriment des
+   langues visuelles. Dans les années 1960, le linguiste William Stokoe
+   analyse la structure de la langue des signes américaine (American Sign
+   Language, ASL) et met en évidence qu'elle possède les mêmes
+   caractéristiques linguistiques structurelles que les langues parlées :
+   une phonologie, une grammaire utilisant une syntaxe. Cette découverte
+   apporte alors une légitimité aux langues des signes, qu'elles n'avaient
+   pas auparavant. Les langues des signes entrent alors dans l'éducation
+   des enfants sourds de certains pays. En 1980, la Suède décide ainsi que
+   l'éducation des sourds doit être bilingue : la langue des signes est la
+   première langue des enfants sourds, et le suédois est la langue
+   seconde. Des pays de plus en plus nombreux suivent cet
+   exemple^[8]^,^[9].
+--
+       de bas de page. (Marqué depuis décembre 2024)
+
+   Trouver des sources sur « Langue des signes » :
+     * Archive Wikiwix
+     * Bing
+--
+     * (wd) trouver des œuvres sur Wikidata
+
+   Si la langue des signes est enseignée et diffusée, elle est conçue en
+   tant que « reproduction » d'une langue qu'elle visualise et gestualise.
+   Il faut attendre William Stokoe^[10] pour que la langue des signes soit
+   observée comme une langue à part entière grâce à la description selon
+   le principe de la double articulation qu'André Martinet^[11] développe
+   pour le langage humain en général et atteste pour la langue des signes
+   dans l’introduction à l’Essai de grammaire de la langue des signes
+   française de Nève de Mévergnies^[12]. Ces descriptions, très souvent
+   menées selon les critères d'analyse des langues orales, ont contribué à
+   faire peu à peu reconnaître à ces langues leur statut de langues
+   naturelles à part entière. Cependant du fait que les langues des signes
+   utilisent une modalité visuo-gestuelle et non audio-orale, elles
+   mettent en place des structures spécifiques^[réf. nécessaire], bien
+   différentes de celles des langues orales et nécessitent donc une
+   description circonstanciée.^[réf. nécessaire]
+
+   Comme toute langue, une langue des signes nécessite un apprentissage
+   mais il n'est pas nécessaire d'avoir une surdité pour apprendre ou
+   communiquer en langue des signes. Par exemple de nombreux entendants
+   (enfants de sourds, partenaires, ou interprètes et autres
+   professionnels en contact avec des sourds) parviennent à développer un
+   haut degré de bilinguisme. Selon le Ministère de la Culture^[13], « les
+   langues des signes sont pour les sourds, le seul mode linguistique
+   véritablement approprié, qui leur permette un développement cognitif et
+   psychologique d’une manière équivalente à ce qu’il en est d’une langue
+   orale pour un entendant. »
+
+   On parle souvent quand on traite de la langue des signes d'une « pensée
+   visuelle ».^[réf. nécessaire] Elle remet en question ce que nous
+   considérons habituellement comme appartenant au domaine de la
+   linguistique.^[réf. nécessaire] En effet, selon Christian Cuxac^[14],
+   dans une perspective sémiogénétique^[Qu'est-ce que
+   c'est?]^[réf. nécessaire], le modèle de la langue des signes française
+   propose une bifurcation de visée entre deux types de structures
+   (fréquemment imbriquées dans le discours) :
+--
+       illustrative.^[réf. nécessaire]
+
+La phonologie et la phonétique des langues des signes
+
+   [modifier | modifier le code]
+--
+   [modifier | modifier le code]
+
+   Contrairement aux langues orales, qui s'appuient sur des sons produits
+   par les cordes vocales et modulés par des mouvements d’articulation,
+   les langues des signes (LS) utilisent une combinaison d’éléments
+   visuels tels que la configuration des mains, l'emplacement spatial, le
+   mouvement, l'orientation et les expressions faciales pour structurer et
+--
+   des LS. Dans les années 1960, il a démontré que l’American Sign
+   Language (ASL) possède des structures aussi rigoureuses et organisées
+   que celles des langues parlées. Depuis, les recherches de linguistes
+   comme Wendy Sandler, Diane Lillo-Martin ou encore Diane Brentari ont
+   permis de mieux comprendre la phonétique et la phonologie des LS et de
+--
+       suffisamment différentes pour éviter les ambiguïtés. Par exemple,
+       un changement dans l’emplacement d’un signe peut modifier son sens.
+    2. Phonèmes visuo-gestuels : Les langues des signes reposent sur des
+       unités minimales distinctives, souvent comparées aux phonèmes dans
+       les langues orales. Ces "phonèmes" peuvent inclure des différences
+       dans le mouvement ou l'orientation.
+    3. Assimilation et contraintes phonotactiques : Les LS présentent des
+--
+   [modifier | modifier le code]
+
+   La phonétique des langues des signes repose sur des unités visuelles
+   minimales, ou "phonèmes visuels," organisées en cinq principaux
+   paramètres. Ces paramètres, en interaction, permettent de distinguer
+--
+   indiquer une question, tandis que les expressions faciales renforcent
+   ou modulent l'intensité ou l'émotion d'un signe. Ce paramètre, absent
+   des langues parlées, joue un rôle crucial dans l’expression
+   grammaticale.
+    1. COMMENT ici, les sourcils froncés et le fait de se pencher vers
+--
+       mains.
+
+   Le verbe « demander » en langue des signes française dans trois
+   phrases : « Je vous demande » ; « Vous me demandez » et « Quelqu’un
+   leur demande ».
+--
+       plus raisonnable. (Marqué depuis décembre 2024)
+
+   Trouver des sources sur « Langue des signes » :
+     * Archive Wikiwix
+     * Bing
+--
+   transferts possibles dans un discours. Par exemple, le locuteur prend
+   alors le rôle d’une personne ou encore, met en situation des
+   formes^[16]. Christian Cuxac l'explicite ainsi : « Toutes les langues
+   permettent de reconstruire des expériences, selon des stratégies
+   variées. (…) dans les cas d’ajouts gestuels (ex : un ballon « grand
+--
+   locuteur prend la voix des personnages dont il parle, pour raconter une
+   histoire. On observe alors des phénomènes de prosodie tout à fait
+   intéressants, lors de ces prises de rôle. Au contraire, les langues des
+   signes donnent à voir constamment, à des degrés divers. La grande
+   iconicité est donc l’activation, dans le domaine du discours, d’une
+--
+   [modifier | modifier le code]
+
+   Tout comme les langues orales, les langues des signes (LS) possèdent
+   une syntaxe. Cette syntaxe comporte des éléments communs avec celle des
+   langues orales, ainsi que des spécificités, dues notamment à la
+   modalité visuelle-gestuelle qui caractérise ces langues.
+
+   Ces spécificités sont principalement dues à la capacité de ces langues
+   à exprimer ou articuler plusieurs informations simultanément. Le
+   discours est physiquement effectué dans l'espace autour du signeur
+--
+   [modifier | modifier le code]
+
+   Les langues des signes présentent une plus grande flexibilité en ce qui
+   concerne l'ordre des constituants syntaxiques. En revanche, tout comme
+   pour les langues orales, cette flexibilité n'exclut pas qu'un ordre
+   soit toujours privilégié (considéré alors comme "neutre" ou "non
+   marqué"). Langues orales et langues signées se répartissent
+   principalement entre les ordres SVO (Sujet-Verbe-Objet) et SOV
+   (Sujet-Objet-Verbe), qui représentent environ 87% de la variation
+   linguistique^[19].
+
+   On observe une variation de cet ordre dans les langues signées,
+   phénomène qui peut être largement attribué à la nature non linéaire des
+   langues des signes. La spatialisation et l'iconicité permettant
+   d'expliciter les relations syntaxiques entre les différents éléments de
+   la phrase, l'ordre des constituants syntaxiques en LS est donc
+   généralement moins contraint que celui observé dans les langues orales.
+     * SVO en langue des signe brésilienne (BSL), langue des signes
+       taïwanaise ou en langue des signes américaine (ASL):
+
+     MAN NOTICE CHILD
+--
+     (Fisher, 1975)^[20]
+
+     * SOV en langue des signes autrichienne (ÖGS), langue des signes
+       japonaise (JSL), ou langue des signes allemande (DGS):
+
+     MUTTER BLUME KAUF
+--
+     (Pfau, 2002)^[21]
+
+     * Ordre flexible en langue des signes française (LSF), ou en langue
+       des signes britannique (BSL)^[22]^,^[23].
+
+   La variation de l'ordre des mots en LS est influencée par plusieurs
+   facteurs. En ASL (American Sign Language, Langue des signes
+   américaine), l'ordre SVO est dominant, mais l'ordre SOV est aussi
+   courant; cette variation implique souvent des pauses dans l'énonciation
+--
+   [modifier | modifier le code]
+
+   L’une des caractéristiques fondamentales des langues humaines, qu’elles
+   soient orales ou visuelles, est la récursivité^[23]. On distingue
+   plusieurs types de relations récursives en LS:
+--
+       leur réalisation séquentielle;
+     * La subordination, effectuée à l'aide de marqueurs non manuels. Par
+       exemple, dans la langue des signes Hong-Kongaise (HKSL), les
+       proposition sont distinguées les unes des autres par un clignement
+       des yeux. Le rapport entre des propositions peut également être
+--
+     * La coordination, effectuée à l'aide de signes tels que MAIS, OU,
+       ALORS, QUAND MÊME servant à relier les propositions. Par exemple en
+       langue des signes australienne:
+
+     K-I-M LIKE CAT BUT P-A-T PREFER DOG
+--
+   La distinction entre subordination et coordination en LS est difficile
+   à établir, principalement en raison de l'absence de complémenteurs ou
+   de conjonctions dans de nombreuses langues des signes^[27]. Quelques
+   éléments permettent tout de même d'affirmer que les LS utilisent bien
+   les deux stratégies^[29]. Par exemple, en ASL, la négation est exprimée
+--
+   indépendamment de l'autre^[25].
+
+   En somme, les caractéristiques visuelles-gestuelles de ces langues
+   offrent une grande variété de procédés articulatoires (configuration
+   des mains, marqueurs non-manuels) permettant d'exprimer avec aisance
+--
+   être exprimés en LS peuvent tout de même être compris par le contexte,
+   contexte qui est tout aussi important dans la compréhension pour les
+   langues orales.
+
+Comparaison des langues des signes
+
+   [modifier | modifier le code]
+   [220px-Hole%C4%8Dkova%2C_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg]
+   Relief en béton de langue des signes à Prague : « La vie est belle,
+   soyez heureux et aimez. », par la sculptrice tchèque Zuzana Čížková,
+   sur le mur d'une école pour les élèves sourds.
+
+   Les langues des signes (LS) ne sont pas universelles. Henri Wittmann
+   (1991) a fourni une classification des langues des signes. Il existe en
+   fait, tout comme pour le langage oral, autant de langues des signes que
+   de communautés différentes de sourds, chaque langue des signes ayant
+   son histoire, ses unités signifiantes et son lexique. Le développement
+   d'une langue des signes dépend de la vivacité de la communauté des
+   personnes qui la composent, comme pour une langue vocale. Les langues
+   des signes sont indépendantes des langues orales pratiquées dans les
+   mêmes régions ; par exemple, en France, le signe « Maman » est
+   différent selon les régions voire selon les départements.
+
+   En dépit des différences entre les langues des signes du monde, la
+   compréhension et la communication est rapidement possible entre deux
+   personnes maîtrisant des langues des signes différentes. Cela pourrait
+   s'expliquer par plusieurs facteurs : proximité des structures
+   syntaxiques employées d'une langue des signes à une autre, ou encore
+   existence pour certains mots de liens naturels entre signifiant et
+   signifié (la lettre C imitée avec la main, le signe
+   « téléphoner »...)^[28].
+
+Reconnaissance légale et soutien juridique à l'accès des sourds à la langue
+des signes
+
+   [modifier | modifier le code]
+
+   Seules quelques-unes de la centaine de langues des signes dans le monde
+   ont obtenu une reconnaissance légale, les autres ne bénéficiant d'aucun
+   statut officiel.
+
+   Aujourd'hui encore, faute d'information, de nombreuses personnes
+   sourdes ou parents de sourds ne connaissent pas l'existence des langues
+   des signes et considèrent avant tout la surdité comme un handicap. Il
+   semble nécessaire d'avoir une approche différente de la simple vision
+   curative de la surdité et de prendre en considération la réalité
+   sociale et linguistique des langues des signes. De nombreux pays
+   souhaitent avant tout un épanouissement des personnes et développent
+   l'accès en langue des signes aux lieux publics^[30], aux
+   universités^[31], etc.
+
+Reconnaissance des langues signées par pays
+
+   [modifier | modifier le code]
+   Article détaillé : Reconnaissance légale des langues des signes.
+     * En Algérie, la langue des signes algérienne (LSA) est reconnue
+       officiellement par la loi du 8 mai 2002 relative à la protection et
+       à la promotion des personnes handicapées.
+     * En Allemagne, la langue des signes allemande, est reconnue
+       officiellement par la loi du 27 avril 2002^[32].
+     * En Australie, l'auslan est reconnue officiellement en 1987 et en
+       1991 par le Gouvernement d'Australie.
+     * En Autriche, la langue des signes autrichienne est reconnue
+       officiellement le 1^er septembre 2005. La constitution d'Autriche
+       est modifiée : Die Österreichische Gebärdensprache ist als
+       eigenständige Sprache anerkannt. Das Nähere bestimmen die Gesetze
+       (« La langue des signes autrichienne est reconnue comme langue
+       indépendante »)^[33].
+     * En Belgique, la langue des signes belge francophone est reconnue
+       officiellement le 21 octobre 2003 par le parlement de la Communauté
+       française de Belgique, la langue des signes flamande est reconnue
+       le 26 avril 2006 par le parlement flamand et la langue des signes
+       allemande est officiellement reconnue le 25 février 2019 par le
+       parlement germanophone^[34].
+     * Au Brésil, le libras est reconnue officiellement en 2002 dans le
+       domaine de l'éducation. Il est statué que chaque enfant sourd a le
+       droit d'apprendre en sa propre langue et d'avoir le portugais comme
+       2^e langue.
+     * Dans la République tchèque, la langue des signes tchèque est
+       reconnue en 1998^[35].
+     * Au Canada, la province du Manitoba est la première à reconnaître
+       officiellement la langue des signes américaine comme celle des
+       communautés sourdes en milieu anglophone en 1988, suivi de
+       l'Alberta qui reconnaît l'ASL comme langue optionnelle dans
+       l'enseignement en 1990 et l'Ontario qui reconnaît l'ASL et la LSQ
+       comme langues d'enseignement en 1993.
+     * Le Parlement européen approuve une résolution concernant les
+       langues des signes le 17 juin 1988. La résolution demande à tous
+       les États-membres la reconnaissance de sa langue des signes comme
+       langue officielle des sourds.
+     * En Espagne, dans la Ley 27/2007, du 23 octobre, les langues de
+       signes espagnoles sont reconnues officiellement^[36].
+     * Aux États-Unis, American Sign Language est reconnue dans plusieurs
+       États en tant que langue étrangère.
+     * En Finlande, la langue des signes finnoise est reconnue dans la
+       Constitution de Finlande en août 1995.
+     * En France, dans l'article 75 du code de l'éducation, la langue des
+       signes française est reconnue à part entière dans le domaine de
+       l'enseignement sous la loi du 11 février 2005^[37].
+     * En Norvège, la langue des signes norvégienne est reconnue. Une
+       émission quotidienne Nyheter på tegnspråk (« Actualités en langue
+       des signes ») est diffusée chaque jour sur la chaîne de télévision
+       de Norsk rikskringkasting.
+     * En Nouvelle-Zélande, la langue des signes néo-zélandaise est la
+       première langue des signes à devenir, le 11 avril 2006^[38], une
+       langue officielle. C'est la troisième langue officielle du pays,
+       après l'anglais (langue officielle de facto) et le maori.
+     * En Ouganda, la langue des signes d'Ouganda est reconnue dans la
+       constitution.
+     * Au Portugal, la langue des signes portugaise est reconnue dans le
+       domaine de l'éducation dans la constitution du Portugal.
+     * En Slovaquie, la langue des signes slovaque est reconnue en 1995
+       dans la loi de langue des signes des sourds 149/1995.
+     * En Thaïlande, la langue des signes thaïlandaise est reconnue le 17
+       août 1999.
+     * Au Venezuela, la langue des signes vénézuélienne est reconnue le 12
+       novembre 1999 dans la constitution.
+
+--
+     * Article L. 112-2-2 : Dans l'éducation et le parcours scolaire des
+       jeunes sourds, la liberté de choix entre une communication bilingue
+       - langue des signes et langue française - et une communication en
+       langue française est de droit. Un décret en Conseil d'État fixe,
+       d'une part, les conditions d'exercice de ce choix pour les jeunes
+       sourds et leurs familles, d'autre part, les dispositions à prendre
+       par les établissements et services où est assurée l'éducation des
+       jeunes sourds pour garantir l'application de ce choix.
+     * Article L. 312-9-1 : La langue des signes française est reconnue
+       comme une langue à part entière. Tout élève concerné doit pouvoir
+       recevoir un enseignement de la langue des signes française. Le
+       Conseil supérieur de l'éducation veille à favoriser son
+       enseignement. Il est tenu régulièrement informé des conditions de
+--
+       professionnelle. Sa diffusion dans l'administration est facilitée.
+
+   Une émission d'information en langue des signes existe sur la chaîne de
+   télévision France Info^[39].
+
+--
+   C’est le 11 avril 2006, après une troisième lecture du texte de loi,
+   loi publique numéro 18, que le Parlement de Nouvelle-Zélande a reconnu
+   la langue des signes comme langue officielle (NZSL). C’est le premier
+   pays à reconnaître la langue des signes comme telle. Le but premier de
+   cette loi étant de rendre obligatoire l’utilisation de la NZSL dans le
+   système juridique afin de garantir à la communauté sourde d’avoir le
+--
+   système politique^[40].
+
+Liste des langues des signes
+
+   [modifier | modifier le code]
+   Article détaillé : Liste des langues des signes.
+
+Langue des signes pour bébés
+
+   [modifier | modifier le code]
+   Article détaillé : Langue des signes pour bébé.
+
+   Depuis la fin du XX^e siècle, on assiste à l'émergence de l'utilisation
+   de la langue des signes pour faciliter la communication entre parents
+   et enfants pré-verbaux. Lors des trois premières années, l'utilisation
+   de la Langue des signes pour bébés permet de communiquer avec le
+   nourrisson et ainsi créer les premiers échanges entre parent et enfant.
+
+Langue des signes utilisée avec des enfants autistes
+
+   [modifier | modifier le code]
+
+   Certaines langues des signes se sont montrées être des compléments
+   intéressants (ou une alternative) aux systèmes de communication dits
+   « améliorés et alternatifs » (CAA) utilisés pour mieux communiquer avec
+--
+   faciliter la production de vocalisations et de mots^[41]. Selon une
+   revue de la littérature publiée en 2022, la communication simultanée
+   (associant la voix aux signes, et utilisant la syntaxe d’une langue
+   vocale) était à cette date, le système d’apprentissage le plus
+   documenté par les études sur le sujet^[41].
+
+Langue des signes tactile
+
+   [modifier | modifier le code]
+--
+     * Sur mes lèvres (Jacques Audiard, 2001) : Carla Behm (Emmanuelle
+       Devos), sourde, avertit son amoureux Paul (Vincent Cassel),
+       recherché par des truands, du danger en langue des signes à travers
+       la fenêtre.
+     * 11 regards sur le 11 septembre (co-réalisé par 11 réalisateurs,
+--
+     * La Famille Bélier (Éric Lartigau, 2014) : seule entendante dans une
+       famille de sourds, Paula (Louane Emera), tout en chantant, traduit
+       pour cette dernière en langue des signes la chanson de Michel
+       Sardou Je vole au cours d'une audition pour le concours de la
+       maîtrise de Radio France.
+--
+       Heurtin (1885-1921) femme française sourde et aveugle de naissance.
+     * J'avancerai vers toi avec les yeux d'un sourd (Laetitia Carton,
+       2015) : film documentaire sur la langue des signes française (LSF),
+       la culture sourde et le monde des sourds.
+     * Koe no Katachi (Naoko Yamada, 2016) : adaptation en film animé de
+--
+       renvoyer de son lycée car il harcèle régulièrement Nishimiya, une
+       collègue de classe sourde. Des années plus tard, il apprend la
+       langue des signes et part à la recherche de la jeune fille.
+     * La Forme de l'eau (Guillermo del Toro, 2017) : le personnage
+       principal est une muette ne s'exprimant qu'avec la langue des
+       signes.
+     * Sans un bruit (John Krasinski, 2018) : l'humanité est au bord de
+--
+       aveugles mais sensibles au moindre bruit. Pour ne pas se faire
+       tuer, les quelques humains survivants restent muets en permanence
+       et ne communiquent que par la langue des signes.
+     * Rampage (Brad Peyton, 2018) : Dwayne Johnson, qui joue un
+       primatologue, communique avec son gorille albinos, George, par
+       langue des signes.
+     * Sound of métal (Marius Marder, 2019) : Ruben est musicien de hard
+       rock. Lorsqu'il devient brutalement sourd, il découvre le monde des
+       Sourds.
+     * Hawkeye : Alaqua Cox, qui joue un rôle d'un personnage muet qui
+       communique par la langue des signes.
+     * CODA : adaptation américaine de La Famille Bélier.
+     * Les Éternels (Chloé Zhao, 2021) : Lauren Ridloff, une actrice
+--
+       C'est le premier super-héros sourd à faire son apparition au
+       cinéma. Son statut de film du MCU, ainsi que l'engouement autour du
+       personnage marque un regain d'intérêt pour les langues des signes.
+
+Personnalités sourdes ou ayant recours à la langue des signes
+
+   [modifier | modifier le code]
+--
+       (ISBN 978-3-0340-1569-1 et 3-0340-1569-0, OCLC 1130376461, lire en
+       ligne)
+    6. ↑ Aude de Saint Loup, « Tribulations des langues des signes du XIXe
+       siècle à nos jours », TIPA. Travaux interdisciplinaires sur la
+       parole et le langage, n^o 34,‎ 20 juillet 2018 (ISSN 2264-7082,
+--
+       Paris, 1960.
+   12. ↑ François-Xavier Nève de Mévergnies, Essai de grammaire de la
+       langue des signes française, Fascicule CCLXXI, Bibliothèque de la
+       Faculté de Philosophie et Lettres, Université de Liège, Belgique,
+       1996.
+   13. ↑ Voir sur le site de la Délégation générale à la langue française
+       et aux langues de France.
+   14. ↑ Christian Cuxac, Fonctions et structures de l’iconicité dans les
+       langues des signes ; analyse descriptive d’un idiolecte parisien de
+       la langue des signes française, thèse de doctorat d’État,
+       Université de Paris V. et Christian Cuxac, La Langue des signes
+       française. Les voies de l’iconicité, Ophrys, Faits de Langue
+       n^o 15-16, Paris, 2000.
+   15. ↑ M-A Sallandre, Les unités du discours en langue des signes
+       française. Tentative de catégorisation dans le cadre d’une
+       grammaire de l’iconicité, thèse de doctorat d'État, Université de
+       Paris VIII, 2003.
+   16. ↑ M-A Sallandre, Va-et-vient de l’iconicité en langue des signes
+       française ; Acquisition et interaction en langue étrangère en
+       ligne.
+   17. ↑ Agnès Millet et Marion Kobylanski (ill. Laurent verlaine), LSF,
+       grammaire pratique. Comprendre, enseigner, apprendre, Grenoble, UGA
+       Éditions, coll. « Langues, gestes, paroles. », 2023, 348 p.
+       (ISBN 978-2-37747-444-8, lire en ligne), chap. 5.3, p 194-212
+   18. ↑ ^a b c et d Agnes Millet et Marion Kobylanski (ill. Laurent
+       Verlaine), LSF, grammaire pratique. Comprendre, enseigner,
+       apprendre, Grenoble, UGA édition, coll. « Langues, gestes,
+       paroles. », 2023, 348 p. (ISBN 978-2-37747-444-8, lire en ligne),
+       chap. 6.3, p. 228-248
+--
+       data.over-blog-kiwi.com/0/95/30/84/20160829/ob_b65106_franceinfo-gr
+       ille-tv.pdf.
+   40. ↑ « Nouvelle-Zélande: Loi sur la langue des signes néo-zélandaise
+       de 2006 », sur www.axl.cefan.ulaval.ca (consulté le 29 avril 2021)
+   41. ↑ ^a b et c E. Adam et V. Cruveiller, « L’utilisation des langues
+       des signes avec les enfants autistes : une revue de la
+       littérature », Neuropsychiatrie de l'Enfance et de l'Adolescence,
+--
+
+   Sur les autres projets Wikimedia :
+     * Langues des signes, sur Wikimedia Commons
+     * Département de langues des signes, sur Wikiversity
+
+Bibliographie
+--
+       (ISBN 270719994X et 9782707199942, présentation en ligne, lire en
+       ligne).
+     * Ivani Fusellier-Souza, « Sémiogenèse des langues des signes. Étude
+       de langues de signes émergentes (LSE) pratiquées par des sourds
+       brésiliens », thèse, Université de Paris VIII, École Doctorale
+       « Cognition, Langage, Interaction »,‎ 4 décembre 2004 (lire en
+--
+     * (en) Trevor A. Johnston, « The Sign Language of the Australian Deaf
+       community », thèse, Université de Sydney,‎ 1989 (lire en ligne).
+     * Henri Wittmann, « Classification linguistique des langues signées
+       non vocalement », Revue québécoise de linguistique théorique et
+       appliquée, vol. 10, n^o 1,‎ 1991, p. 215-288 (lire en ligne).
+--
+
+   [modifier | modifier le code]
+     * Liste des langues des signes, Famille de la langue des signes,
+       Histoire de la langue des signes
+     * Alphabet dactylologique, Alphabet bimanuel
+     * Histoire des sourds, Surdité
+     * Langue des signes pour bébé
+     * Langue des signes française (LSF)
+     * Langue des signes de Belgique francophone (LSFB)
+     * Langue des signes québécoise (LSQ)
+     * Cerveau et langue des signes
+     * Langue
+
+Liens externes
+--
+     * Fédération Nationale des Sourds de France (FNSF)
+          + Anniversaire des 300 ans de la naissance de L'Abbé de l'Épée
+     * Introduction à la Langue des Signes Française : la place du sourd
+       et de sa langue en France Un article d'Aliyah Morgenstern
+     * Elix : dictionnaire gratuit français/langue des signes, plus de
+       6000 signes et 8000 définitions en LSF
+     * Ressources relatives à la santé Voir et modifier les données sur
+--
+
+   v · m
+   Langue des signes
+     * Histoire de la langue des signes
+     * Liste des langues des signes
+
+   Langues des signes
+   à l'usage des sourds Langues des signes principales :
+     * Internationale
+     * Afrique :
+--
+          + hawaïenne (en)
+
+   Langues des signes villageoises (en) :
+     * Afrique :
+          + Ghana
+--
+               o Mardin (en)
+
+   Langues des signes auxiliaires
+     * monastique
+     * Indiens des plaines américaines
+--
+   Reconnaissance légale
+
+     * Statut des langues des signes en Afrique
+     * Statut des langues des signes en Amérique
+          + Canada
+          + États-Unis
+     * Statut des langues des signes en Asie
+     * Statut des langues des signes en Europe
+     * Statut des langues des signes en Océanie
+
+   Histoire de l'éducation des sourds
+--
+     * Mon œil
+     * Roulement des yeux
+     * Rouler la langue
+
+   Jeu de main
+--
+
+     * Communication non verbale
+     * Langue des signes
+
+     * icône décorative Portail des langues
+     * icône décorative Portail de la linguistique
+     * icône décorative Portail de la culture sourde
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Langue_des_signes&oldid=22
+   1610970 ».
+
+   Catégories :
+     * Langue des signes
+     * Signal visuel
+
+--
+     * Article de Wikipédia avec notice d'autorité
+     * Article contenant un appel à traduction en anglais
+     * Portail:Langues/Articles liés
+     * Portail:Langues/Articles liés directement
+     * Portail:Société/Articles liés
+     * Portail:Linguistique/Articles liés

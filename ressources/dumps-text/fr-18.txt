@@ -1,0 +1,755 @@
+   #Global Search
+
+   Skip to main content
+
+   (BUTTON) Toggles Table of Contents Menu menu
+   Library homepage
+
+   (BUTTON) search Search (BUTTON) build_circle Tools (BUTTON) fact_check
+   Homework (BUTTON) cancel Exit Reader View
+
+     * school Campus Bookshelves
+     * menu_book Bookshelves
+     * perm_media Learning Objects
+
+     * login Login
+     * how_to_reg Request Instructor Account
+     * hub Instructor Commons
+
+   Search this book ____________________ (BUTTON) Search
+     * (BUTTON) Downloads expand_more
+          + (BUTTON) Download Page (PDF)
+          + (BUTTON) Download Full Book (PDF)
+          + (BUTTON) Order Print Book
+     * (BUTTON) Resources expand_more
+          + (BUTTON) Periodic Table
+          + (BUTTON) Physics Constants
+          + (BUTTON) Scientific Calculator
+     * (BUTTON) Reference & Cite
+     * (BUTTON) Readability
+     * (BUTTON) Feedback
+     * (BUTTON) Help
+
+
+
+   x
+
+   selected template will load here
+
+Error
+
+   (BUTTON)
+
+   This action is not available.
+
+
+   Library homepage
+   (BUTTON) chrome_reader_mode Enter Reader Mode
+
+   6 : Langue et communication
+   Introduction à l'anthropologie (OpenStax)
+   { }
+   { "6.01:_Pr\u00e9sentation" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "6.02:_L\'\u00e9mergence_et_le_d\u00e9veloppement_du_langage" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "6.03:_Le_langage_et_l\'esprit" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "6.04:_Langue,_communaut\u00e9_et_culture" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "6.05:_Performativit\u00e9_et_rituel" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "6.06:_Langage_et_pouvoir" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "6.07:_Termes_cl\u00e9s" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "6.08:_R\u00e9sum\u00e9" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "6.09:_Questions_relatives_\u00e0_la_pens\u00e9e_critique" : "property
+   get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "6.10:_Bibliographie" : "property
+   get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()" }
+   { "00:_Front_Matter" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "01:_Qu\'est-ce_que_l\'anthropologie_?" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "02:_M\u00e9thodes_culturelles_et_arch\u00e9ologiques" : "property get
+   [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "03:_Th\u00e9orie_des_concepts_culturels_-_Th\u00e9ories_du_changement_
+   culturel" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "04:_\u00c9volution_biologique_et_premi\u00e8res_preuves_humaines" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "05:_Le_genre_Homo_et_notre_\u00e9mergence" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "06:_Langue_et_communication" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "07:_Travail,_vie_et_valeur_-_Anthropologie_\u00e9conomique" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "08:_Autorit\u00e9,_d\u00e9cisions_et_pouvoir_-_Anthropologie_politique
+   " : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "09:_In\u00e9galit\u00e9s_sociales"
+   : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "10:_L\'impact_mondial_de_la_migration_humaine" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "11:_Former_une_famille_par_la_parent\u00e9" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "12:_Genre_et_sexualit\u00e9" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "13:_Religion_et_culture" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "14:_Anthropologie_de_l\'alimentation" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "15:_Anthropologie_des_m\u00e9dias"
+   : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "16:_Art,_musique_et_sport" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "17:_Anthropologie_m\u00e9dicale" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "18:_Relation_homme-animal" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "19:_Anthropologie_indig\u00e8ne" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "20:_L\'anthropologie_sur_le_terrain" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "zz:_Mati\u00e8re_dorsale" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()" }
+   Tue, 01 Nov 2022 04:18:50 GMT
+   6.3 : Le langage et l'esprit
+   190654
+   190654
+   LibreBot
+   { }
+   Anonymous
+   Anonymous
+   2
+   false
+   false
+   [ "article:topic", "showtoc:no", "license:ccby", "licenseversion:40",
+   "authorname:openstax", "program:openstax", "author@David G. Lewis",
+   "author@Jennifer Hasty", "author@Marjorie M. Snipes",
+   "source@https://openstax.org/details/books/introduction-anthropology",
+   "source[translate]-socialsci-150221" ]
+   [ "article:topic", "showtoc:no", "license:ccby", "licenseversion:40",
+   "authorname:openstax", "program:openstax", "author@David G. Lewis",
+   "author@Jennifer Hasty", "author@Marjorie M. Snipes",
+   "source@https://openstax.org/details/books/introduction-anthropology",
+   "source[translate]-socialsci-150221" ]
+   https://query.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fq
+   uery.libretexts.org%2FFrancais%2FIntroduction_%25C3%25A0_l'anthropologi
+   e_(OpenStax)%2F06%253A_Langue_et_communication%2F6.03%253A_Le_langage_e
+   t_l'esprit
+
+   Global
+
+    1. Search site
+       Search ____________________ (BUTTON) Search
+       Go back to previous article
+    2.
+         1. ____________________ Username
+            ____________________ Password
+            (BUTTON) Sign in
+         2. Sign in
+               o Sign in
+               o Forgot password
+
+   (BUTTON) Expand/collapse global hierarchy
+    1. Home
+    2. Français
+    3. Introduction à l'anthropologie (OpenStax)
+    4. 6 : Langue et communication
+    5. 6.3 : Le langage et l'esprit
+
+   (BUTTON) Expand/collapse global location
+
+                          6.3 : Le langage et l'esprit
+
+    1.
+
+        Last updated
+
+    2. Save as PDF
+    3.
+
+
+
+   Page ID
+          190654
+
+     *
+     * David G. Lewis, Jennifer Hasty, & Marjorie M. Snipes
+     * OpenStax
+
+   \( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup}
+   {\mathbf{#1}} } \) \(
+   \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smas
+   h {#1}}} \)\(\newcommand{\id}{\mathrm{id}}\) \(
+   \newcommand{\Span}{\mathrm{span}}\) \(
+   \newcommand{\kernel}{\mathrm{null}\,}\) \(
+   \newcommand{\range}{\mathrm{range}\,}\) \(
+   \newcommand{\RealPart}{\mathrm{Re}}\) \(
+   \newcommand{\ImaginaryPart}{\mathrm{Im}}\) \(
+   \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1
+   \|}\) \( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\) \(
+   \newcommand{\Span}{\mathrm{span}}\) \(\newcommand{\id}{\mathrm{id}}\)
+   \( \newcommand{\Span}{\mathrm{span}}\) \(
+   \newcommand{\kernel}{\mathrm{null}\,}\) \(
+   \newcommand{\range}{\mathrm{range}\,}\) \(
+   \newcommand{\RealPart}{\mathrm{Re}}\) \(
+   \newcommand{\ImaginaryPart}{\mathrm{Im}}\) \(
+   \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1
+   \|}\) \( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\) \(
+   \newcommand{\Span}{\mathrm{span}}\)\(\newcommand{\AA}{\unicode[.8,0]{x2
+   12B}}\)
+
+    1. Objectifs d'apprentissage
+    2. Le relativisme linguistique et l'hypothèse Sapir-Whorf
+    3. Universels linguistiques et taxonomies populaires
+    4. Vidéo
+         1. Vox : le motif surprenant qui se cache derrière les noms de
+            couleurs dans le monde
+    5. Signification et métaphore
+
+Objectifs d'apprentissage
+
+   À la fin de cette section, vous serez en mesure de :
+     * Décrivez le rôle du langage dans la catégorisation des objets du
+       monde naturel.
+     * Expliquez l'hypothèse Sapir-Whorf.
+     * Donnez au moins deux exemples d'universaux linguistiques.
+     * Décrivez comment la métaphore façonne la façon dont nous parlons de
+       concepts abstraits.
+
+   Comme indiqué dans la section précédente, certaines capacités
+   cognitives étaient cruciales pour le développement du langage chez les
+   humains. Et réciproquement, une fois que le langage est apparu, il a
+   façonné nos pensées et nos actions de manière à aider notre espèce à
+   coopérer, à inventer, à apprendre et à s'adapter à l'environnement. La
+   langue a dû être un élément fondamental de la création de la culture
+   humaine (singulier) et de son évolution ultérieure vers des cultures
+   humaines (pluriel), alors que différents groupes d'humains se sont
+   déplacés dans différentes zones géographiques et ont commencé à
+   s'adapter à différentes conditions.
+
+   L'un des principaux avantages du langage est qu'il permet de coder des
+   informations spécifiques sur l'environnement et de partager ces
+   informations avec d'autres afin qu'elles perdurent dans le temps. Si,
+   par exemple, il y a des serpents dans une zone, il serait certainement
+   important de distinguer les serpents venimeux des serpents inoffensifs.
+   Il y aurait donc probablement des mots distincts pour ces deux
+   catégories de serpents ou au moins des mots pour chaque serpent en
+   particulier afin que les gens puissent s'alerter mutuellement de la
+   présence d'un un.
+
+   Cela signifie que le langage précoce doit avoir été développé en
+   fonction des conditions environnementales. Les anthropologues
+   linguistiques s'intéressent à la façon dont la langue varie selon les
+   cultures, en fonction des différentes conditions environnementales,
+   historiques et socioculturelles. C'est ce qu'on appelle la relativité
+   linguistique.
+
+   D'autre part, les langues sont également limitées par l'anatomie
+   humaine et les capacités cognitives. Supposons qu'il y ait deux espèces
+   de serpents dans une région, l'une toxique et l'autre inoffensive, mais
+   qu'on ne puisse pas les différencier en les regardant. (Il s'agit en
+   fait d'une stratégie adaptative déployée par des animaux inoffensifs
+   appelée mimétisme adaptatif.) Dans ce cas, les premiers humains
+   n'auraient probablement eu qu'un seul mot pour désigner serpent,
+   indiquant que parfois la morsure d'un serpent vous rendait malade et
+   parfois non. Comme le montre cet exemple, l'appareil visuel humain
+   façonne notre compréhension du monde, qui, à son tour, façonne notre
+   langage.
+
+   Prenons un autre exemple du monde naturel : le scarabée. Il existe plus
+   de 300 000 types de coléoptères dans le monde. Combien pouvez-vous en
+   nommer ? Tous ? Dix d'entre eux ? Deux d'entre eux ? En dehors de la
+   taxonomie scientifique écrite, aucune langue au monde ne contient des
+   termes distincts pour chaque type de coléoptère. Non seulement parce
+   qu'il n'y a que quelques milliers de coléoptères de chaque type vivant
+   dans un même environnement, mais aussi parce que le nombre de termes
+   que chacun peut apprendre et mémoriser est limité. Notre vocabulaire
+   est limité par les limites de la mémoire humaine.
+   Un grand présentoir contenant une variété d'espèces de coléoptères de
+   toutes formes et tailles. Figure 6.10 Tant de coléoptères. Combien
+   pouvez-vous en nommer ? Il existe plus de 300 000 types de coléoptères
+   dans le monde. En dehors de la taxonomie scientifique écrite, aucune
+   langue au monde ne contient de termes distincts pour chaque type de
+   coléoptère. (crédit : « présentoir 3 » par Joana Cristovao, Muséum
+   d'histoire naturelle/Flickr, CC BY 2.0)
+
+   Le langage est donc façonné non seulement par les conditions
+   environnementales, mais également par la façon dont les humains
+   interagissent avec leur environnement. Notre anatomie humaine commune
+   influence notre compréhension du monde, et cette compréhension
+   s'exprime dans le langage. Cette idée suggère que toutes les langues
+   doivent avoir des points communs du fait que tous les humains ont la
+   même anatomie et les mêmes capacités cognitives. Certains
+   anthropologues linguistiques souhaitent découvrir ces universaux
+   linguistiques.
+
+   Dans la section suivante, nous examinons des recherches intrigantes sur
+   la relativité linguistique et les universaux linguistiques, dans le but
+   de mieux comprendre comment le langage interagit avec notre esprit
+   humain.
+
+Le relativisme linguistique et l'hypothèse Sapir-Whorf
+
+   Comme nous l'avons vu dans les chapitres précédents, il était
+   malheureusement courant pour les chercheurs du début du XXe siècle de
+   penser que les sociétés non occidentales étaient arriérées et
+   primitives, incapables de penser de manière complexe et abstraite.
+   Franz Boas a travaillé d'arrache-pied pour réfuter ces notions
+   racistes, cherchant à démontrer la même sophistication de tous les
+   peuples et de toutes les cultures. Boas a formé un étudiant du nom
+   d'Edward Sapir qui s'intéressait particulièrement à la façon dont les
+   langues non occidentales véhiculaient des formes de pensée complexes et
+   abstraites différentes des habitudes de pensée euro-américaines. Sapir,
+   à son tour, a formé un étudiant nommé Benjamin Whorf qui a approfondi
+   ce thème dans ses propres recherches (Ahearn 2017). Le résultat est ce
+   que nous avons fini par appeler l'hypothèse « Sapir-Whorf ».
+
+   L'hypothèse Sapir-Whorf soutient que la langue particulière que vous
+   parlez influence la façon dont vous percevez la réalité (Lucy 2001).
+   Ainsi, les différentes langues encouragent différentes habitudes de
+   pensée. Il s'agit là d'un principe essentiel de la relativité
+   linguistique. Whorf a fondé son argument sur une comparaison entre la
+   langue amérindienne de Hopi et ce qu'il a appelé le « Standard Average
+   European » (SAE), une vaste catégorie de langues européennes dont
+   l'anglais. Whorf s'est intéressé à la façon dont les locuteurs de
+   chaque langue peuvent penser différemment du temps. Dans le vocabulaire
+   anglais, le temps est divisé en unités qui peuvent être comptées. Les
+   anglophones parlent du nombre de secondes, de minutes ou de jours avant
+   un événement ou du nombre de mois ou d'années qui se sont écoulés
+   depuis qu'un événement s'est produit. À Hopi, selon Whorf, le temps est
+   conçu comme indivisible et durable, tout un processus se déroulant. Les
+   Hopi parlent du déroulement des événements d'une manière complètement
+   différente, d'une manière procédurale que Whorf a appelée « concours
+   complet ». Whorf a fait valoir que ces caractéristiques linguistiques
+   ont profondément influencé la vie socioculturelle dans chacun de ces
+   deux contextes. Fidèle à la compréhension du temps en tant que
+   processus, la culture Hopi a mis l'accent sur la préparation,
+   l'endurance et l'intensité. En coordination avec l'expression du temps
+   en tant qu'unités dénombrables de la SAE, la culture euro-américaine a
+   mis l'accent sur les horaires, la comptabilité et la tenue De
+   nombreuses personnes utilisent un calendrier pour suivre les réunions,
+   les rendez-vous et les devoirs. Whorf soutient que la langue anglaise
+   nous encourage à penser le temps et les événements de cette manière,
+   comme un ensemble de boîtes spatialisées à remplir d'objets discrets.
+
+   À propos de l'hypothèse Sapir-Whorf, on dit parfois que les
+   « Esquimaux » ont 400 mots pour désigner la neige. Cette notion est à
+   la fois problématique et fausse. Le premier problème est que le terme
+   « esquimau » est considéré comme un terme péjoratif par les peuples
+   inuit et aléoutiens auxquels il a été appliqué. Et, deuxièmement,
+   l'affirmation s'avère erronée. L'anthropologue Laura Martin (1986,
+   également décrite dans Ahearn 2017) a démystifié le mythe en
+   documentant que les peuples de l'Arctique n'ont en réalité que deux
+   mots de base pour parler de neige, l'un pour la neige qui tombe et
+   l'autre pour la neige qui tombe sur le sol. Ils utilisent ces racines
+   comme le feraient les anglophones pour parler des tempêtes de neige,
+   des flocons de neige, des congères et de la fonte des neiges.
+   L'hypothèse Sapir-Whorf n'est généralement plus appliquée aux
+   vocabulaires des différentes cultures.
+
+   Rappelez-vous l'exemple précédent concernant les serpents. Nous avons
+   émis l'hypothèse qu'une culture pourrait ne pas faire de distinction
+   entre deux espèces de serpents si ces derniers semblaient identiques.
+   Mais si les gens se rendaient compte peu à peu que les serpents
+   venimeux se trouvaient toujours dans les arbres alors que les serpents
+   inoffensifs se trouvaient toujours sur le sol, il est probable qu'un
+   terme différent serait utilisé pour désigner le type de serpent
+   arboricole, celui qui a la morsure nuisible. En d'autres termes, même
+   si une culture ne comptait auparavant qu'un seul terme pour désigner le
+   serpent, les membres de cette culture pouvaient facilement comprendre
+   qu'il en existait deux types et seraient en mesure de changer de langue
+   pour indiquer cette différence dans leur vocabulaire pour référence
+   future. Leur vocabulaire ne limiterait pas leur pensée à un point tel
+   qu'ils ne pourraient concevoir deux types de serpents différents.
+
+   Plutôt que des mots de vocabulaire spécifiques, les chercheurs qui
+   étudient la relativité linguistique en sont venus à se concentrer sur
+   des sujets abstraits plus vastes tels que l'espace. Dans des langues
+   comme l'anglais, lorsque les gens veulent indiquer à quelqu'un où se
+   trouve un objet en particulier, ils utilisent le plus souvent un
+   langage centré sur leur propre corps. Les anglophones disent : « Vous
+   avez un peu de roquette sur le côté gauche de la bouche » ou « Prenez
+   le chapeau haut de forme rose sur l'étagère au-dessus de vous ». Cette
+   façon de parler repose sur le corps humain comme point de référence et
+   est donc relative au corps du locuteur et/ou de l'auditeur. Cela crée
+   de la confusion lorsque l'orateur fait face à la personne à qui il
+   parle, ce qui incite parfois quelqu'un à dire : « Non, ma gauche, pas
+   ta gauche ! » Steven Levinson a mené des recherches sur les langages
+   qui n'utilisent pas du tout le corps humain pour parler de direction
+   (2003). Ils utilisent plutôt les directions cardinales (nord, sud, est,
+   ouest) et les caractéristiques spécifiques de leur environnement
+   (montagnes, océans) pour parler de la situation. Un locuteur de la
+   langue indigène australienne Guugu Yimithirr pourrait dire :
+   « Attention au serpent qui se trouve juste au nord de votre pied ! »
+   Cette façon de parler de l'espace est absolue et non relative. De tels
+   orateurs n'ont jamais à dire « Non, mon nord, pas votre nord », car il
+   n'y a qu'un seul nord absolu. Les recherches suggèrent que ces
+   différentes méthodes de calcul nous donnent différents types de cartes
+   mentales, de sorte qu'une personne parlant le guugu yimithirr pourrait
+   être meilleure en navigation absolue qu'une anglophone, et peut-être
+   plus habile à retrouver le chemin du retour chez elle si elle perdait
+   son chemin.
+
+Universels linguistiques et taxonomies populaires
+
+   Alors que les relativistes linguistiques explorent comment différents
+   modèles linguistiques façonnent différents modèles de pensée (et vice
+   versa), d'autres linguistes s'intéressent à la manière dont toutes les
+   langues sont limitées par notre biologie humaine commune et à la
+   recherche de modèles linguistiques universels. Certains domaines
+   linguistiques spécifiques se prêtent particulièrement bien à ce type de
+   recherche. L'un d'eux est la couleur. La raison en est que la couleur
+   dépend directement de notre système visuel humain, invariant d'une
+   culture à l'autre.
+
+   Et pourtant, il existe une énorme diversité dans la manière dont les
+   différentes cultures divisent le spectre des couleurs possibles.
+   Certaines cultures ont des centaines de termes de couleur, tandis que
+   d'autres n'en ont que deux ou trois. Les chercheurs Brent Berlin et
+   Paul Kay ont analysé les systèmes de termes de couleur de 98 langues et
+   ont découvert que la diversité des systèmes de termes de couleur est
+   régie par un ensemble de règles. Tous ces systèmes de termes
+   colorimétriques sont composés de quelques couleurs de base auxquelles
+   des couleurs spécifiques ont été ajoutées au schéma au fil du temps
+   (Kay 2015, Berlin et Kay 1969). Les combinaisons de couleurs de toutes
+   les cultures sont basées sur la distinction entre le noir et le blanc
+   (ou le clair et le foncé). Si une culture ne comporte que deux termes,
+   ces deux termes seront toujours noirs sur blancs. La couleur suivante
+   la plus importante est le rouge. Si une culture possède trois termes de
+   couleur, ces termes seront le noir, le blanc et le rouge. Viennent
+   ensuite le vert et le jaune, puis le bleu, puis le brun, puis le
+   violet, le rose, l'orange et le gris, toujours dans cet ordre. Berlin
+   et Kay ont suggéré que ces règles constituent un modèle pour le
+   développement de toutes les langues sur de longues périodes. Bien que
+   le schéma proposé par Berlin et Kay ait été légèrement révisé au cours
+   des 50 dernières années, les principes de base ont plutôt bien résisté
+   (Haynie et Bowern 2016).
+   Un diagramme illustrant ce qui suit : à l'étape 1, des marqueurs pour
+   « blanc » et « noir » ; à l'étape 2, un marqueur pour « rouge » ; à
+   l'étape 3, des marqueurs pour « vert » et « jaune » ; à l'étape 4, des
+   marqueurs pour « jaune » et « vert » ; à l'étape 5, « bleu » ; à
+   l'étape 6, « brun » ; et à l'étape 7, « violet », « rose », « orange »
+   et « Gris ». Figure 6.11 Schéma de développement de Berlin et Kay pour
+   l'élaboration des termes de couleur. Certaines cultures ne distinguent
+   que le noir du blanc. Lorsqu'un autre terme apparaît, cette couleur est
+   le rouge. Ensuite, le vert et le jaune sont ajoutés, l'un ou l'autre en
+   premier. Ensuite, le bleu et le brun sont ajoutés, dans cet ordre, puis
+   l'un des quatre suivants : violet, rose, orange ou gris. (CC BY 4.0 ;
+   Université Rice et OpenStax)
+
+Vidéo
+
+Vox : le motif surprenant qui se cache derrière les noms de couleurs dans le
+monde
+
+   IFRAME: https://www.youtube.com/embed/gMqZR3pqMjg?vq=hd1080
+
+   Curieusement, bien que cette découverte soutienne très fortement la
+   notion d'universalité linguistique, la même recherche a également été
+   utilisée pour plaider en faveur de la relativité linguistique. Paul Kay
+   s'est ensuite associé à un autre linguiste, Willet Kempton, pour
+   étudier comment les différentes combinaisons de couleurs pouvaient
+   affecter la façon dont les gens « voient » les couleurs dans
+   l'environnement qui les entoure (1984). Ils ont présenté aux gens des
+   puces de couleur sur le spectre entre le vrai bleu et le vrai vert. Ils
+   ont demandé aux sujets comment ils allaient regrouper toutes les
+   couleurs en deux catégories. Les personnes qui parlaient des langues
+   comportant des termes pour le bleu et le vert ont tracé une frontière
+   plus nette entre les deux couleurs que celles qui n'avaient qu'un seul
+   mot pour le bleu et le vert.
+
+   Il est clair que la relativité et l'universalisme sont deux aspects du
+   langage humain. Notre biologie commune joue un rôle dans la façon dont
+   les humains interagissent avec le monde, régularisant la façon dont
+   toutes les langues classent non seulement les couleurs, mais aussi les
+   plantes, les animaux, les conditions météorologiques et d'autres
+   phénomènes naturels. Les chercheurs qui étudient les systèmes de
+   catégories que les gens utilisent pour organiser leur connaissance du
+   monde utilisent un terme pour désigner ces systèmes culturels :
+   taxonomies populaires. La taxonomie populaire, quel que soit le domaine
+   du savoir humain, reflète à la fois la biologie humaine,
+   l'environnement environnant et les pratiques socioculturelles. Il
+   existe des taxonomies populaires pour les plantes, les animaux, les
+   nuages, les aliments et les cris des bébés.
+
+   Les taxonomies populaires ne sont pas simplement des termes de
+   vocabulaire ; elles structurent fréquemment tout type de distinction
+   significative au sein d'une culture, même celles qui reposent sur des
+   qualificatifs simples tels que « bon » et « mauvais ». La mort en est
+   un exemple, certainement invariante d'une culture à l'autre. Les
+   sociétés du monde entier font la distinction entre une « bonne » mort
+   et une « mauvaise » mort. Ces notions reflètent des croyances et des
+   valeurs culturelles, comme l'idée américaine selon laquelle une bonne
+   mort est une mort indolore. Parmi les peuples akan du Ghana, une bonne
+   mort est la mort d'une personne qui a mené une très longue vie et qui a
+   réalisé toutes les réalisations culturelles de la vie, telles que se
+   marier, avoir des enfants, accumuler des biens et apporter du soutien à
+   des amis et à des membres de la famille (Adinkra 2020). Imaginez une
+   très vieille arrière-grand-mère entourée de ses nombreux descendants
+   alors qu'elle est allongée dans son lit, soulevant un dernier souffle
+   alors qu'elle s'éloigne paisiblement vers la mort. C'est une bonne
+   mort. Une mort grave est tragique et violente, la mort subite d'une
+   personne qui n'a pas eu la chance de vivre pleinement sa vie. Pensez à
+   un jeune qui se noie ou meurt dans un accident de la circulation. C'est
+   une très mauvaise mort. Si une personne a eu une bonne mort, elle peut
+   devenir ancêtre si les bons rituels sont accomplis. Le corps doit être
+   lavé, pleuré publiquement et enterré dans un beau cercueil dans un
+   cimetière public, souvent avec des objets funéraires tels que des
+   outils et de l'argent pour aider la personne dans l'au-delà. Les
+   ancêtres sont importants, car ils veillent sur leurs parents vivants et
+   peuvent même les aider s'ils y sont invités par le biais de libations
+   ou d'autres moyens rituels. Cependant, si une personne est décédée
+   d'une manière malheureuse, elle peut devenir un fantôme en colère,
+   hantant les membres de la famille de malchance. Les rites funéraires
+   des morts graves sont précipités, minimaux et privés afin d'éviter de
+   commémorer ou de communiquer avec l'esprit agité.
+
+   La catégorisation est au cœur de nos perceptions, de nos pensées, de
+   nos actions et de notre discours. La façon dont les humains
+   catégorisent les objets et les expériences est limitée par le
+   fonctionnement de notre cerveau et de notre corps, ce qui donne
+   naissance à des universels linguistiques tels que le schéma de
+   développement des termes de couleur. Cependant, les significations
+   complexes associées aux catégories culturelles varient
+   considérablement, ce qui se traduit par une grande relativité
+   linguistique. Le relativisme linguistique et l'universalisme sont
+   souvent décrits comme des positions opposées, mais en fait, ils sont à
+   la fois des caractéristiques essentielles et complémentaires du langage
+   humain.
+
+Signification et métaphore
+
+   Comment te sens-tu aujourd'hui ? Vous sentez-vous debout ou déprimé ?
+   Si vous vous sentez déprimé, essayez de faire quelque chose d'amusant
+   pour vous remonter le moral. Prenez soin de vous pour ne pas tomber
+   dans une dépression.
+
+   Une vieille théorie suggérait que les langues sont principalement
+   référentielles, c'est-à-dire que chaque langue contient un ensemble de
+   termes de vocabulaire qui correspondent à des éléments du monde
+   naturel. Selon cette théorie, le langage fonctionne comme un miroir de
+   la réalité. Nous avons vu dans la dernière section, cependant, que
+   différentes langues divisent le monde naturel de différentes manières,
+   des domaines naturels de la couleur et des plantes aux domaines humains
+   de la vie et de la mort. De plus, les humains utilisent le langage pour
+   parler de problèmes abstraits tels que l'humeur, les relations sociales
+   et la communication elle-même. Il est assez facile d'utiliser nos
+   termes d'organisation spatiale pour parler de l'emplacement d'objets
+   concrets tels que la roquette sur le visage d'une personne. Mais qu'en
+   est-il des questions plus abstraites ? Comment parler de devenir ami
+   avec quelqu'un ? Comment discutons-nous d'un argument que nous avançons
+   dans un mémoire de session ? Comment parler de ce que nous ressentons
+   aujourd'hui ?
+
+   L'humeur est comme la couleur dans la mesure où la physiologie humaine
+   de l'humeur structure un ensemble de catégories de base quasi
+   universelles, notamment le bonheur, la tristesse, la colère, la peur,
+   le dégoût et la surprise. Et pourtant, comme l'humeur est présente sur
+   un spectre, elle est divisée de différentes manières selon les
+   différentes cultures. Prenons l'exemple de « schadenfreude », un mot
+   allemand qui combine les racines de « dommage » et de « joie ».
+   Schadenfreude fait référence au fait de prendre plaisir au malheur
+   d'autrui. Il n'existe pas de mot équivalent en anglais.
+
+   Nous n'utilisons pas simplement le langage pour identifier les émotions
+   que nous ressentons. Nous parlons également du processus de
+   développement d'une émotion, de la façon dont une humeur en entraîne
+   une autre et de la façon dont nous pouvons nous empêcher de ressentir
+   une certaine façon. Ce sont des processus mystérieux et abstraits.
+   Comment faisons-nous cela ? Nous utilisons une métaphore. Une métaphore
+   est un idiome linguistique dans lequel nous utilisons ce que nous
+   savons de quelque chose de concret pour penser et parler de quelque
+   chose d'abstrait. Les linguistes cognitifs George Lakoff et Mark
+   Johnson soutiennent que la métaphore est le principal moyen de créer un
+   sens complexe dans le langage (1980). En termes d'humeur, nous
+   utilisons notre langage concret de direction pour parler de notre
+   expérience abstraite de l'humeur. Une humeur positive est considérée
+   comme une humeur positive, tandis qu'une humeur négative est considérée
+   comme une humeur négative. Si tu te sens vraiment heureuse, tu peux
+   dire que tu es au sommet du monde. Si tu es vraiment triste, tu peux
+   dire que tu es dans les décharges. En fait, le mot pour désigner une
+   tristesse prolongée, une dépression, fait littéralement référence à un
+   endroit englouti ou à l'acte d'abaisser quelque chose.
+
+   La métaphore est l'une de ces choses que vous ne remarquerez que
+   lorsque vous y prêtez attention. Et puis vous réalisez que c'est
+   partout : dans votre façon de penser au temps, au nombre, à la vie, à
+   l'amour, à la forme physique, au travail, aux loisirs, au sommeil et à
+   la pensée elle-même, pour ne citer que quelques sujets hautement
+   métaphoriques. Presque tous les domaines d'expérience abstraits sont
+   structurés par une pensée métaphorique. Voici trois métaphores
+   courantes en anglais, avec des exemples.
+
+   LA VIE EST UN VOYAGE
+
+     Il a pris le mauvais chemin dans la vie.
+     Au fur et à mesure que vous avancez, vous devez poursuivre vos
+     rêves.
+     Quand j'ai quitté la maison, je suis arrivée à la croisée des
+     chemins dans ma vie.
+     Si vous travaillez dur, vous aurez un sentiment d'accomplissement
+     plus tard dans la vie.
+
+   L'AMOUR EST DOUX
+
+     C'est ma chérie.
+     Les nouveaux mariés sont partis en lune de miel.
+     Sugar, pourrais-tu me transmettre le sel ?
+     Notre amour était doux, puis il est devenu amer.
+
+   L'ARGUMENT EST LE COMBAT
+
+     La candidate a lancé une attaque personnelle contre son adversaire.
+     Sa position sur les impôts est indéfendable.
+     Armée de faits, elle a obtenu gain de cause.
+     Ses critiques ont vraiment fait mouche.
+
+   Il existe des milliers et des milliers de métaphores en anglais. De
+   nombreux domaines abstraits reposent sur une combinaison de diverses
+   métaphores utilisées pour décrire différents aspects de l'expérience.
+   Vous pouvez considérer l'amour comme doux (comme ci-dessus) mais aussi
+   comme un voyage (comme dans « Le couple va-t-il avancer ensemble, ou
+   vont-ils suivre des chemins séparés ? ») ou comme combat (comme dans
+   « Il m'a tué avec son regard venu ici »).
+
+   La métaphore se retrouve dans toutes les langues humaines. Certaines
+   métaphores spécifiques, comme les métaphores directionnelles utilisées
+   pour décrire l'humeur, se retrouvent dans de très nombreuses cultures.
+   Une étude menée par Esther Afreh (2018) a révélé que le roi d'Asante
+   (au Ghana) utilise fréquemment un langage métaphorique dans ses
+   discours publics, y compris des termes aussi familiers que « la vie est
+   un voyage », « la vie est une bataille », « les idées sont de la
+   nourriture », « savoir c'est voir » et « la mort c'est le sommeil ».
+   Bien que les discours aient été prononcés en anglais, Afreh note que
+   ces métaphores existent également en akan, la langue locale du peuple
+   asante. Parallèlement à son analyse des discours en anglais, elle note
+   de nombreux proverbes et phrases en Akan qui utilisent les mêmes
+   métaphores.
+
+   Comme dans notre discussion sur la catégorisation dans la dernière
+   section, la métaphore est à la fois relative et universelle. Lakoff et
+   Johnson soutiennent que notre biologie humaine commune structure nos
+   expériences de choses comme les émotions et la vie. Quand tu te sens
+   vraiment triste, tu peux littéralement avoir envie de t'allonger, et
+   quand tu es vraiment heureuse, tu peux sauter de joie. Nous pouvons
+   utiliser la notion de voyage pour structurer notre compréhension de la
+   vie, des relations sociales et du temps en général, car dans notre vie
+   quotidienne, nous avançons dans l'espace pour poursuivre des objets et
+   des activités.
+
+   Parfois, les raisons des similitudes interculturelles ne sont pas
+   directement liées à la biologie humaine. L'anglais et le chinois ont
+   des systèmes métaphoriques similaires pour aborder les questions
+   morales. Dans les deux langues, l'adjectif signifiant « haut » est
+   associé à des choses nobles, nobles ou bonnes, tandis que l'adjectif
+   « bas » est utilisé pour décrire des choses méchantes, méprisables ou
+   mauvaises (Yu 2016). Il est également possible, dans les deux langues,
+   de qualifier le comportement moral de « direct », tandis que le
+   comportement immoral peut être qualifié de « tordu ».
+
+   D'autre part (pour utiliser une métaphore utile), différentes cultures
+   s'appuient sur différentes métaphores pour parler de certains domaines
+   d'expérience, des métaphores qui mettent l'accent sur certains aspects
+   de ces sujets abstraits. Prenons la notion anglaise selon laquelle « le
+   temps c'est de l'argent ». C'est une métaphore pure et simple, mais de
+   nombreux anglophones pensent qu'elle est absolument vraie. Vous pouvez
+   passer du temps, perdre du temps, gagner du temps et investir du temps.
+   Le temps ressemble donc à de l'argent dans les cultures capitalistes.
+   Mais le temps n'est pas littéralement de l'argent. Le temps n'est pas
+   non plus un voyage ou une ligne horizontale dans l'espace, bien que ce
+   soient des manières courantes de penser le temps en anglais. Le temps
+   n'est que du temps, une idée abstraite. Whorf n'a certainement pas
+   trouvé les Hopi qui parlaient du temps comme de l'argent. Les
+   anglophones considèrent le temps en termes d'argent parce qu'ils vivent
+   dans une société où le temps est traité comme de l'argent, une société
+   qui a tendance à monétiser presque tout, de la terre au travail en
+   passant par les conseils, l'attention et même des parties du corps
+   comme le sperme humain.
+
+    1. Back to top
+    2.
+          + 6.2 : L'émergence et le développement du langage
+          + 6.4 : Langue, communauté et culture
+
+Recommended articles
+
+    1.
+
+        Article type
+                Question
+
+        License
+                CC BY
+
+        License Version
+                4.0
+
+        Show TOC
+                no on page
+
+    2.
+
+        Tags
+
+              1. author@David G. Lewis
+              2. author@Jennifer Hasty
+              3. author@Marjorie M. Snipes
+              4. authorname:openstax
+              5. program:openstax
+              6. source@https://openstax.org/details/books/introduction-an
+                 thropology
+              7. source[translate]-socialsci-150221
+
+    1. © Copyright 2025 Global
+    2. Powered by CXone Expert ®
+
+   The LibreTexts libraries are Powered by NICE CXone Expert and are
+   supported by the Department of Education Open Textbook Pilot Project,
+   the UC Davis Office of the Provost, the UC Davis Library, the
+   California State University Affordable Learning Solutions Program, and
+   Merlot. We also acknowledge previous National Science Foundation
+   support under grant numbers 1246120, 1525057, and 1413739. Legal.
+   Accessibility Statement For more information contact us
+   at info@libretexts.org.

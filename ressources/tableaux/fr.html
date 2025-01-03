@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Projet PPE1-2024</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+</head>
+<body>
+<style>
+.content{overflow:scroll}
+</style>
+<section class="section" >
+<div class="container is-max-desktop" >
+<div class="content" >
+<h2 class="title" >Tableau <code>fr</code></h2>
+<table class="table" >
+<tr>
+<td> Ligne </td>
+<td> URL </td>
+<td> Code HTTP </td>
+<td> Encodage </td>
+<td> Page html </td>
+<td> Dump textuel </td>
+<td> Nombre d'occurences </td>
+<td> Contexte </td>
+<td> Concordancier </td>
+</tr>
+<tr>
+<td> 1 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/M%C3%A9decine_m%C3%A9di%C3%A9vale_dans_l%27Occident_chr%C3%A9tien" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-1.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-1.txt" >dump</a> </td>
+<td> 10 </td>
+<td> <a href="../contextes/fr-1.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-1.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Fran%C3%A7ais" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-2.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-2.txt" >dump</a> </td>
+<td> 600 </td>
+<td> <a href="../contextes/fr-2.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-2.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Langue_classique" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-3.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-3.txt" >dump</a> </td>
+<td> 20 </td>
+<td> <a href="../contextes/fr-3.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-3.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Langue_(m%C3%A9tadonn%C3%A9e)" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-4.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-4.txt" >dump</a> </td>
+<td> 16 </td>
+<td> <a href="../contextes/fr-4.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-4.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Glossolalie" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-5.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-5.txt" >dump</a> </td>
+<td> 18 </td>
+<td> <a href="../contextes/fr-5.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-5.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 6 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Langue_des_signes" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-6.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-6.txt" >dump</a> </td>
+<td> 238 </td>
+<td> <a href="../contextes/fr-6.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-6.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 7 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Ankyloglossie" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-7.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-7.txt" >dump</a> </td>
+<td> 10 </td>
+<td> <a href="../contextes/fr-7.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-7.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 8 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Macroglossie" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-8.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-8.txt" >dump</a> </td>
+<td> 11 </td>
+<td> <a href="../contextes/fr-8.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-8.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 9 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Capacit%C3%A9_de_rouler_la_langue" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-9.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-9.txt" >dump</a> </td>
+<td> 14 </td>
+<td> <a href="../contextes/fr-9.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-9.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 10 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Aphasie" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-10.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-10.txt" >dump</a> </td>
+<td> 8 </td>
+<td> <a href="../contextes/fr-10.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-10.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 11 </td>
+<td> <a href="https://www.santemagazine.fr/actualites/langue-tout-savoir-sur-cet-organe-unique-190558" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-11.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-11.txt" >dump</a> </td>
+<td> 9 </td>
+<td> <a href="../contextes/fr-11.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-11.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 12 </td>
+<td> <a href="https://www.lemonde.fr/sciences/article/2023/12/18/l-odyssee-de-la-langue-cet-organe-singulier_6206521_1650684.html" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-12.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-12.txt" >dump</a> </td>
+<td> 3 </td>
+<td> <a href="../contextes/fr-12.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-12.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 13 </td>
+<td> <a href="https://www.mediapart.fr/journal/culture-et-idees/170623/la-langue-organe-primordial-dans-l-evolution-une-mise-en-bouche" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-13.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-13.txt" >dump</a> </td>
+<td> 5 </td>
+<td> <a href="../contextes/fr-13.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-13.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 14 </td>
+<td> <a href="https://www.allodocteurs.fr/maladies-orl-la-langue-et-ses-pathologies-11880.html" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-14.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-14.txt" >dump</a> </td>
+<td> 66 </td>
+<td> <a href="../contextes/fr-14.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-14.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 15 </td>
+<td> <a href="https://unesdoc.unesco.org/ark:/48223/pf0000131582" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-15.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-15.txt" >dump</a> </td>
+<td> 0 </td>
+<td> <a href="../contextes/fr-15.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-15.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 16 </td>
+<td> <a href="https://vonguru.fr/2016/09/10/fourchelang-langue-fictive/" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-16.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-16.txt" >dump</a> </td>
+<td> 41 </td>
+<td> <a href="../contextes/fr-16.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-16.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 17 </td>
+<td> <a href="http://originemundi.xsrv.jp/doc/2021/02/28/ovide-tristes-v-7-37-68-un-poete-en-exil-linguistique/" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-17.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-17.txt" >dump</a> </td>
+<td> 10 </td>
+<td> <a href="../contextes/fr-17.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-17.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 18 </td>
+<td> <a href="https://query.libretexts.org/Francais/Introduction_%C3%A0_l%27anthropologie_(OpenStax)/06%3A_Langue_et_communication/6.03%3A_Le_langage_et_l%27esprit" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-18.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-18.txt" >dump</a> </td>
+<td> 34 </td>
+<td> <a href="../contextes/fr-18.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-18.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 19 </td>
+<td> <a href="https://dyabukam.com/index.php/sw/item/233-origines-et-emergence-de-la-langue-guadeloupeenne" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-19.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-19.txt" >dump</a> </td>
+<td> 58 </td>
+<td> <a href="../contextes/fr-19.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-19.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 20 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Langue_(anatomie_humaine)" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-20.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-20.txt" >dump</a> </td>
+<td> 123 </td>
+<td> <a href="../contextes/fr-20.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-20.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 21 </td>
+<td> <a href="https://sante.journaldesfemmes.fr/fiches-anatomie-et-examens/2755713-bouche-anatomie-fonctions-examens-maladies-schema-specialiste/" >Lien internet</a> </td>
+<td> 403 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-21.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-21.txt" >dump</a> </td>
+<td> 4 </td>
+<td> <a href="../contextes/fr-21.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-21.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 22 </td>
+<td> <a href="https://www.msdmanuals.com/fr/accueil/troubles-bucco-dentaires/biologie-de-la-cavit%C3%A9-buccale-et-des-dents/biologie-de-la-cavit%C3%A9-buccale" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-22.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-22.txt" >dump</a> </td>
+<td> 8 </td>
+<td> <a href="../contextes/fr-22.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-22.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 23 </td>
+<td> <a href="https://www.courrierinternational.com/article/multilinguisme-comment-le-cerveau-reagit-il-lorsqu-on-maitrise-plusieurs-langues" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-23.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-23.txt" >dump</a> </td>
+<td> 29 </td>
+<td> <a href="../contextes/fr-23.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-23.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 24 </td>
+<td> <a href="https://www.psychodramaturgie.org/fr/fondements/prononciation/mouvements-et-prononciation" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-24.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-24.txt" >dump</a> </td>
+<td> 30 </td>
+<td> <a href="../contextes/fr-24.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-24.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 25 </td>
+<td> <a href="https://www.mondly.com/blog/fr/guide-de-lanatomie-en-francais-apprenez-les-parties-du-corps/" >Lien internet</a> </td>
+<td> 403 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-25.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-25.txt" >dump</a> </td>
+<td> 0 </td>
+<td> <a href="../contextes/fr-25.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-25.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 26 </td>
+<td> <a href="https://exploreur.univ-toulouse.fr/lorigine-des-gestes-et-des-mots-chez-lhomme-et-le-singe" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-26.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-26.txt" >dump</a> </td>
+<td> 16 </td>
+<td> <a href="../contextes/fr-26.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-26.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 27 </td>
+<td> <a href="https://fr.wikisource.org/wiki/Encyclop%C3%A9die_anarchiste/Langue_-_Le%C3%A7on" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-27.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-27.txt" >dump</a> </td>
+<td> 162 </td>
+<td> <a href="../contextes/fr-27.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-27.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 28 </td>
+<td> <a href="https://www.canada.ca/fr/sante-canada/services/systeme-soins-sante/rapports-publications/accessibilite-soins-sante/barrieres-linguistiques.html" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-28.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-28.txt" >dump</a> </td>
+<td> 374 </td>
+<td> <a href="../contextes/fr-28.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-28.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 29 </td>
+<td> <a href="https://www.aqoa.qc.ca/fr/troubles-et-pathologies" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-29.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-29.txt" >dump</a> </td>
+<td> 7 </td>
+<td> <a href="../contextes/fr-29.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-29.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 30 </td>
+<td> <a href="http://barthes.enssib.fr/translatio/langueXIX/mercier/" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-30.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-30.txt" >dump</a> </td>
+<td> 9 </td>
+<td> <a href="../contextes/fr-30.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-30.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 31 </td>
+<td> <a href="https://fr.babbel.com/fr/magazine/tics-de-langage-en-francais" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-31.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-31.txt" >dump</a> </td>
+<td> 18 </td>
+<td> <a href="../contextes/fr-31.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-31.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 32 </td>
+<td> <a href="https://www.sudouest.fr/gironde/blanquefort/une-mise-en-bouche-linguistique-3432432.php" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-32.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-32.txt" >dump</a> </td>
+<td> 4 </td>
+<td> <a href="../contextes/fr-32.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-32.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 33 </td>
+<td> <a href="https://www.univ-grenoble-alpes.fr/actualites/the-conversation/sciences/the-conversation-emergence-du-langage-dans-l-evolution-humaine-des-chercheurs-font-parler-les-structures-osseuses-fossilisees--1425836.kjsp" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-33.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-33.txt" >dump</a> </td>
+<td> 28 </td>
+<td> <a href="../contextes/fr-33.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-33.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 34 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Origine_du_langage" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-34.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-34.txt" >dump</a> </td>
+<td> 43 </td>
+<td> <a href="../contextes/fr-34.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-34.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 35 </td>
+<td> <a href="https://www.lefigaro.fr/langue-francaise/actu-des-mots/l-affrication-nouveau-tchic-de-langage-des-ados-assiste-t-on-vraiment-a-un-nouveau-phenomene-de-langue-20240119" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-35.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-35.txt" >dump</a> </td>
+<td> 27 </td>
+<td> <a href="../contextes/fr-35.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-35.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 36 </td>
+<td> <a href="https://www.mondelangues.fr/briller-oral" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-36.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-36.txt" >dump</a> </td>
+<td> 68 </td>
+<td> <a href="../contextes/fr-36.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-36.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 37 </td>
+<td> <a href="https://www.unige.ch/fapse/SSE/teachers/perrenoud/php_main/php_1991/1991_10.html" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-37.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-37.txt" >dump</a> </td>
+<td> 76 </td>
+<td> <a href="../contextes/fr-37.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-37.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 38 </td>
+<td> <a href="https://speechneurolab.ca/differences-entre-la-parole-le-langage-et-la-communication/" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-38.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-38.txt" >dump</a> </td>
+<td> 6 </td>
+<td> <a href="../contextes/fr-38.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-38.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 39 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Lecture_labiale" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-39.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-39.txt" >dump</a> </td>
+<td> 12 </td>
+<td> <a href="../contextes/fr-39.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-39.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 40 </td>
+<td> <a href="https://www.futura-sciences.com/sante/definitions/biologie-langue-6976/" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-40.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-40.txt" >dump</a> </td>
+<td> 31 </td>
+<td> <a href="../contextes/fr-40.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-40.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 41 </td>
+<td> <a href="https://sleepdoctor.fr/blog/muscler-la-langue-apnee-du-sommeil" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-41.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-41.txt" >dump</a> </td>
+<td> 40 </td>
+<td> <a href="../contextes/fr-41.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-41.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 42 </td>
+<td> <a href="https://www.editions-nous.com/rueff_auboutdelalangue.html" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-42.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-42.txt" >dump</a> </td>
+<td> 9 </td>
+<td> <a href="../contextes/fr-42.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-42.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 43 </td>
+<td> <a href="https://www.bbc.com/afrique/articles/cd154qwyn7eo" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-43.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-43.txt" >dump</a> </td>
+<td> 10 </td>
+<td> <a href="../contextes/fr-43.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-43.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 44 </td>
+<td> <a href="https://www.temoignages.re/sante-vie-pratique/la-langue-un-organe-a-la-hauteur-de-sa-mission,34323" >Lien internet</a> </td>
+<td> 103 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-44.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-44.txt" >dump</a> </td>
+<td> 6 </td>
+<td> <a href="../contextes/fr-44.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-44.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 45 </td>
+<td> <a href="https://www.24heures.ch/partie-du-corps-sous-estimee-la-langue-est-un-veritable-multitalent-366458980520" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-45.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-45.txt" >dump</a> </td>
+<td> 37 </td>
+<td> <a href="../contextes/fr-45.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-45.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 46 </td>
+<td> <a href="https://www.levif.be/vivifiant/sciences/notre-langue-dirige-t-elle-nos-mains-les-mysteres-de-cet-organe-meconnu/" >Lien internet</a> </td>
+<td> 403 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-46.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-46.txt" >dump</a> </td>
+<td> 0 </td>
+<td> <a href="../contextes/fr-46.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-46.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 47 </td>
+<td> <a href="https://fr.wikipedia.org/wiki/Langue_(anatomie_animale)" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-47.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-47.txt" >dump</a> </td>
+<td> 48 </td>
+<td> <a href="../contextes/fr-47.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-47.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 48 </td>
+<td> <a href="https://destinationsante.com/la-langue-un-organe-aux-multiples-fonctions.html" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-48.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-48.txt" >dump</a> </td>
+<td> 8 </td>
+<td> <a href="../contextes/fr-48.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-48.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 49 </td>
+<td> <a href="https://tcs-mymed.ch/fr/symptomes-maladies/anatomies-et-organes/organes/la-langue" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-49.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-49.txt" >dump</a> </td>
+<td> 27 </td>
+<td> <a href="../contextes/fr-49.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-49.html" >concordancier</a> </td>
+</tr>
+<tr>
+<td> 50 </td>
+<td> <a href="https://www.lemonde.fr/sciences/article/2023/12/18/notre-langue-ciseleuse-hors-pair-de-la-parole_6206516_1650684.html" >Lien internet</a> </td>
+<td> 200 </td>
+<td> nan </td>
+<td> <a href="../aspirations/fr-50.html" >html</a> </td>
+<td> <a href="../dumps-text/fr-50.txt" >dump</a> </td>
+<td> 4 </td>
+<td> <a href="../contextes/fr-50.txt" >contextes</a> </td>
+<td> <a href="../concordances/fr-50.html" >concordancier</a> </td>
+</tr>
+</table>
+</div>
+</div>
+</section>
+</body>
+</html>

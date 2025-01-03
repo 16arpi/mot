@@ -1,0 +1,176 @@
+   (BUTTON) chrome_reader_mode Enter Reader Mode
+
+   6 : Langue et communication
+   Introduction à l'anthropologie (OpenStax)
+   { }
+--
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "6.04:_Langue,_communaut\u00e9_et_culture" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+--
+   "05:_Le_genre_Homo_et_notre_\u00e9mergence" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "06:_Langue_et_communication" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+--
+   https://query.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fq
+   uery.libretexts.org%2FFrancais%2FIntroduction_%25C3%25A0_l'anthropologi
+   e_(OpenStax)%2F06%253A_Langue_et_communication%2F6.03%253A_Le_langage_e
+   t_l'esprit
+
+--
+    2. Français
+    3. Introduction à l'anthropologie (OpenStax)
+    4. 6 : Langue et communication
+    5. 6.3 : Le langage et l'esprit
+
+--
+   façonné nos pensées et nos actions de manière à aider notre espèce à
+   coopérer, à inventer, à apprendre et à s'adapter à l'environnement. La
+   langue a dû être un élément fondamental de la création de la culture
+   humaine (singulier) et de son évolution ultérieure vers des cultures
+   humaines (pluriel), alors que différents groupes d'humains se sont
+--
+   Cela signifie que le langage précoce doit avoir été développé en
+   fonction des conditions environnementales. Les anthropologues
+   linguistiques s'intéressent à la façon dont la langue varie selon les
+   cultures, en fonction des différentes conditions environnementales,
+   historiques et socioculturelles. C'est ce qu'on appelle la relativité
+   linguistique.
+
+   D'autre part, les langues sont également limitées par l'anatomie
+   humaine et les capacités cognitives. Supposons qu'il y ait deux espèces
+   de serpents dans une région, l'une toxique et l'autre inoffensive, mais
+--
+   de 300 000 types de coléoptères dans le monde. Combien pouvez-vous en
+   nommer ? Tous ? Dix d'entre eux ? Deux d'entre eux ? En dehors de la
+   taxonomie scientifique écrite, aucune langue au monde ne contient des
+   termes distincts pour chaque type de coléoptère. Non seulement parce
+   qu'il n'y a que quelques milliers de coléoptères de chaque type vivant
+--
+   pouvez-vous en nommer ? Il existe plus de 300 000 types de coléoptères
+   dans le monde. En dehors de la taxonomie scientifique écrite, aucune
+   langue au monde ne contient de termes distincts pour chaque type de
+   coléoptère. (crédit : « présentoir 3 » par Joana Cristovao, Muséum
+   d'histoire naturelle/Flickr, CC BY 2.0)
+--
+   interagissent avec leur environnement. Notre anatomie humaine commune
+   influence notre compréhension du monde, et cette compréhension
+   s'exprime dans le langage. Cette idée suggère que toutes les langues
+   doivent avoir des points communs du fait que tous les humains ont la
+   même anatomie et les mêmes capacités cognitives. Certains
+--
+   peuples et de toutes les cultures. Boas a formé un étudiant du nom
+   d'Edward Sapir qui s'intéressait particulièrement à la façon dont les
+   langues non occidentales véhiculaient des formes de pensée complexes et
+   abstraites différentes des habitudes de pensée euro-américaines. Sapir,
+   à son tour, a formé un étudiant nommé Benjamin Whorf qui a approfondi
+--
+   que nous avons fini par appeler l'hypothèse « Sapir-Whorf ».
+
+   L'hypothèse Sapir-Whorf soutient que la langue particulière que vous
+   parlez influence la façon dont vous percevez la réalité (Lucy 2001).
+   Ainsi, les différentes langues encouragent différentes habitudes de
+   pensée. Il s'agit là d'un principe essentiel de la relativité
+   linguistique. Whorf a fondé son argument sur une comparaison entre la
+   langue amérindienne de Hopi et ce qu'il a appelé le « Standard Average
+   European » (SAE), une vaste catégorie de langues européennes dont
+   l'anglais. Whorf s'est intéressé à la façon dont les locuteurs de
+   chaque langue peuvent penser différemment du temps. Dans le vocabulaire
+   anglais, le temps est divisé en unités qui peuvent être comptées. Les
+   anglophones parlent du nombre de secondes, de minutes ou de jours avant
+--
+   mis l'accent sur les horaires, la comptabilité et la tenue De
+   nombreuses personnes utilisent un calendrier pour suivre les réunions,
+   les rendez-vous et les devoirs. Whorf soutient que la langue anglaise
+   nous encourage à penser le temps et les événements de cette manière,
+   comme un ensemble de boîtes spatialisées à remplir d'objets discrets.
+--
+   si une culture ne comptait auparavant qu'un seul terme pour désigner le
+   serpent, les membres de cette culture pouvaient facilement comprendre
+   qu'il en existait deux types et seraient en mesure de changer de langue
+   pour indiquer cette différence dans leur vocabulaire pour référence
+   future. Leur vocabulaire ne limiterait pas leur pensée à un point tel
+--
+   Plutôt que des mots de vocabulaire spécifiques, les chercheurs qui
+   étudient la relativité linguistique en sont venus à se concentrer sur
+   des sujets abstraits plus vastes tels que l'espace. Dans des langues
+   comme l'anglais, lorsque les gens veulent indiquer à quelqu'un où se
+   trouve un objet en particulier, ils utilisent le plus souvent un
+--
+   ouest) et les caractéristiques spécifiques de leur environnement
+   (montagnes, océans) pour parler de la situation. Un locuteur de la
+   langue indigène australienne Guugu Yimithirr pourrait dire :
+   « Attention au serpent qui se trouve juste au nord de votre pied ! »
+   Cette façon de parler de l'espace est absolue et non relative. De tels
+--
+   modèles linguistiques façonnent différents modèles de pensée (et vice
+   versa), d'autres linguistes s'intéressent à la manière dont toutes les
+   langues sont limitées par notre biologie humaine commune et à la
+   recherche de modèles linguistiques universels. Certains domaines
+   linguistiques spécifiques se prêtent particulièrement bien à ce type de
+--
+   Certaines cultures ont des centaines de termes de couleur, tandis que
+   d'autres n'en ont que deux ou trois. Les chercheurs Brent Berlin et
+   Paul Kay ont analysé les systèmes de termes de couleur de 98 langues et
+   ont découvert que la diversité des systèmes de termes de couleur est
+   régie par un ensemble de règles. Tous ces systèmes de termes
+--
+   violet, le rose, l'orange et le gris, toujours dans cet ordre. Berlin
+   et Kay ont suggéré que ces règles constituent un modèle pour le
+   développement de toutes les langues sur de longues périodes. Bien que
+   le schéma proposé par Berlin et Kay ait été légèrement révisé au cours
+   des 50 dernières années, les principes de base ont plutôt bien résisté
+--
+   puces de couleur sur le spectre entre le vrai bleu et le vrai vert. Ils
+   ont demandé aux sujets comment ils allaient regrouper toutes les
+   couleurs en deux catégories. Les personnes qui parlaient des langues
+   comportant des termes pour le bleu et le vert ont tracé une frontière
+   plus nette entre les deux couleurs que celles qui n'avaient qu'un seul
+--
+   langage humain. Notre biologie commune joue un rôle dans la façon dont
+   les humains interagissent avec le monde, régularisant la façon dont
+   toutes les langues classent non seulement les couleurs, mais aussi les
+   plantes, les animaux, les conditions météorologiques et d'autres
+   phénomènes naturels. Les chercheurs qui étudient les systèmes de
+--
+   dans une dépression.
+
+   Une vieille théorie suggérait que les langues sont principalement
+   référentielles, c'est-à-dire que chaque langue contient un ensemble de
+   termes de vocabulaire qui correspondent à des éléments du monde
+   naturel. Selon cette théorie, le langage fonctionne comme un miroir de
+   la réalité. Nous avons vu dans la dernière section, cependant, que
+   différentes langues divisent le monde naturel de différentes manières,
+   des domaines naturels de la couleur et des plantes aux domaines humains
+   de la vie et de la mort. De plus, les humains utilisent le langage pour
+--
+   « Il m'a tué avec son regard venu ici »).
+
+   La métaphore se retrouve dans toutes les langues humaines. Certaines
+   métaphores spécifiques, comme les métaphores directionnelles utilisées
+   pour décrire l'humeur, se retrouvent dans de très nombreuses cultures.
+--
+   nourriture », « savoir c'est voir » et « la mort c'est le sommeil ».
+   Bien que les discours aient été prononcés en anglais, Afreh note que
+   ces métaphores existent également en akan, la langue locale du peuple
+   asante. Parallèlement à son analyse des discours en anglais, elle note
+   de nombreux proverbes et phrases en Akan qui utilisent les mêmes
+--
+   directement liées à la biologie humaine. L'anglais et le chinois ont
+   des systèmes métaphoriques similaires pour aborder les questions
+   morales. Dans les deux langues, l'adjectif signifiant « haut » est
+   associé à des choses nobles, nobles ou bonnes, tandis que l'adjectif
+   « bas » est utilisé pour décrire des choses méchantes, méprisables ou
+   mauvaises (Yu 2016). Il est également possible, dans les deux langues,
+   de qualifier le comportement moral de « direct », tandis que le
+   comportement immoral peut être qualifié de « tordu ».
+--
+    2.
+          + 6.2 : L'émergence et le développement du langage
+          + 6.4 : Langue, communauté et culture
+
+Recommended articles

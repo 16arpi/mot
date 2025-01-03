@@ -1,0 +1,1332 @@
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire
+
+     2 Description
+
+     3 Causes
+
+     4 Types
+   (BUTTON) Afficher / masquer la sous-section Types
+     * 4.1 Aphasies corticales
+
+     * 4.1.1 Aires corticales de la parole et du langage
+
+
+
+   4.1.2 Aphasie de Broca
+
+
+
+   4.1.3 Aphasie de Wernicke
+
+
+
+   4.1.4 Aphasie de conduction
+
+
+
+   4.2 Aphasies transcorticales
+
+     * 4.2.1 Aphasie transcorticale motrice
+
+
+
+   4.2.2 Aphasie transcorticale sensorielle
+
+
+
+   4.2.3 Aphasie mixte
+
+
+
+   4.3 Aphasies sous-corticales
+
+
+
+   4.4 Autres aphasies (qui ne figurent pas dans la classification
+   Wernicke-Lichtheim)
+
+     * 4.4.1 Aphasie globale
+
+
+
+   4.4.2 Aphasie amnésique
+
+
+
+   5 Symptômes
+
+
+
+   6 Évolution du trouble
+
+
+
+   7 Mécanismes de récupération du langage
+
+
+
+   8 Traitements
+
+
+
+   9 L'aphasie dans les arts
+
+   (BUTTON) Afficher / masquer la sous-section L'aphasie dans les arts
+     * 9.1 Au cinéma
+
+
+
+   10 Notes et références
+
+
+
+   11 Voir aussi
+
+   (BUTTON) Afficher / masquer la sous-section Voir aussi
+     * 11.1 Bibliographie
+
+
+
+   11.2 Articles connexes
+
+
+
+   11.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Aphasie
+
+   [ ] 63 langues
+     * العربية
+     * مصرى
+     * Azərbaycanca
+     * Български
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Gaeilge
+     * Galego
+     * Gaelg
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Tyap
+     * Қазақша
+     * 한국어
+     * Кыргызча
+     * Latina
+     * Limburgs
+     * Latviešu
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Русиньскый
+     * Scots
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * Shqip
+     * Српски / srpski
+     * Svenska
+     * Тоҷикӣ
+     * ไทย
+     * Türkçe
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * Walon
+     * 吴语
+     * 中文
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Aphasie
+   Description de cette image, également commentée ci-après
+   Diagramme du cerveau par Henschen avec la mention Aphasie
+
+   CAPTION: Données clés
+
+   Symptômes Mutisme Voir et modifier les données sur Wikidata
+
+   CAPTION: Traitement
+
+   Spécialité Neurologie, neuropsychologie et logopédie Voir et modifier
+   les données sur Wikidata
+
+   CAPTION: Classification et ressources externes
+
+     CISP-2    N19 Voir et modifier les données sur Wikidata
+     CIM-10    F80.0-F80.2, R47.0
+      CIM-9    315.31, 784.3, 438.11
+   DiseasesDB  4024
+   MedlinePlus 003204
+    eMedicine  1135944
+      MeSH     D001037
+
+   Wikipédia ne donne pas de conseils médicaux Mise en garde médicale
+
+   modifier - modifier le code - voir Wikidata (aide)
+   Page d’aide sur l’homonymie
+
+   Ne doit pas être confondu avec mutisme sélectif.
+   Dysphasie
+
+   CAPTION: Données clés
+
+   Symptômes Mutisme Voir et modifier les données sur Wikidata
+
+   CAPTION: Traitement
+
+   Spécialité Neurologie, neuropsychologie et logopédie Voir et modifier
+   les données sur Wikidata
+
+   CAPTION: Classification et ressources externes
+
+     CISP-2    N19 Voir et modifier les données sur Wikidata
+     CIM-10    F80.1, F80.2, R47.0
+      CIM-9    438.12, 784.5
+   DiseasesDB  4024
+   MedlinePlus 003204
+    eMedicine  1135944
+      MeSH     D001037
+
+   Wikipédia ne donne pas de conseils médicaux Mise en garde médicale
+
+   modifier - modifier le code - voir Wikidata (aide)
+
+   L'aphasie est la perte partielle ou totale de la capacité de
+   communiquer par le langage, c'est-à-dire de parler ou de comprendre, en
+   dehors de tout déficit sensoriel ou de tout dysfonctionnement de
+   l'appareil phonatoire. L'origine de ces troubles du langage est une
+   pathologie du système nerveux central.
+
+   Les manifestations de l'aphasie peuvent présenter des différences
+   considérables : certains patients ne montrent que des incertitudes
+   légères, pour trouver leurs mots par exemple, alors que d'autres ont
+   presque voire totalement perdu la faculté de s'exprimer par le langage,
+   et/ou de comprendre ce qui leur est dit, de lire et/ou d'écrire. Il
+   existe plusieurs sortes d'aphasie dans lesquelles ces diverses facultés
+   peuvent être différemment affectées.
+
+Histoire
+
+   [modifier | modifier le code]
+
+   Le mot aphasie vient du grec a- (préfixe privatif) et phasis
+   (« parole ») et signifie « sans parole ». Ce terme a été créé en 1864
+   par Armand Trousseau et était utilisé pour décrire une aphasie
+   spécifique^[Laquelle ?].
+
+   On trouve le concept d'aphasie dans la philosophie grecque antique,
+   notamment chez Pyrrhon d'Elis. Celui-ci enseignait que l'essence des
+   choses est indéterminable et indicible. L'aphasie est donc le fait de
+   ne rien pouvoir dire sur les choses. Le fait que les jugements
+   contraires ont exactement la même force conduit Pyrrhon à l'absence
+   totale d'opinion et à l'absence de parole vraie. De plus, la conscience
+   de l'indifférence absolue des choses provoque l'absence d'inclination
+   et son corollaire, l'ataraxie, définie comme l'absence de troubles ou
+   la tranquillité de l'âme. La notion d'ataraxie est commune aux
+   différents courants de la philosophie hellénistique, les Stoïciens, les
+   Épicuriens et les Pyrrhoniens^[1].
+
+Description
+
+   [modifier | modifier le code]
+
+   Il est question d'aphasie lorsqu'un individu a perdu partiellement ou
+   totalement la capacité de communiquer par le langage, c'est-à-dire de
+   parler ou de comprendre ce qui lui est dit. Les orthophonistes
+   (spécialistes du langage) font une différence entre l'articulation, la
+   parole et le langage : si un individu éprouve des difficultés pour
+   prononcer des sons (quelle que soit leur place dans le mot), un trouble
+   de l'articulation est alors diagnostiqué ; s'il éprouve des difficultés
+   à combiner les sons pour faire des mots (ajouts, substitutions,
+   altérations, omissions de sons en fonction de leur place dans le mot),
+   il s'agira d'un trouble de la parole ; s'il éprouve des difficultés à
+   choisir ses mots, à les combiner pour faire des phrases ou même à
+   comprendre leur sens, un problème de langage est plutôt diagnostiqué.
+
+   L'aphasie est un trouble du langage auquel s'ajoutent souvent des
+   difficultés de parole ; elle entraîne des perturbations tant de
+   l'expression que de la compréhension du langage. Plusieurs formes du
+   langage peuvent être touchées : la conversation, la lecture,
+   l'écriture, etc. Souvent l'aphasique n'arrive plus à nommer des objets,
+   ne retrouve plus le nom des personnes qu'il connaît surtout lorsqu'il a
+   la volonté de s'en souvenir (alors que ces mots ou ces noms peuvent
+   réapparaître par automatisme au cours du discours^[2]) ; il se peut
+   même qu'il ne puisse répondre clairement par oui ou non.
+
+   L'aphasie est un trouble du langage acquis, c'est-à-dire qu'elle
+   survient chez un individu qui avait auparavant un langage normal et se
+   distingue donc des problèmes pouvant apparaître lors du développement
+   du langage chez l'enfant (par exemple, une dyslexie développementale ou
+   un bégaiement). Elle est susceptible d'affecter autant les femmes que
+   les hommes ; cependant, une étude de 1982 sur la récupération
+   fonctionnelle à la suite d'une lésion cérébrale est publiée et conclut
+   à une meilleure récupération chez les sujets féminins que chez les
+   sujets masculins^[3].
+
+Causes
+
+   [modifier | modifier le code]
+   [220px-Aphasia.png] Régions de l'hémisphère gauche pouvant provoquer
+   l'aphasie lorsqu'elles sont endommagées.
+
+   Le cerveau se compose de deux parties, appelées hémisphères cérébraux.
+   Chaque hémisphère contrôle diverses activités. Pour certaines d’entre
+   elles, la participation des deux hémisphères est importante. Le
+   contrôle du mouvement par le cerveau se fait de manière croisée (c'est
+   la latéralisation), c’est ainsi que l'hémisphère gauche du cerveau
+   contrôle l'hémicorps droit tandis que l'hémisphère droit du cerveau
+   contrôle l'hémicorps gauche. L’hémisphère gauche, dans la majorité de
+   la population, est aussi responsable du langage (expression,
+   compréhension, lecture et écriture). Dans environ 90 à 95 % des cas de
+   troubles du langage post-lésionnels (aphasies), le dommage est localisé
+   dans l'hémisphère cérébral gauche. Les atteintes de l'hémisphère droit
+   sont responsables des 5 à 10 % restants des cas d'aphasie.
+
+   Les causes de l'aphasie peuvent impliquer un accident vasculaire
+   cérébral (« attaque cérébrale ») : soit un vaisseau saigne et provoque
+   une hémorragie, soit il se bouche et il s'agit alors d'une ischémie ;
+   un traumatisme craniocérébral (lors d’accident de la route, d’une
+   chute) ; un processus expansif (une tumeur cérébrale, par exemple) un
+   processus dégénératif (maladie d'Alzheimer, dégénérescence lobaire
+   frontotemporale, par exemple) ; une dysplasie du cortex cérébral
+   (anomalie du développement du cortex cérébral) ou une infection
+   (encéphalite).
+
+Types
+
+   [modifier | modifier le code]
+
+   Différents types d'aphasie résultent d'atteintes localisées dans des
+   régions particulières du cerveau. Les types d’aphasies classiques les
+   plus connus touchent approximativement la moitié des patients
+   aphasiques.
+
+Aphasies corticales
+
+   [modifier | modifier le code]
+
+Aires corticales de la parole et du langage
+
+   [modifier | modifier le code]
+
+   Des lésions situées dans la région frontale antérieure, appelées aire
+   de Broca, interfèrent avec la production de la parole ; des dommages
+   dans une aire du cortex temporopariétal, dite aire de Wernicke,
+   affectent la compréhension du langage ; des lésions dans la
+   circonvolution supramarginale perturbent la répétition des paroles
+   entendues. Chez la plupart des individus, ces régions fonctionnelles ne
+   se trouvent que dans l'hémisphère cérébral dominant, c'est-à-dire le
+   gauche chez les droitiers.
+
+Aphasie de Broca
+
+   [modifier | modifier le code]
+   Article détaillé : Aphasie expressive.
+
+   Cette aphasie a été mise en évidence par Paul Broca, un chirurgien
+   français, en 1861. Cette pathologie fait suite à des lésions dans
+   l'aire de Broca, l'aire cérébrale chargée de la mise en place des
+   schémas corporels moteurs du langage. Cette aire est située sur
+   l'hémisphère gauche du cerveau chez un droitier, dans le lobe frontal
+   gauche (au pied de la 3^e circonvolution frontale, dit pied de F3)
+   (gyrus frontal inférieur gauche).
+
+   Une atteinte de cette aire peut entraîner une aphasie de Broca. Le
+   sujet a alors des difficultés à formuler oralement ses idées, alors que
+   celles-ci sont intactes dans son esprit. La compréhension est peu
+   touchée, mais l'expression est diminuée de différentes façons : le
+   débit est ralenti ; le rythme de parole est haché ; son vocabulaire est
+   réduit ; l'articulation est difficile ; et le sujet emprunte un style
+   « télégraphique », la syntaxe et la grammaire peuvent perdre en
+   qualité. Par exemple, le sujet établit une conjugaison non adaptée au
+   contexte : s'il veut dire « le chat court », il dira « chat courir ».
+   Les contraintes sémantiques ont alors pris le pas sur les contraintes
+   syntaxiques dans les énoncés.
+
+   Si la lésion est grave, la pathologie peut évoluer jusqu'au mutisme.
+   L'aphasie de Broca peut être associée à une hémiplégie, du côté droit
+   si c'est l'hémisphère gauche du cerveau qui est lésé. Si l'aphasie est
+   associée à une hémiplégie, elle touchera en général la main droite des
+   droitiers ; pour les gauchers la corrélation est moins systématique.
+
+   Le patient est conscient du trouble, il est dans la communication et
+   dans le désir de se faire comprendre, ce qui n'est pas toujours
+   possible et qui, dans le pire des cas, peut entraîner une dépression.
+
+Aphasie de Wernicke
+
+   [modifier | modifier le code]
+   Article détaillé : Aphasie réceptive.
+
+   L'aire de Wernicke (du nom du neurologue allemand qui l'a décrite, Carl
+   Wernicke) se situe également dans l'hémisphère gauche du cerveau, dans
+   le lobe temporal (moitié postérieure de la 1^re circonvolution
+   temporale, en arrière et en dessous du cortex auditif gauche). C'est le
+   siège de la compréhension des différents signes du langage. C'est une
+   aire associative qui reçoit des informations d'autres aires cérébrales,
+   comme les aires auditive et visuelle primaires.
+
+   Les symptômes de cette pathologie s'opposent presque point par point à
+   l'aphasie de Broca :
+     * la syntaxe et la grammaire ne sont que très peu touchées ;
+     * le débit est rapide, à la limite incontrôlable ; problème de
+       logorrhée (fluence incontrôlable du patient) ;
+     * le vocabulaire ne perd pas en richesse ;
+     * l'articulation ne pose aucun problème ;
+     * mais le discours peut devenir difficilement compréhensible car des
+       mots ou des propositions s’enchaînent sans suite logique ;
+     * jargonaphasie, paraphasie, dyssyntaxie, anosognosie et
+       néologismes ;
+     * le patient n'a aucune conscience de son trouble (cf. anosognosie
+       plus haut).
+
+   L'aphasie de Wernicke peut être distinguée en deux grands types :
+     * à prédominance phonémique, qui se caractérise par des mots déformés
+       (paraphasies phonémiques) ou des néologismes (enchaînement de
+       syllabes formant un mot impossible à rattacher à un mot existant) ;
+     * à prédominance sémantique, qui se caractérise par une substitution
+       de mots déterminés par une parenté de sens (paraphasies verbales
+       sémantiques).
+
+   La parole spontanée comporte des oublis de vocabulaire, des
+   stéréotypies, du jargon, ou des paraphasies. La parole répétée comporte
+   elle, des paraphasies ou est impossible. La compréhension écrite ou
+   orale est perturbée. L'écriture spontanée est également perturbée alors
+   que l'écriture copiée est normale. Il en est de même pour le calcul.
+
+Aphasie de conduction
+
+   [modifier | modifier le code]
+
+   Les personnes qui souffrent d'une aphasie de conduction se
+   caractérisent par un langage fluent, par la quasi absence de
+   changements dans la compréhension du langage (à part, éventuellement,
+   pour les phrases longues et grammaticalement complexes). Mais ils ont
+   de grandes difficultés à répéter des mots ou des phrases. Quand ces
+   patients essaient de répéter des mots, ils émettent des paraphasies
+   phonémiques, c'est-à-dire des mots aux phonèmes incorrects à la place
+   de sons corrects. Ce symptôme peut affecter la capacité à lire un texte
+   à haute voix, ou à noter par écrit ce qui leur est dit.
+
+   La description de la lésion cérébrale qui est à l'origine de cette
+   forme d'aphasie est encore controversée. L'explication plus fréquemment
+   admise serait la destruction du faisceau arqué, faisceau qui relie
+   l'aire de Wernicke à l'aire de Broca. Dans certains cas, des lésions
+   dans le cortex auditif, l'insula et la circonvolution supramarginale
+   sont remarquées.
+
+Aphasies transcorticales
+
+   [modifier | modifier le code]
+
+Aphasie transcorticale motrice
+
+   [modifier | modifier le code]
+
+   La lésion concernant cette aphasie atteint le cortex prémoteur et en
+   particulier l’aire motrice supplémentaire ainsi que le cortex
+   préfrontal de l’hémisphère gauche. Elle se situe donc dans la région
+   prémotrice en avant de l’aire de Broca. Elle se caractérise par le
+   contraste entre une réduction massive du langage spontané (pouvant
+   aller jusqu’au mutisme) et la préservation des capacités de répétition
+   qui peut même être écholalique.
+
+   Il est question d'un patient qui parle peu avec des phrases courtes et
+   pauvres en éléments syntaxiques comme pour Broca. Les traits dominants
+   de l’aphasie transcorticale motrice sont le manque d’incitation ; la
+   réduction du langage et l’adynamisme dans l’ensemble des activités
+   quotidiennes de l’aphasique.
+
+Aphasie transcorticale sensorielle
+
+   [modifier | modifier le code]
+
+   Elle fait partie des aphasies dites fluentes. Au début du trouble,
+   apparaît un langage fluent comportant des paraphasies sémantiques
+   tandis que la répétition est correcte. Apparaît également un trouble de
+   la compréhension sûrement dû au fait que la lésion concernant cette
+   aphasie se situe en arrière de l’aire de Wernicke. Une atteinte du
+   traitement visuo-verbal (élément d’aphasie optique) et une atteinte du
+   traitement auditivo-verbal sont également observées.
+
+Aphasie mixte
+
+   [modifier | modifier le code]
+   Article détaillé : Aphasie transcorticale mixte.
+
+   Aussi appelée globale ou totale. Deux formes : grande aphasie de Broca
+   avec une atteinte du territoire superficiel et profond de l'artère
+   sylvienne gauche (3/4 des aphasies initiales), aphasie marquée par une
+   inhibition généralisée dans la communication, une apraxie et un trouble
+   de la compréhension orale et non verbale. La 2^e forme est la Grande
+   aphasie de Wernicke avec des lésions corticales et sous corticales
+   postérieures gauche, plus fréquemment chez le sujet âgé, pas
+   d'hémiplégie G, expression trop fluente, très jargonnée avec trouble
+   important de la compréhension, il existe aussi une apraxie et une
+   hémianopsie et une agnosie visuelle.
+
+Aphasies sous-corticales
+
+   [modifier | modifier le code]
+
+   Il s’agit d’un regroupement de plusieurs types de lésions propres aux
+   structures sous-corticales de l’hémisphère dominant du langage. Plus
+   précisément, il s’agit de lésions au niveau des noyaux gris centraux
+   (thalamus, putamen, pallidum, noyau caudé), de la capsule interne, de
+   la capsule externe ainsi que de la substance blanche antérieure et
+   postérieure^[4]. Les symptômes observés dépendent de la variabilité des
+   régions affectées dans ce type d’aphasie.
+   Symptômes
+   Production
+     * langage spontané, fluent ou logopénique (pauses, hésitations)
+     * volume vocal abaissé
+     * incohérence verbale
+     * altération de l’exécution de la parole
+     * paraphasies verbales
+
+   Compréhension relativement préservée
+   Troubles associés déficit au niveau attentionnel et intentionnel de la
+   communication
+   (mauvaise compréhension des directives et difficultés syntaxiques)
+   Répétition peu ou pas altérée
+   Dénomination peu ou pas altérée
+
+Autres aphasies (qui ne figurent pas dans la classification
+Wernicke-Lichtheim)
+
+   [modifier | modifier le code]
+
+Aphasie globale
+
+   [modifier | modifier le code]
+
+   C'est la forme la plus grave de l'aphasie. Chez certains patients, les
+   altérations cérébrales ou la maladie conduisent à une perte totale de
+   la capacité de comprendre le langage ou de parler, de lire ou d'écrire.
+   Ces patients conservent une certaine forme de langage automatique,
+   spécialement des exclamations émotionnelles. Ils ne parviennent à
+   prononcer que très peu de mots, et ne font preuve d'aucun semblant de
+   syntaxe. L'aire cérébrale endommagée est vaste, et comprend de larges
+   zones des cortex frontal, temporal et pariétal, notamment l'aire de
+   Broca, celle de Wernicke et la circonvolution supramarginale. Chez ces
+   patients, le pronostic d'une récupération du langage est extrêmement
+   réservé.
+
+Aphasie amnésique
+
+   [modifier | modifier le code]
+
+   L’aphasie amnésique est due à une lésion du gyrus angulaire. Cette
+   forme d’aphasie se caractérise surtout par un manque du mot avec
+   définition par l’usage, sans trouble de la compréhension. C’est pour
+   cela que l’aphasique amnésique a tendance à interrompre son élocution
+   par la recherche du mot. Dans les cas les plus caractéristiques, le
+   sens des mots dont l’évocation est défectueuse peut n’être que
+   partiellement appréhendé par le malade lorsqu’il les lit ou les entend.
+   Le manque du mot est en général sévère dès qu'il est demandé à un sujet
+   de dénommer des objets ou images. Il se manifeste d’autant plus lorsque
+   l’on^[Qui ?] fait appel à un lexique plus précis ou d’usage moins
+   courant.
+
+   Par exemple : la montre est dénommée mais son remontoir et sa trotteuse
+   ne le sont pas, ou encore, la fleur est dénommée mais sa tige et ses
+   nervures ne le sont pas. L’aphasique amnésique peut également répondre
+   à une question par une réponse circonlocutoire (c'est-à-dire qu’il
+   décrit un objet par son usage), par exemple, le lavabo : « c’est pour
+   se laver les mains » ou un crayon : « c’est pour écrire ».
+
+Symptômes
+
+   [modifier | modifier le code]
+
+   Le manque du mot (ou aphasie léthologique^[5]) : l'aphasique éprouve de
+   la difficulté à trouver ses mots, un peu comme lorsque l'individu a le
+   mot « sur le bout de la langue ». Il arrive parfois à donner un
+   synonyme ou à décrire par une courte phrase ce qu'il cherche à nommer.
+   Souvent, il n'arrive pas à trouver, il « démissionne » et laisse sa
+   phrase inachevée. Il ne s'agit pas d'un trouble de la mémoire en tant
+   que tel mais d'une difficulté à trouver le mot au bon moment.
+   D'ailleurs, le mot cherché peut parfois être produit sans problème,
+   quelque temps après, dans une autre situation.
+
+   L'aphasique ne parle pas beaucoup. La quantité de mots produits est
+   réduite ; il répond souvent aux questions par un « oui » ou un « non »,
+   il cherche ses mots et n'arrive pas toujours à faire des phrases. De
+   même qu'il éprouve des difficultés à s'exprimer, il peut aussi éprouver
+   des difficultés à écrire. Parfois, il lui est tout juste possible
+   d'écrire son nom ou de recopier quelques lettres.
+
+   La logorrhée, appelée plus communément « diarrhée verbale », peut être
+   diagnostiquée chez les patients et se traduit par un besoin
+   irrésistible de parler, sans pour autant que cela ait du sens, du fait
+   des troubles de compréhension ou/et d'expression.
+
+   Peuvent également être observés :
+     * le trouble arthrique : la prononciation des sons est anormale ;
+       elle peut être floue ou trop tonique. Habituellement, la personne
+       qui a un trouble arthrique parle plus lentement. Il peut être
+       parfois difficile de la comprendre parce que les sons ne sont pas
+       articulés clairement ou sont déformés ;
+     * les paraphasies : deux principales sortes que sont la paraphasie
+       verbale (mot) et la paraphasie phonémique (son). Quand l'aphasique
+       se trompe de mot (ex. : Passe-moi mes cigarettes - quand il veut
+       dire lunettes) ou qu'il déplace les lettres dans un mot (ex. :
+       culvitateur pour cultivateur), on dit qu'il fait des paraphasies ;
+     * le jargon : il est question de jargon ou « jargonaphasie » quand
+       l'aphasique déforme et confond les mots ou même en invente de
+       nouveaux à tel point qu'il devient impossible de le comprendre ;
+     * stéréotypie : Parfois, un aphasique parle très peu et les seuls
+       mots qu'il arrive à produire, quelle que soit la situation, sont
+       toujours les mêmes (ex. : « Mon Dieu, Mon Dieu » ou « ta, ta,
+       ta »). Même si quelqu'un de son entourage essaie de lui faire dire
+       autre chose, ce sont toujours les mêmes mots ou syllabes qui
+       reviennent ;
+     * trouble de compréhension : l'aphasique a de la difficulté à
+       comprendre ce que les gens lui disent, même s'il entend bien.
+       Certains aphasiques comprennent mieux les phrases courtes que les
+       mots, d'autres interprètent mieux les mots isolés. Ces difficultés
+       peuvent s'appliquer non seulement à ce qui est dit mais à ce qui
+       est écrit : dans ce cas, l'aphasique n'arrive pas à comprendre le
+       sens de ce qu'il lit.
+
+   Plusieurs descriptions de cas fournissent des données intéressantes sur
+   l'aphasie observée chez des utilisateurs du langage gestuel. Roy J.
+   Meckler, James L. Mack et R. Bennett (1979) ont décrit un jeune homme
+   qui avait été élevé par des parents sourds-muets^[6], et qui était
+   devenu aphasique à la suite d'un accident. Avant l'accident, il
+   communiquait aussi bien par langage par signes que par langage parlé.
+   Après, il éprouvait des troubles tout aussi graves dans son langage
+   parlé que dans son langage gestuel ou que dans son écriture. Il était
+   capable de reproduire des mouvements complexes des mains et des doigts,
+   lorsque les gestes à accomplir lui était montrés, mais il ne pouvait
+   pas les exécuter de façon spontanée.
+
+   Les individus aphasiques bilingues ou polyglottes présentent
+   généralement des atteintes dans toutes les langues qu'ils parlent. Les
+   personnes qui peuvent parler et écrire dans plus d'une langue ont
+   toujours fasciné les chercheurs spécialistes de l'aphasie.
+
+   Paradis et Goldblum (1989) ont passé en revue de nombreux cas qui ont
+   été publiés ; ils ont défini des classes de symptômes et des formes de
+   récupération chez des individus aphasiques bilingues et polyglottes. Il
+   existe différents modes de récupération, mais dans la forme la plus
+   courante, présentée par presque la moitié des cas de sujets bilingues,
+   les deux langues sont affectées de façon analogue, et la récupération
+   est la même dans les deux cas. Cependant, il existe des exceptions à
+   cette constatation : après des dommages cérébraux, certains patients
+   présentent un antagonisme alterné entre les deux langues qu'ils
+   pratiquaient ; dans ces cas, les malades passent d'une langue à
+   l'autre.
+
+Évolution du trouble
+
+   [modifier | modifier le code]
+
+   L'aphasie peut difficilement être prévenue ou guérie par des
+   médicaments. Si certains médicaments diminuent la tension et
+   régularisent la circulation générale, ils ne guérissent pas l'aphasie.
+   Une lésion cérébrale qui occasionnera des troubles aphasiques peut être
+   difficilement prévenue, d'autant plus qu'il y a plusieurs types de
+   lésions possible : l'ischémie par thrombose ou artériosclérose, ou par
+   hémorragie cérébrale, dont les mécanismes sont très différents.
+
+   Habituellement, l'aphasie résultant d'un accident cérébrovasculaire ou
+   d'un traumatisme ne s'aggrave pas. Au contraire, elle a tendance à
+   s'atténuer avec le temps. Cependant, si une augmentation importante des
+   difficultés est constatée, il faut alors revoir rapidement le médecin
+   traitant. Toutefois, il peut arriver certains jours que l'aphasie
+   semble temporairement s'accentuer sous l'effet de la fatigue, de
+   l'énervement ou d'une inquiétude passagère. Il ne faut pas s'alarmer
+   outre mesure de ce phénomène : le langage de l'aphasique, encore plus
+   que celui de l'individu en bonne santé, est très sensible aux
+   situations stressantes^[réf. nécessaire].
+
+Mécanismes de récupération du langage
+
+   [modifier | modifier le code]
+
+   Il existe trois phases de récupération du langage à la suite d'une
+   aphasie provoquée par un AVC : la phase aigüe, suivie de la phase
+   subaigüe ainsi que la phase chronique. La phase aigüe commence au
+   moment de l'AVC et se poursuit jusqu'à quelques jours après l'accident.
+   Durant cette période, la personne peut retrouver rapidement une grande
+   partie de ses facultés langagières. Elle est suivie de la phase
+   subaigüe qui peut durer jusqu'à quelques semaines. Cette phase
+   correspond au moment où la personne entre en réadaptation et commence
+   la rééducation orthophonique. Les améliorations sont moins importantes
+   que dans la phase aiguë, mais elles sont quand même significatives. La
+   phase chronique se présente comme un plateau et elle se situe un an
+   après l'AVC jusqu'à la mort. Durant ces phases, trois mécanismes de
+   récupération du langage peuvent s'appliquer. Il y a la réactivation de
+   la région endommagée, l'activation de l'hémisphère gauche et la
+   compensation de l'hémisphère droit^[7].
+
+   Le mécanisme le plus souhaitable, en cas de lésion, est la réactivation
+   de l'aire endommagée. Cette réactivation va permettre de rétablir le
+   débit sanguin et les connexions endommagées par l'AVC. Cette
+   récupération correspond à la phase aigüe et peut permettre, à certains
+   patients ayant une lésion mineure, de retrouver complètement leur
+   faculté langagière.
+
+   Dans le cas de lésion majeure, deux mécanismes peuvent se produire :
+   soit l'activation de l'hémisphère gauche ou la compensation de
+   l'hémisphère droit. L'activation de l'hémisphère gauche est le
+   mécanisme qui est le plus favorable lors d'une aphasie, car il est
+   l'hémisphère dominant pour le langage. L'étude de Hartwingsen et al.
+   (2013) va même jusqu'à inférer que l'activation du gyrus frontal médian
+   gauche serait favorable pour la récupération lexicale et l'activation
+   au niveau postérieur gauche du cerveau contribuerait à la récupération
+   phonologique et sémantique^[8]. La compensation de l'hémisphère droit,
+   quant à elle, va contrebalancer la lésion à gauche en activant la
+   région homologue. Ce mécanisme est considéré comme une mésadaptation du
+   cerveau, car recruter l'hémisphère non dominant pour le langage est
+   associé à une moins bonne récupération du langage. En plus d'utiliser
+   des connexions aucunement reliées au langage, celles-ci doivent
+   traverser d'un hémisphère à l'autre pour assurer le bon fonctionnement.
+   Ces mécanismes de compensation correspondent aux phases subaigües et
+   chroniques.
+
+   Lorsque l'hémisphère gauche est lésé, il devient moins performant et
+   l'hémisphère droit tente de compenser ce manque. Ce phénomène se nomme
+   rivalité inter hémisphérique. Lorsque les hémisphères ne sont plus en
+   équilibre, celui qui est sain prend le dessus sur l'autre. Il est donc
+   important qu'une plus grande activation soit faite autour de la lésion
+   dans l'hémisphère gauche pour rétablir l'équilibre. Sinon, l'hémisphère
+   droit prendra en charge les fonctions langagières ce qui nuirait à une
+   bonne récupération.
+
+   Lorsque le diagnostic d'aphasie est prononcé, il est essentiel de
+   connaître la sévérité de la lésion, son étendue ainsi que de trouver
+   quel mécanisme de récupération a été activé par le cerveau. Par la
+   suite, il faut établir un plan de rééducation orthophonique adapté pour
+   le patient. Pour savoir si nous sommes en présence de réactivation de
+   l'aire endommagée, de l'activation de l'hémisphère gauche ou de la
+   compensation de l'hémisphère droit, il faudrait procéder à une IRMf. Ce
+   diagnostic permettrait d'employer la thérapie orthophonique appropriée
+   pour le type de mécanisme déjà mis en place par le cerveau. Dans la
+   pratique, il est impossible de procéder à ce diagnostic pour chaque
+   patient, car le coût, le temps et l'accessibilité à l'appareil sont des
+   facteurs contraignants.
+
+Traitements
+
+   [modifier | modifier le code]
+
+   Les neurones touchés ne sont jamais renouvelés. En d'autres termes, la
+   guérison de l'aphasie n'est possible que si de nouvelles connexions se
+   font, ou si les voies nerveuses ne sont que partiellement touchées.
+   Dans ces cas, une rééducation orthophonique est nécessaire pour espérer
+   retrouver un langage proche de la normale. Cette récupération est
+   possible grâce à la capacité du cerveau à créer de nouveaux réseaux
+   neuronaux encore appelée plasticité cérébrale. Ainsi, un patient
+   atteint d'une aphasie de Broca causée par une lésion de l'hémisphère
+   gauche peut recouvrer des capacités d'expression orale à travers le
+   chant. En effet, la mélodie et la musique sont traitées par
+   l'hémisphère droit. À travers une méthode de rééducation appelée la
+   musicothérapie, le patient va essayer d'utiliser son hémisphère droit
+   pour dire des phrases avec une intonation musicale. Pourtant, des
+   études récentes montrent que l'efficacité de la thérapie mélodique et
+   rythmée est plutôt liée au rôle du rythme et des expressions
+   automatisées^[9]. Il s'agit d'une façon de rééduquer parmi d'autres.
+
+L'aphasie dans les arts
+
+   [modifier | modifier le code]
+
+Au cinéma
+
+   [modifier | modifier le code]
+     * 1993 : Les Mots perdus, film documentaire québécois sur l'aphasie,
+       réalisé par Marcel Simard^[10].
+     * 2018 : Un homme pressé est un film français réalisé par Hervé
+       Mimran^[11]. À la suite d'un accident vasculaire cérébral qui lui
+       cause de graves troubles de la parole et de la mémoire, un homme
+       (joué par Fabrice Luchini) réfléchit sur sa vie.
+     * En 2019 Delphine de Vigan publie la pièce Les gratitudes, qui met
+       en scène Michka, vieille femme qui devient sénile. Michka perd peu
+       à peu ses mots et on lui diagnostique l'aphasie. L'étroitesse,
+       l'angoisse de plus en plus pesante de son état est l'un des thèmes
+       centraux de l'œuvre.
+     * En mars 2022, l'acteur américain Bruce Willis annonce par le biais
+       de sa famille mettre fin à sa carrière car il semblerait touché par
+       cette maladie.
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Site http://atelier.foyerdegrenelle.org/, page sur Pyrrhon d'Elis
+       (consulté le 11 novembre 2019).
+    2. ↑ (en) Principe de Baillarger-Jackson
+    3. ↑ S. Clarke, J. Buttet Sovilla, A. Bellmann et M. Adriani, Revue
+       Médicale Suisse n^o 2390, Hommes et femmes : la même organisation
+       cérébrale ?, Différences liées au sexe dans la récupération suite
+       aux lésions cérébrales.
+    4. ↑ Chomel-Guillaume et al., « Les aphasies. Évaluation et
+       rééducation », Issy-les-Moulineaux oedex : elsevier Masson SAS.,‎
+       2010
+    5. ↑ Encyclopédie Vulgaris Médical : Léthologique.
+    6. ↑ (en) R.J. Meckler, J. L. Mack et R. Bennett, « Sign language
+       aphasia in a non-deaf-mute », National Library of Medicine,‎ 29
+       juillet 1979 (lire en ligne).
+    7. ↑ (en) Szaflarski, J.P., Allendorfer, J.B., Banks, C., Vannest, J.
+       and Holland, S.K. (2013). Recovery vs. not-recovery aphasia: The
+       contributions from the dominant and non dominant hémisphères.
+       Restorative Neurology and Neuroscience (31), 347-360.
+       DOI 10.3233/RNN-120267.
+    8. ↑ (en) Hartwingsen, G., Saur, D., Price, C.J., Ulmer, S.,
+       Baumgaertner and Siebner, H.R. (2013) Perturbation on the left
+       inferior frontal gyrus triggers adaptative plasticity in the right
+       homologous area during speech production. PINAS Early Édition, 1-6
+       DOI 10.1073/pnas.1310190110.
+    9. ↑ (en) Stahl B, Henseler I, Turner R, Geyer S, Kotz SA. « How to
+       engage the right brain hemisphere in aphasics without even singing:
+       evidence for two paths of speech recovery », Front. Hum. Neurosci.,
+       2013 DOI 10.3389/fnhum.2013.00035.
+   10. ↑ « Les mots perdus », sur Collection ONF
+   11. ↑ « Bande-annonce du film Un homme pressé, avec Fabrice Luchini et
+       Leïla Bekhti », sur leblogtvnews.com, 22 septembre 2018
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * aphasie, sur le Wiktionnaire
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Théophile Alajouanine, L’aphasie et le langage pathologique, Paris,
+       Ballière, 1968.
+     * Théophile Alajouanine et Paul Mozziconacci, L'aphasie et la
+       désintégration du langage, L'Expansion scientifique française,
+       coll. « Symposiums et monographies de la semaine des hôpitaux »,
+       1948, 156 p..
+     * Sigmund Freud, Contribution à la conception des aphasies, Paris,
+       P.U.F., 1983, 155 p..
+     * (en) Hébert, Racette, Gagnon et Peretz, « Revisiting the
+       dissociation between singing and speaking in expressive aphasia »,
+       Brain, vol. 126, n^o 8,‎ 1^er août 2003, p. 1838-1850
+       (DOI 10.1093/brain/awg186).
+     * Bernard Lechevalier, Francis Eustache et Fausto Viader (dir.),
+       Traité de neuropsychologie clinique : Neurosciences cognitives et
+       cliniques de l'adulte, Bruxelles/Paris, De Boeck,
+       coll. « Neurosciences et cognition », 2008, 1016 p.
+       (ISBN 978-2-8041-5678-7).
+     * André Roch Lecours, « Aphasie : querelles », Revue neurologique,
+       vol. 155, n^o 10,‎ 1999, p. 833-847.
+     * André Ombredane, Théophile Alajouanine et Marguerite Durand, Le
+       syndrome de désintégration phonétique dans l’aphasie, Paris,
+       Masson, 1939, 138 p..
+     * André Ombredane, L’aphasie et l’élaboration de la pensée explicite,
+       Paris, PUF, 1951, 440 p..
+     * Olivier Sabouraud, Le langage et ses maux, Paris, Odile Jacob,
+       1995, 560 p..
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Accident vasculaire cérébral
+     * Communication améliorée et alternative
+     * Dysphasie
+     * Langage humain
+     * Mutisme sélectif
+     * Paraphasie
+     * Test de dénomination orale d'images
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     * Ressources relatives à la santé Voir et modifier les données sur
+       Wikidata  :
+          + Classification internationale des soins primaires
+          + Diseases Ontology
+          + DiseasesDB
+          + ICD-10 Version:2016
+          + ICD9Data.com
+          + Medical Subject Headings
+          + MedlinePlus
+          + NCI Thesaurus
+          + Store medisinske leksikon
+          + WikiSkripta
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Britannica
+          + Den Store Danske Encyklopædi
+          + Gran Enciclopèdia Catalana
+          + Nationalencyklopedin
+          + Universalis
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + BnF (données)
+          + LCCN
+          + GND
+          + Japon
+          + Espagne
+          + Israël
+          + Tchéquie
+     * Associations :
+          + Fédération nationale d'aphasiques de France
+          + Aphasie Suisse
+          + Association québécoise de personnes aphasiques
+     * « L'Aphasie de Broca », Bulletin de la société française
+       d'anthropologie. Texte n°1 : séance du 18 avril 1861, tome 2, p.
+       235-238 ; texte n°2 : séance du 16 avril 1863, tome 4, p. 200-204,
+       sur bibnum.education.fr [[ lire en ligne]]
+
+   v · m
+   Troubles mentaux et du comportement (CIM-11 : F00-F99)
+   (F00-F09) Troubles mentaux organiques, y compris les troubles
+   symptomatiques
+   Démence
+     * Démence vasculaire
+     * Chorée de Huntington
+     * Leucoaraïose
+     * Maladie d'Alzheimer
+     * Maladie de Creutzfeldt-Jakob
+     * Maladie de Parkinson
+     * Maladie de Pick
+
+   Autres
+     * Amnésie
+     * Delirium
+     * Autres
+          + Syndrome post-commotionnel
+          + Trouble cognitif léger
+          + Syndrome frontal
+
+   (F10-F19) Troubles mentaux et du comportement liés à l'utilisation de
+   substances psycho-actives
+     * Intoxication aiguë
+     * Intoxication par les psychotropes
+          + État de possession
+          + État de transe
+          + Ivresse alcoolique aiguë
+          + Intoxication alcoolique
+          + Mauvais voyages
+     * Abus
+     * Syndrome de dépendance
+          + Alcoolisme chronique
+          + Dipsomanie
+          + Toxicomanie
+     * Syndrome de sevrage
+     * Syndrome de sevrage avec delirium
+     * Trouble psychotique
+          + Hallucinose alcoolique
+     * Syndrome amnésique
+          + Syndrome de Wernicke-Korsakoff
+
+   (F20-F29) Schizophrénie, schizotype et délire
+     * Schizophrénie
+          + Schizophrénie paranoïde
+          + Schizophrénie hébéphrénique
+          + Schizophrénie catatonique
+          + Trouble schizophréniforme
+     * Trouble schizotypique
+     * Trouble délirant
+          + Paranoïa
+          + Paraphrénie
+          + Psychose paranoïaque
+     * Quérulence
+     * Oneirophrénie
+     * Psychose réactive brève
+     * Trouble délirant induit
+     * Troubles schizo-affectifs
+     * Psychose hallucinatoire chronique
+     * Psychose non organique, sans précision
+
+   (F30-F39) Troubles de l'humeur
+     * Manie
+          + Hypomanie
+     * Trouble bipolaire
+          + Trouble bipolaire non spécifié
+     * Dépression
+          + Dépression psychotique
+          + Dépression atypique
+          + Dépression masquée
+          + Dépression saisonnière
+          + Dépression résistante
+          + Dépression périnatale
+          + Humeur dépressive
+     * Cyclothymie
+     * Dysthymie
+     * Dépression brève récurrente
+     * Trouble dysphorique prémenstruel
+
+   (F40-F48) Troubles névrotiques, troubles liés à des facteurs de stress
+   et troubles somatoformes
+   Troubles anxieux
+     * Phobie
+          + Agoraphobie
+          + Phobie sociale
+               o Anthropophobie
+          + Phobie spécifique
+               o Acrophobie
+               o Claustrophobie
+               o Phobie des animaux
+     * Trouble panique
+          + Attaque de panique
+     * Anxiété généralisée
+
+   Stress et adaptation
+     * Réaction aiguë au stress
+     * Trouble de stress post-traumatique
+     * Trouble de l'adaptation
+          + Hospitalisme
+          + Choc culturel
+
+   Trouble somatoforme
+     * Somatisation
+     * Trouble hypocondriaque
+          + Dysmorphophobie
+          + Hypocondrie
+          + Nosophobie
+     * Psychalgie
+
+   Troubles dissociatifs (de conversion)
+     * Fugue dissociative
+     * Amnésie dissociative
+     * Autres
+          + Syndrome de Ganser
+          + Trouble dissociatif de l'identité
+
+   Autres
+     * Trouble obsessionnel compulsif (TOC)
+     * Autres
+          + Neurasthénie
+          + Syndrome de dépersonnalisation-déréalisation
+          + Psychasthénie
+          + Syndrome de Briquet
+
+   (F50-F59) Comportements associés à des perturbations physiologiques et
+   à des facteurs physiques
+   Troubles des conduites alimentaires
+     * Anorexie mentale
+          + Anorexie mentale masculine
+     * Boulimie
+     * Hyperphagie psychogène
+     * Vomissement psychogène
+     * Perte d’appétit psychogène
+     * Pica de l'adulte
+     * Troubles alimentaires non spécifiques
+
+   Troubles du sommeil non organiques
+     * Insomnie non organique
+     * Hypersomnie non organique
+     * Rythme veille-sommeil irrégulier
+     * Somnambulisme
+     * Terreur nocturne
+     * Cauchemar
+     * Parasomnie non organique
+
+   Dysfonctionnement sexuel
+     * Absence ou perte du désir sexuel
+     * Impuissance sexuelle
+     * Anorgasmie
+     * Éjaculation précoce
+     * Vaginisme psychogène
+     * Dyspareunie psychogène
+     * Hypersexualité
+
+   Autres
+     * Dépression périnatale
+     * Psychose post-partum
+
+   (F60-F69) Troubles de la personnalité et du comportement chez l'adulte
+   Trouble de la personnalité
+     * paranoïaque
+     * schizoïde
+     * dyssociale
+     * borderline
+     * histrionique
+     * anankastique
+     * évitante
+     * dépendante
+     * Autres
+          + narcissique
+          + passive-agressive
+          + mégalomanie
+          + mythomanie
+
+   Identité et préférence sexuelle
+     * Dysphorie de genre
+          + Dysphorie de Genre
+          + Éonisme, transvestisme, travestisme bivalent
+          + Dysphorie de genre chez les enfants
+     * Troubles psychologiques et comportementaux associés au
+       développement et à l'orientation sexuels
+          + Trouble de la maturation sexuelle
+          + Trouble de l'excitation sexuelle
+          + Orientation sexuelle égodystonique
+          + Problème sexuel relationnel
+     * Troubles de la préférence sexuelle
+          + Fétichisme
+          + Travestissement fétichiste
+          + Exhibitionnisme
+          + Voyeurisme
+          + Pédophilie
+          + Sado-masochisme
+          + Nécrophilie
+          + Zoophilie
+
+   Autres
+     * Trouble des habitudes et des impulsions
+          + Jeu pathologique
+          + Kleptomanie
+          + Pyromanie
+          + Trichotillomanie
+          + Trouble explosif intermittent
+     * Pathomimie
+          + Syndrome de Münchhausen
+
+   (F70-F99) Troubles mentaux diagnostiqués à l'enfance
+   (F70-F79)
+   Retard mental
+     * Léger (QI de 50 à 69)
+     * Moyen (QI de 35 à 49)
+     * Grave (QI de 20 à 34)
+     * Profond (QI au-dessous de 20)
+
+   (F80-F89)
+   Troubles du développement
+     * Trouble de la parole et du langage
+          + Dyslalie
+          + Dysphasie
+          + Aphasie réceptive
+          + Aphasie
+               o Syndrome de Landau et Kleffner
+          + Zézaiement
+     * Trouble d'apprentissage scolaire
+          + Trouble de la lecture
+               o Dyslexie de développement
+          + Dysgraphie
+          + Agraphie
+          + Acalculie
+          + Dyscalculie
+               o Syndrome de Gerstmann
+          + Dysorthographie
+     * Dyspraxie
+     * Troubles envahissants du développement
+          + Autisme infantile
+          + Autisme atypique
+          + Syndrome de Rett
+          + Trouble désintégratif de l'enfance
+          + Article de qualité Syndrome d'Asperger
+          + Trouble non spécifié
+
+   (F90-F98)
+   Troubles émotionnels et du comportement
+     * Troubles hyperkinétiques
+     * Troubles des conduites
+          + Trouble oppositionnel avec provocation
+     * Troubles émotionnels
+          + Angoisse de séparation
+          + Trouble anxieux phobique de l'enfance
+          + Anxiété sociale
+          + Hyperanxiété
+          + Trouble de l'identité
+     * Mutisme sélectif
+     * Trouble réactionnel de l'attachement de l'enfance
+     * Trouble de l'attachement
+     * Tics
+          + Syndrome de Gilles de La Tourette
+     * Énurésie
+     * Encoprésie
+     * Mérycisme de l'enfance
+     * Pica du nourrisson et de l'enfant
+     * Bégaiement
+     * Bredouillement (langage précipité)
+     * Onychophagie
+     * Masturbation excessive
+
+     * icône décorative Portail de la médecine
+     * icône décorative Portail de la psychologie
+     * icône décorative Portail des neurosciences
+     * icône décorative Portail de la linguistique
+     * icône décorative Portail du handicap
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Aphasie&oldid=216919670 ».
+   Catégories :
+     * Sémiologie neurologique
+     * Symptôme
+     * Psycholinguistique
+     * Orthophonie
+     * Forme de handicap
+     * Trouble du langage
+
+   Catégories cachées :
+     * Image locale sans image sur Wikidata
+     * Page utilisant P780
+     * Page utilisant P1995
+     * Page utilisant P667
+     * Article utilisant une Infobox
+     * Projet:Médecine/Infobox Maladie dont l'image est à vérifier
+     * Article à référence nécessaire
+     * Page utilisant P699
+     * Page utilisant P557
+     * Page utilisant P494
+     * Page utilisant P493
+     * Page utilisant P486
+     * Page utilisant P604
+     * Page utilisant P1748
+     * Page utilisant P5082
+     * Page utilisant P3471
+     * Page pointant vers des bases externes
+     * Page pointant vers des bases relatives à la santé
+     * Page utilisant P1417
+     * Page utilisant P8313
+     * Page utilisant P1296
+     * Page utilisant P3222
+     * Page utilisant P3219
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Médecine/Articles liés
+     * Portail:Biologie/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Neurosciences/Articles liés
+     * Projet:Biologie/Pages liées
+     * Portail:Linguistique/Articles liés
+     * Portail:Langues/Articles liés
+     * Portail:Handicap/Articles liés
+     * Portail:Société/Articles liés
+
+     * La dernière modification de cette page a été faite le 18 juillet
+       2024 à 23:43.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
