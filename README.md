@@ -6,6 +6,8 @@ Dépôt git du projet en Projet Encadré (M1 TAL). Les contributeurs de ce proje
 
 * Sébastien Durna - [profil github](https://github.com/Seeeb3) [dépôt perso PPE](https://github.com/Seeeb3/PPE1-2024)
 
+* Fabiola Emal - [profil github](https://github.com/Fabiol-a) [Dépôt perso PPE](https://github.com/Fabiol-a/PPE1)
+
 ## Tableau de bord collectif
 
 ### Vendredi 3 janvier 2025
