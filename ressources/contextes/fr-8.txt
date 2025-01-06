@@ -1,22 +1,15 @@
-Macroglossie
 
    [ ] 13 langues
      * العربية
-     * Català
 --
-
    La macroglossie est une affection rare qui entraîne une augmentation
    anormale du volume de la langue. Cette déformation peut se présenter
    sous deux formes distinctes : la macroglossie congénitale et la
-   macroglossie acquise.
 --
-
    Le mot macroglossie est formé à partir du grec μάκρος (mákros),
    « long » et γλώσσα (glóssa), « langue ».
 
-Symptômes
 --
-   congénitales et acquises. La macroglossie isolée n'a pas de cause
    déterminable. Les causes les plus fréquentes liées à l'élargissement de
    la langue sont les malformations vasculaires (lymphangiome ou
    hémangiome) et l'hypertrophie musculaire (syndrome de
@@ -26,26 +19,21 @@ Symptômes
    l'hémiyperplasie est unilatéral. Chez les personnes édentées, le manque
    de dents laisse plus de place à l'expansion latérale de la langue, ce
    qui peut causer des problèmes de port de prothèses dentaires et causer
-   une pseudomacroglossie.
 --
-   L'amylose est une accumulation de protéines insolubles dans les tissus
    qui entrave la fonction normale. Cela peut favoriser la macroglossie si
    l'amyloïde est déposée dans les tissus de la langue, ce qui lui donne
    un aspect nodulaire. Le syndrome de Beckwith-Wiedemann est une maladie
-   héréditaire rare, qui peut inclure d'autres anomalies telles que
+--
    l'omphalocèle, la viscéralémie, le gigantisme ou l'hypoglycémie
    néonatale. La langue peut présenter un élargissement généralisé lisse
    et diffus . Le visage peut montrer une hypoplasie maxillaire entraînant
    un prognathisme mandibulaire relatif. Une macroglossie apparente peut
    également se produire dans le syndrome de Down. La langue a une surface
    papillaire fissurée. La macroglossie peut être un signe de troubles
-   hypothyroïdiens.
 --
-   provoque. Les cas bénins ou les cas avec des symptômes légers peuvent
    ne nécessiter aucun traitement. L'orthophonie peut être bénéfique, ou
    une intervention chirurgicale pour réduire la taille de la langue
    (réduction par glossectomie). Le traitement peut également impliquer la
    correction d'anomalies orthodontiques qui peuvent avoir été causées par
    l'élargissement de la langue.
 
-Liens externes

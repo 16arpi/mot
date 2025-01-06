@@ -1,23 +1,16 @@
-Aphasie
 
    [ ] 63 langues
      * العربية
-     * مصرى
 --
-   Le manque du mot (ou aphasie léthologique^[5]) : l'aphasique éprouve de
    la difficulté à trouver ses mots, un peu comme lorsque l'individu a le
    mot « sur le bout de la langue ». Il arrive parfois à donner un
    synonyme ou à décrire par une courte phrase ce qu'il cherche à nommer.
-   Souvent, il n'arrive pas à trouver, il « démissionne » et laisse sa
 --
-
    Les individus aphasiques bilingues ou polyglottes présentent
    généralement des atteintes dans toutes les langues qu'ils parlent. Les
    personnes qui peuvent parler et écrire dans plus d'une langue ont
    toujours fasciné les chercheurs spécialistes de l'aphasie.
-
 --
-   existe différents modes de récupération, mais dans la forme la plus
    courante, présentée par presque la moitié des cas de sujets bilingues,
    les deux langues sont affectées de façon analogue, et la récupération
    est la même dans les deux cas. Cependant, il existe des exceptions à
@@ -25,10 +18,7 @@ Aphasie
    présentent un antagonisme alterné entre les deux langues qu'ils
    pratiquaient ; dans ces cas, les malades passent d'une langue à
    l'autre.
-
 --
-     * Projet:Biologie/Pages liées
      * Portail:Linguistique/Articles liés
      * Portail:Langues/Articles liés
      * Portail:Handicap/Articles liés
-     * Portail:Société/Articles liés

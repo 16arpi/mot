@@ -1,42 +1,31 @@
-   [ ] Basculer la table des matières
 
 Langue (métadonnée)
 
    [ ] Ajouter des langues
 
-   Ajouter des liens
 --
-   Page d’aide sur l’homonymie
 
    Pour les articles homonymes, voir Langue (homonymie).
 
-   Cet article est une ébauche concernant un logiciel.
 --
-   selon les recommandations des projets correspondants.
 
    La langue (language en anglais) est un élément de métadonnée dans le
    standard Dublin Core ou dans d'autres descriptions de schémas XML
-   (XSD).
 --
-     « Langage(s) du contenu intellectuel de la ressource. Si approprié,
      le contenu de ce champ devrait correspondre à la norme RFC 1766^[1]
      [norme pour code de langue IETF]. Voir:
      http://ds.internic.net/rfc/rfc1766.txt, pour des exemples avec en,
-     de, es, fi, fr, ja, th, et zh » »
+--
 
    L'attribut langue (lang) intervient également dans les deux principaux
    langages de balisage :
-     * HTML : attribut lang
 --
-
    [modifier | modifier le code]
      * Code de langue
      * Langue
      * Gestion des langues
      * Élément (métadonnée)
-     * Dublin Core
 --
-
    [modifier | modifier le code]
      * Élément langue dans le Dublin Core
      * Élément langue dans le système de gestion électronique des
@@ -46,15 +35,12 @@ Langue (métadonnée)
 
      * icône décorative Portail des langues
      * icône décorative Portail de l’informatique
-
+--
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Langue_(métadonnée)&oldid=
    162802942 ».
-   Catégorie :
 --
-   Catégories cachées :
      * Wikipédia:ébauche logiciel
      * Portail:Langues/Articles liés
      * Portail:Langues/Articles liés directement
      * Portail:Société/Articles liés
-     * Portail:Informatique/Articles liés

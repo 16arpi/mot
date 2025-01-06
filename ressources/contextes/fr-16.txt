@@ -1,160 +1,120 @@
-
    vonguru
    Accueil Chroniques Le Fourchelang, langue fictive ?
 
-     * Chroniques
-     * Tech
+--
 
 Le Fourchelang, langue fictive ?
 
-   Par
 --
-   Linkedin
 
 Langues et pratiques du Geek : le Fourchelang
 
-
 --
-
    Si, à cette première question, vous répondez par une autre question,
    qui serait de l’ordre de « Qu’est-ce qu’une langue fictive ? », je vous
    recommanderais chaudement de parcourir le premier volet de cette
    chronique, consacré au Quenya, et dans lequel je prends le temps de
    définir selon mes termes cette notion de langue fictive.
 
-   Néanmoins, pas besoin d’une explication complète pour affirmer ce qui
-   va suivre : il n’est pas rare qu’un univers fictif se compose, outre de
+--
    personnages et de lieux particuliers, spécifiques et parfois créés
    spécialement pour cet univers, de langues créées pour l’occasion. Ces
    langues, qui apportent très souvent cette petite pointe d’exotisme qui
    nous fait rêver, viennent surtout compléter l’ancrage de ces univers
-   fictifs, les rendant plus crédibles et incroyablement plus riches. Et
+--
    si nous nous plongions dans ces univers, parmi nos préférés, en
    apprenant leur langue ? C’est du moins ce que j’ai fait pour vous, en
    quatre semaines top chrono ! Bien sûr, il ne s’agira pas d’un cours de
    langue de ma part, mais plutôt d’une approche des différentes langues
    fictives qui peuvent exister, en s’intéressant à l’univers dans lequel
-   elles s’inscrivent et à leur apprentissage.
 --
-
    fourchelang extrait « Vonguru speaks fispa » – Cleek parle le Fispa
    (aka langue inspirée du Fourchelang) !!! modification de l’image à
    venir
-
 --
-   Notons que dans le monde intradiégétique de Harry Potter, on qualifie
    de parselmouth (sobrement traduit par fourchelang en français) toute
    personne parlant la langue des serpents (ou Parseltongue ou
    Fourchelang). Car parler cette langue n’est pas donné à tout le monde
    et les locuteurs de cette langue, qui mérite un nom pour les désigner,
    peuvent se compter sur les doigts des deux mains (ou presque. Parmi les
-   plus notables, nous citerons donc Harry Potter, Voldemort (pardon,
 --
-   l’illustre Salazar Serpentard, ou encore Dumbledore (qui ne parle pas
    mais comprend simplement le Fourchelang). La principale caractéristique
    de cette langue, outre le fait qu’elle soit parlée par les serpents et
    quelques rares locuteurs humains, est qu’elle ne s’apprend pas. On la
-   parle ou on ne la parle pas, mais ça ne s’acquiert pas (désolée
 --
-   descendance de Salazar Serpentard (y compris Merope Gaunt et Tom
    Jedusor) peut la parler. C’est pour cela que Dumbledore ne peut QUE la
    comprendre. Quant à Harry, il ne peut parler la langue des serpents
    qu’à cause de ce lien qu’il l’unit à Voldemort, don qu’il perd lorsque
-   Voldemort décède. Notons que les non-initiés peuvent cependant
 --
-   dernier ignore lui-même une partie du temps qu’il parle en Fourchelang,
    toutes les occurrences sont donc écrites en français (ou anglais, ou
    autre, en fonction de votre langue de prédilection). Ce n’est que par
    le biais des autres personnages – l’explication de Ron après l’épisode
-   du duel, le sursaut d’Hermione dans la scène avec Bathilda, etc – que
+--
    Harry et le lecteur sont informés d’une translation du français au
    Fourchelang. La seule mention de la langue dans les livres relève d’une
    description de ce qu’entend Harry lorsqu’il se rend compte qu’il parle
-   Fourchelang et qui dit que « a strange hissing had escaped him ».
-
+--
    A contrario, dans les films, le spectateur est quasiment tout le temps
    conscient du passage d’une langue à l’autre. Les occurrences de
    Fourchelang sont soit prononcées en français (ou anglais, ou autre)
    d’une façon spécifique, comme un murmure sifflant, qui rappelle bien le
    caractère reptilien de cette langue, soit en Fourchelang pur et dur
    (avec ou sans sous-titrage), en fonction de si l’on est en présence
-   d’Harry seul, ou non, auquel cas le spectateur est logé à la même
 --
-   spécialement élaboré pour les films (et il faut avouer que ça en
    impose). C’est le linguiste Francis Nolan, professeur spécialisé dans
    la phonétique (l’étude des phonèmes, des sons de la langue) à la
    University of Cambridge, qui s’en est chargé. Une conférence donnée le
-   9 décembre 2015 à la University of Kent au sujet de la création du
 --
-
    Les deux contraintes principales prises en compte par le linguiste ont
    été que la langue devait être adaptée à la fois aux serpents et aux
    acteurs. Cela se traduit donc par une sur-représentation de fricatives
-   (comprendre, des sons provoquant un sifflement, comme le s ou le f),
 --
-   retrouve pas dans le français, mais plutôt dans l’arabe, par exemple),
    ont été ajoutées pour rappeler le caractère étroit de l’anatomie du
    serpent et l’aspect menaçant de la langue. Car ces sons semblent
    particulièrement durs à l’oreille des locuteurs n’étant pas familiers
    de ces sonorités. Toutefois, cette langue devant avant tout être
    utilisée par des acteurs humains, d’autres sons ont dû être exclus du
-   système phonétique du Fourchelang, notamment les doubles latérales (à
 --
-   aussi d’ordre syntaxique, puisque l’on apprend au cours de cette
    conférence (mais aussi sur d’autres sites) que le Fourchelang est une
    langue avec un système VSO (Verbe-Sujet-Objet, soit Mange le chat la
    souris, contrairement à notre bon vieux français qui utilise un ordre
-   Sujet-Verbe-Objet, soit Le chat mange la souris), qui utilise la
 --
-   traduit par vers la forêt, ce qui est pour nous une préposition, vers,
    devient une postposition en hongrois car elle est placée après le mot
    qu’elle subordonne), et qu’il s’agit d’une langue ergative avec un
    système casuel : si ces mots peuvent paraître barbares, sachez
    simplement que dans cette langue (comme toutes les langues
    ergatives), le sujet d’un verbe intransitif et l’objet d’un verbe
-   transitif sont tous les deux identifiés par un même cas, l’absolutif,
 --
-   c’est à dire qu’il accepte des compléments d’objets (il mange une
    pomme) alors que dormir est un verbe intransitif, qui n’accepte pas de
    complément d’objets (il dort). Le caractère ergatif d’une langue se
    traduit simplement par des déclinaisons différentes qui permettent
-   d’identifier dans la phrase que le chat est le sujet du verbe mange et
+--
    que la souris et l’objet du verbe mange dans Mange le chat la souris.
    Le latin, s’il est bien une langue à système casuel, est quant à lui
    une langue accusative puisque ce sont les sujets du verbe transitif et
    du verbe intransitif qui se partagent un même cas (le nominatif), que
-   l’on oppose cette fois à l’objet du verbe transitif (que l’on indique à
 --
-
    Notons qu’il n’existe pas de guide officiel du Fourchelang. J.K.
    Rowling n’a jamais fourni d’informations précises sur la langue, et
    Francis Nolan n’a pas, à ma connaissance, fourni de guide détaillé du
    fonctionnement de cette langue, hormis les explications données lors de
    la conférence dont nous parlions précédemment. La plupart des
-   ressources que l’on trouve donc en ligne sont des appropriations des
 --
-   et offre, en plus du vocabulaire, des cours concernant la syntaxe ainsi
    que de nombreux exercices. Vous trouverez aussi une page Wiki dédiée à
    une langue inspirée du Fourchelang, le Fispa, qui se veut elle aussi
    très complète. C’est une forme hypothétique du Fourchelang évoquée par
    J.K. Rowling, mais construite par des fans, indépendamment des
    indications données par Nolan. C’est notamment cette langue qui a été
    utilisée pour écrire l’échantillon de Fourchelang au début de cet
-   article. Pour parfaire votre oreille, vous pouvez toujours vous tourner
 --
-   occurrences extraites des films (Youtube ou vos DVD/BlueRay de la saga
    Harry Potter sont vos amis) pour vous inspirer de la version officielle
    de la langue.
    vonguru fourchelang chambre secret Ceci n’est pas une bonne ressource
-   pour apprendre le Fourchelang
 --
-   pour preuve l’exemple que je vous donne dans l’introduction : n’ayant
    pas le verbe « parler » ni le verbe « apprendre », ni même le verbe
    « utiliser », et n’ayant pas même le mot « langue » dans la version
    quasi officielle du Fourchelang, j’ai donc dû me rabattre sur le Fispa,
-   dont je vous parlais précédemment, pour vous proposer une phrase
 --
-
    Apprendre le Fourchelang est possible, mais compliqué. C’est surtout
    une de ces langues qui ne sont pas (du tout) gratifiantes une fois
    apprises. Le nombre très réduit de locuteurs et de vocabulaire rend
@@ -163,4 +123,3 @@ Langues et pratiques du Geek : le Fourchelang
    plus complète dans le monde magique du sorcier à la cicatrice. Cela
    étant, lorsque vous maîtriserez cette langue, plus personne ne vous
    regardera de la même façon, que ça oscille entre la fascination et la
-   peur, surtout lorsque vous parlerez. Et si jamais vous n’arrivez pas au

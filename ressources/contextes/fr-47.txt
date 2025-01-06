@@ -1,22 +1,17 @@
-   [ ] Basculer la table des matières
 
 Langue (anatomie animale)
 
    [ ] Ajouter des langues
 
-   Ajouter des liens
 --
-   Page d’aide sur l’homonymie
 
    Pour les articles homonymes, voir Langue (homonymie).
    Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
-   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
 --
-   En pratique : Quelles sources sont attendues ? Comment ajouter mes
    sources ?
    [220px-Buff-Winged_Starfrontlet_%28Coeligena_lutetiae%29.jpg] La langue
    du colibri Coeligena lutetiae nectarivore lui permet de capter le
-   nectar et de polliniser des fleurs à longue
+--
    corolle.[220px-Macroglossum_stellatarum_anatomy_-_MHNT.jpg]
    Macroglossum littéralement : Longue langue.[220px-Okapitongue.jpg]
    Langue de l'okapi.[220px-Sublingua_of_a_slow_loris_001.jpg] Le Loris
@@ -28,30 +23,27 @@ Langue (anatomie animale)
    permet de capturer des fourmis dans leurs
    fourmilières.[220px-Gelada_Baboon_facial_expression.jpg] La langue
    contribue aux mimiques des primates (ici un gélada, ou « singe lion »,
-   Theropithecus gelada).
+--
 
    La langue est un organe plus ou moins mobile présent chez de nombreux
    animaux (vertébrés, certains invertébrés).
-
-   Elle est située dans la cavité buccale, ancrée sur le plancher buccal
+--
    et s'appuyant sur le palais (dur ou mou selon les espèces). Certains
    animaux ont une langue très râpeuse qui les aide à capter leur
    nourriture, et quelques espèces ont une longue langue qui peut
    s'enrouler.
-
 --
-   Cet organe joue plusieurs rôles, dont :
      * acquisition et tri de la nourriture (à distance parfois comme chez
        le caméléon qui peut vivement projeter une langue longue et
        collante pour capturer des insectes en vol^[1], ou chez le tamanoir
        qui peut capturer des fourmis dans la fourmilière grâce à une
        langue très allongée).
      * mastication et déglutition et parfois filtration (chez le flamant
-       rose par exemple)
+--
      * phonation / vocalises, claquement sonores, etc. Il existe un débat
        sur le rôle éventuel de la langue dans l'apparition du langage
        parlé chez l'Humain^[2].
-     * goût ou chémioperception, grâce aux papilles et « bourgeons
+--
        gustatifs » ou à d'autres terminaisons nerveuses qui tapissent une
        partie de la langue.
      * le nettoyage corporel (léchage) et les contacts avec les petits
@@ -62,38 +54,30 @@ Langue (anatomie animale)
      * préhension ; sans être un organe très préhensile, le caractère
        sensible, mobile et collant de la langue permet à de nombreuses
        espèces de l'utiliser pour attraper, déplacer, trier des éléments
-       comestibles ou non. Ses nombreux récepteurs lui confèrent des
 --
-       chaud et au froid), chémoception (les composantes de la gustation).
      * Communication : outre aux vocalise et au langage chez l'Homme, la
        langue contribue beaucoup chez certaines espèces aux mimiques
        faciales.
-
 --
-   [modifier | modifier le code]
 
    La taille, la forme, la couleur et la structure de la langue varient
    considérablement selon l'animal, mais de manière générale, il s'agit
-   d'un organe musculeux, très vascularisé, riche en terminaisons
+--
    nerveuses et très mobile (protrusion, rétraction, dépression
    élévation). Chez les mammifères la langue est souvent humide et
    maintenue humide par les glandes salivaires. Chez d'autres espèces elle
    peut être sèche et kératinisée (oiseaux). Les carnivores ont souvent
    une langue assez longue et aplatie à son extrémité (ce qui leur permet
    de lapper l'eau ou d'autres liquides pour boire), alors qu'elle est
-   souvent plus tubulaire et massive chez les herbivore et omnivores.
+--
 
    Chez les reptiles la langue bifide joue un rôle d'exploration chimique
    de l'espace, un peu comparable à celui de l'olfaction. Elle est capable
-   de détecter.
 --
-   [modifier | modifier le code]
 
    Chez les vertébrés, la langue est ancrée par sa racine sur le squelette
    (au niveau de l'os hyoïde chez les singes et l'Homme). Chez les
-   mammifères son squelette est ostéo-fibreux.
 --
-   [modifier | modifier le code]
 
    La langue est généralement constituée d'un assemblage complexe de
    muscles (17 chez l'Homme), avec des muscles extrinsèques (prenant
@@ -101,25 +85,20 @@ Langue (anatomie animale)
    de la langue) et intrinsèques (principalement responsables de la forme
    prise par de la langue). La structure biomécanique de la langue, qui
    est un milieu hydrostatique, sans os ni cartilages peut évoquer celle
-   des tentacules des céphalopodes, et fait l'objet d'études^[3].
 --
-   [modifier | modifier le code]
 
    Chez la plupart des vertébrés, la langue est fortement vascularisée par
    une artère dite artère linguale qui se subdivise dans la langue ; cette
    artère est elle-même issue de la carotide externe chez les mammifère.
-   Le sang repart vers le cœur par une veine dite linguale, ou ranine.
-
+--
    Chez les animaux dits « supérieurs », dans le fond de la bouche la
    langue ouvre sur le système pharyngo-larhyngé, via un système de
    sphyncters ou une épiglotte. Elle est alors associée à des ganglions,
-   des glandes et parfois des amygdales linguales.
 --
-
    Ces pathologies sont rarement observées dans la nature, mais de
    nombreuses maladies peuvent affecter la langue des animaux d'élevages
      * blessures infectées
-     * mycoses
+--
      * aphtes
      * glossite (inflammation de la langue)
      * tumeurs ou kyste
@@ -128,52 +107,37 @@ Langue (anatomie animale)
        la bouche du poissons hôte^[4].
      * Maladie de la langue bleue
 
-Notes et références
 --
-       Zoological Journal of the Linnean Society, vol. 83(4),‎ 1985,
        p. 307-324 (lire en ligne [PDF]).
     4. ↑ Émeline Ferard (2012) Un parasite qui dévore la langue des
        poissons pour vivre dans leur bouche, article publié le 06 mars
-       2012
 --
-
    Sur les autres projets Wikimedia :
      * Langue dans le monde animal, sur Wikimedia Commons
 
-Bibliographie
 --
-       microstructure of the rhythmic tongue movements of rats ingesting
        maltose and sucrose solutions » [« Analyse de la microstructure des
        mouvements rythmiques de la langue des rats ingérant des solutions
        de maltose et de saccharose »], Behavioral neuroscience,
-       vol. 106(1),‎ 1992, p. 217-228 (résumé).
 --
-   [modifier | modifier le code]
      * Bouche, Gueule
      * langue (anatomie humaine)
      * Langue du cheval
      * Langue bifide
      * Léchage
-
 --
-   Organes du tube digestif
      * Lèvres
      * Bouche (contenant les dents et la langue)
      * Pharynx
-     * Œsophage
 --
-     * bouche
           + lèvres
           + langue
           + dents
-          + alvéoles
 --
-
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Langue_(anatomie_animale)&
    oldid=219987858 ».
-   Catégories :
+--
      * Bouche
      * Langue (anatomie)
 
-   Catégories cachées :

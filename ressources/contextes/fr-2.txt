@@ -1,49 +1,35 @@
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1 Situation de la langue française dans le monde
 
-     2 Origines : vocabulaire et étymologie
 --
-
 
    4.2 Langue officielle et langue de travail
 
-
 --
-
 
    4.5 Influence dans d'autres langues
 
-
 --
-
    (BUTTON) Afficher / masquer la sous-section Enseignement
      * 9.1 Comme langue étrangère
 
-     * 9.1.1 Alliances françaises
 --
-
 
    9.2 Comme langue maternelle
 
-
+--
 
    9.3 Comme langue seconde
 
-
 --
-Français
 
    [ ] 270 langues
      * Аԥсшәа
-     * Acèh
 --
-   Page d’aide sur l’homonymie
 
    Cet article concerne la langue française. Pour les autres
    significations, voir Français (homonymie).
-
-   Français
+--
    Image illustrative de l’article Français
    Couverture de La Défense et illustration de la langue française de
    Joachim du Bellay (1549).
@@ -52,8 +38,7 @@ Français
    Nombre de locuteurs 343 millions^[1]^,^[2]^,^[3] (2024)
    Français langue maternelle : 113 millions^[4]
    Nom des locuteurs francophones
-   Typologie SVO, flexionnelle, accusative, syllabique, à accent
-   d'intensité
+--
    Classification par famille
      * - langues indo-européennes
           + - langues italiques
@@ -63,13 +48,11 @@ Français
                               - - langues gallo-romanes
                                    = - langues d'oïl
                                    * - français
-
+--
    Statut officiel
    Langue officielle 27 pays :
    Drapeau de la Belgique Belgique
-   Drapeau du Bénin Bénin
 --
-   Régi par
      * Académie française
      * Délégation générale à la langue française et aux langues de France
      * Commission d'enrichissement de la langue française (France)
@@ -81,39 +64,31 @@ Français
 
    Codes de langue
    IETF fr
-   ISO 639-1 fr
-   ISO 639-2 fra, fre
+--
    ISO 639-3 fra
    Étendue Langue individuelle
    Type Langue vivante
    Linguasphere 51-AAA-i
-   WALS fre
 --
-   NE Non menacée
 
    Langue non menacée (NE) au sens de l’Atlas des langues en danger dans
    le monde
-
 --
-   Répartition du français et des créoles à base lexicale française dans
    le monde.
      * Langue maternelle (créoles inclus)
      * Langue officielle
      * Langue administrative, d'enseignement et de travail
      * Langue importante, seconde ou de culture
 
-   modifier
+--
 
    Le français est une langue indo-européenne de la famille des langues
    romanes dont les locuteurs sont appelés « francophones ».
-
-   Selon l'Observatoire démographique et statistique de l'espace
+--
    francophone (ODSEF) de l'Université Laval et l'Observatoire de la
    langue française de l'OIF, en 2024, le français est la cinquième langue
    la plus parlée au monde, avec 343 millions^[6] de locuteurs
-   représentant 4,2 % de la population mondiale (1 personne sur 24), dont
 --
-   dresse un portrait exhaustif de la francophonie dans le monde, une
    estimation crédible des francophones réels, c'est-à-dire qui utilisent
    le français quotidiennement comme langue maternelle ou deuxième, se
    situerait autour de 130 millions, ce qui placerait le français au
@@ -122,9 +97,7 @@ Français
 
 Situation de la langue française dans le monde
 
-   [modifier | modifier le code]
 --
-   2050^[10].
 
    Le français est la cinquième langue parlée au monde après l'anglais, le
    mandarin, le hindi et l'espagnol. Elle est également la deuxième langue
@@ -145,79 +118,61 @@ Situation de la langue française dans le monde
    organisations gouvernementales régionales, telles que l'Union africaine
    ou l’Union européenne, et est aussi langue officielle ou de travail de
    nombreuses organisations non gouvernementales internationales, comme le
-   Comité international olympique ou le Mouvement international de la
 --
-
    Grâce à sa présence sur tous les continents et du fait qu'elle est
    l'une des langues officielles de l'ONU ainsi qu'une de ses langues de
    travail, le français figure parmi les langues les plus influentes du
    monde^[13].
-
-   L'histoire du français et des francophones est celle de la rencontre et
+--
    de l'échange entre de nombreux peuples. Le français est une variété de
    la langue d'oïl, un groupe de langues romanes parlées originellement
    dans la partie septentrionale du domaine gallo-roman, sur le territoire
    des actuelles France, Suisse et Belgique. Les langues gallo-romanes
    résultent de l'évolution, sous l'influence de langues germaniques, tel
    que le vieux-francique des Francs, du latin populaire parlé en Gaule
-   par les Gallo-Romains. Ces derniers formaient un ensemble de peuples
 --
-   52 av. J.-C. En 843, l'historien franc Nithard, petit-fils de
    Charlemagne, produit ce qui est considéré comme le premier texte connu
    en langue française. Il s'agit d'une chronique qui retranscrit les
    serments d'alliance, prononcés à Strasbourg l'année précédente, par
-   Louis le Germanique, premier souverain allemand.
 --
-   Durant le Moyen Âge européen, en particulier entre le X^e et le
    XIII^e siècle, alors que le système de déclinaisons de l'ancien
    français s'effondre, les langues d'oïl commencent à se diffuser hors de
    leur domaine d'origine du fait des invasions normandes des îles
-   Britanniques, du sud de l'Italie ou bien des croisades qui, en
-   établissant des États latins au Levant, font du français une base de la
+--
    lingua franca méditerranéenne. En 1539, par l’ordonnance de
    Villers-Cotterêts, le moyen français, langue maternelle des dynasties
    capétiennes, devient la langue juridique et administrative en France. À
    la même période, il commence à se diffuser plus massivement hors
-   d'Europe, d'abord en Amérique, puis en Afrique, en Asie et en Océanie,
 --
-
    En 1794, par le décret révolutionnaire du 2 thermidor an II et bien
    qu'il ait été, sous l'Ancien Régime, la langue des cours royales et
    princières européennes, le français classique, langue des Lumières,
    devient la seule langue officielle de la Première République
    française^[14]. Une des particularités du français se trouve dans le
-   fait que son développement et sa codification ont été en partie l'œuvre
-   de groupes intellectuels, comme la Pléiade, ou d'institutions, comme
+--
    l'Académie française. Le français est ainsi souvent considéré comme une
    langue « académique ». À partir du XIX^e siècle, et malgré quelques
    réformes au cours des siècles suivants, son orthographe codifiée
-   commence à se figer. Elle est considérée comme transparente dans le
+--
    sens de la lecture, mais opaque dans le sens de l'écriture. Au cours du
    XX^e siècle, le français devient une langue d'envergure mondiale en
    même temps qu'il s'émancipe de l'Europe : à partir de ce siècle le
    nombre de francophones vivant hors d'Europe dépasse le nombre de
    locuteurs sur le continent d'origine de la langue.
 
-   Entre le 16 mars et le 20 mars 1970 et sous l'impulsion de ceux qui
 --
-   jette ainsi les bases pour la création d'une Organisation
    internationale de la francophonie (OIF) qui réunit les peuples
    partageant la langue française. En 1988, en commémoration de cet
    évènement, les États membres de l'Organisation font du 20 mars la
-   Journée internationale de la francophonie.
 --
-   En 1989, ont lieu au Maroc les premiers jeux de la Francophonie qui
    réunissent pour la première fois les athlètes de la communauté
    francophone autour de la langue qu'ils partagent. En 1997, à Hanoï,
    capitale du Viêt Nam, les États francophones adoptent la Charte
-   institutionnelle de la Francophonie qui sera complétée en 2005 à
 --
-   Ces deux chartes présentent l'importance du multilinguisme pour le
    monde francophone, les valeurs de solidarité, d'égalité et de
    fraternité entre les peuples qui doivent être véhiculées par la langue
    française, vecteur de progrès et de modernité, ainsi que le rôle actif
-   que doivent exercer les francophones pour la préservation de la
-   diversité linguistique et culturelle. En 2010, l'Organisation des
+--
    Nations unies déclare que le 20 mars de chaque année sera observée à
    travers le monde la Journée de la langue française en souvenir de la
    conférence de Niamey. Les organisations francophones proposent autour
@@ -227,74 +182,57 @@ Situation de la langue française dans le monde
    La langue française est un attribut culturel souverain pour de nombreux
    peuples et États comme en France où depuis 1992 « la langue de la
    République est le français » ou au Québec où depuis 1977 elle « permet
-   au peuple québécois d’exprimer son identité ». Elle est également le
+--
    principal véhicule des cultures francophones dans le monde et le moyen
    principal d'expression de leurs pensées. La langue, parfois surnommée
    « langue de Molière^[15] », ne cesse de s'enrichir que ce soit de façon
    formelle, par des décrets par exemple, mais aussi de façon informelle.
-
 --
-
    [modifier | modifier le code]
    Articles détaillés : Histoire de la langue française et ancien
    français.
-
 --
-
    La majorité du fonds lexical français provient du latin (en tant que
    langue-mère) ou bien est construit à partir des racines gréco-latines.
    De nombreux termes possèdent un doublon de même étymologie, l'un ayant
-   évolué à travers les siècles à partir du latin populaire tandis que
 --
-   du fonds lexical français provient du latin »^[Note 1].
 
    On ignore jusqu'à quel point la langue gauloise a pu influencer le
    français. Son apport lexical se réduirait à une centaine de mots, tels
-   que char/charrue, mouton, crème, dont une partie proviendrait
-   d'emprunts du latin au gaulois. L'étymologie de ces expressions n'est
+--
    d'ailleurs pas toujours assurée. Quant à son influence sur la syntaxe
    et la prononciation, elle est également indéterminée. Ces langues
    gauloises sont soumises à de fortes influences celtes. Elles ont aussi
-   apporté des évolutions phonétiques spécifiques, tel le son u, ou le
+--
    suffixe -ons à la première personne du pluriel. Puis, la conquête
    franque, et plus largement germaine, a enrichi notre langue d'un bon
    millier de termes, comme dans le domaine de la guerre (guerre, butin,
-   galoper, éperon, hache, heaume...) ainsi que d'autres évolutions
 --
-   Le francique, en tant que substrat, a laissé également quelques mots
    importants (gris, blanc, blond, bleu, etc.), et aurait fortement
    influencé la prononciation du protofrançais, puis des langues d'oïl.
 
    Les termes utilisés au Moyen Âge pour désigner les langues d'oïl dans
    leur ensemble sont franceis (dès le X^e siècle), puis françois et roman
-   (essentiellement jusqu'au XII^e siècle). Il est notable que les termes
 --
-   franceis et rumanz, mais pas celui de « normand »^[18] ; de même, le
    romancier médiéval Chrétien de Troyes, d'origine champenoise, désigne
    sa langue comme la « langue françoise »^[19]. Le terme de « français »
    n'est donc nullement limité à la langue du seul domaine royal. De la
    même façon, si le terme de « Français » désigne essentiellement les
-   habitants des terres situées sous le contrôle direct du roi par
 --
-   concurrents n'est pas sans créer des ambiguïtés dans les textes
    médiévaux ; ainsi, Roger Bacon, désignant le français sous le terme
    latin de lingua Gallicana (traduisible par « langue française »),
    indique qu'elle est parlée à la fois par les Picards, les Bourguignons,
-   et les Français « purs » (puros Gallicos), c'est-à-dire les Français du
 --
-
    Le français parlé aujourd'hui tire son nom de cet ancien franceis,
    langue-toit regroupant l'ensemble des dialectes d'Oïl (franceis
    [frãntsëé] → françoys/françois [frãswé] → français [frãsé]). Le terme
    de « langues d'oïl », apparu au XIII^e siècle (l'une de ses premières
    occurrences figure chez Dante^[21]) ne se répand véritablement qu'au
-   XIV^e siècle, époque où la variante d'Île-de-France l'emporte sur les
 --
-   désigner que celle-ci. Cette variante francilienne est parfois désignée
    par le terme francien, inventé en 1889 par Gaston Paris, un linguiste
    français, pour le distinguer des autres variantes de la langue d'oïl.
    Ces autres variantes se sont progressivement affaiblies au fur et à
-   mesure que le français prenait du prestige, en grande partie également
+--
    en raison de leur proximité avec celle-ci. À l'inverse, malgré un recul
    encore constaté, les langues ou dialectes romans non d'oïl (variétés de
    l'occitan, franco-provençal/arpitan, royasque, ligure, corse) et les
@@ -312,21 +250,17 @@ Situation de la langue française dans le monde
    même que le sont aujourd'hui les apports venus de l'anglais et des
    langues natives des immigrants des pays voisins ou plus lointains, mais
    aussi des pays francophones.
-
 --
-   Article détaillé : Emprunt lexical.
 
    Les emprunts plus récents à d'autres langues sont assez nombreux :
    d'abord à l'anglais (même anciens : nord, sud), puis à l'italien, aux
    autres langues romanes, aux langues germaniques tels que l'allemand ou
    le néerlandais (ainsi boulevard vient du hollandais ou du flamand
-   bolwerk). L'arabe a fourni, et fournit encore quelques mots : chiffre,
 --
-
    La linguiste Henriette Walter estime à moins de 13 % (soit
    4 200 mots^[23]) la part des mots d'origine étrangère dans la langue
    française courante parmi les 35 000 mots que comporte un petit
-   dictionnaire d'usage. Ces mots viennent pour 1 053 d'entre eux de
+--
    l'anglais, 698 de l'italien, 544 du proto-germanique, 481 des anciennes
    langues gallo-romanes, 215 de l'arabe, 164 de l'allemand, 160 du
    proto-celtique, 159 de l'espagnol, 153 du néerlandais, 112 du persan et
@@ -336,15 +270,11 @@ Situation de la langue française dans le monde
    chamito-sémitiques, 55 de langues slaves ou baltes et 144 d'autres
    langues diverses (dont les langues malayo-polynésiennes ou langues
    nigéro-congolaises)^[24].
-
 --
-
    Certains néologismes proviennent d'Amérique du Nord, où l'Office
    québécois de la langue française est très actif :
      * courriel, pour remplacer e-mail^[Note 3] ;
-     * clavardage, pour remplacer chat^[Note 4] ;
 --
-
    [modifier | modifier le code]
    Articles détaillés : Histoire de la langue française et Francisation.
 
@@ -358,8 +288,7 @@ Situation de la langue française dans le monde
    des Romains, le latin, connaissait l'écriture, et en tant que langue de
    l'autorité et langue de prestige, le latin vulgaire proche des Gaulois
    fut peu à peu adopté par tous au cours des siècles qui suivirent la
-   conquête du pays en 51 av. J.-C.
-
+--
    La version romane de 843 des Serments de Strasbourg de 842 est le
    premier texte écrit en langue d'oïl, dérivée du Bas latin et remodelée
    à la suite de l'établissement des Germains, principalement des Francs
@@ -369,9 +298,7 @@ Situation de la langue française dans le monde
    rustique ». Il faut attendre vers 880 pour voir apparaitre le premier
    texte littéraire en langue française (dans une variante
    vraisemblablement picarde), la Séquence de sainte Eulalie.
-
 --
-   avant le X^e siècle. À partir de cette période cependant, le
    morcellement linguistique du territoire est bien attesté, avec
    différentes langues régionales suivantes :
      * la langue d'oïl ou français, dans le nord (dont sont également
@@ -381,32 +308,26 @@ Situation de la langue française dans le monde
      * l'occitano-roman (occitan ou langue d'oc et catalan) dans le sud
        avec le limousin, l'auvergnat, le languedocien, le gascon, le
        provençal, le vivaro-alpin : les parlers de cette région, qui
-       baignent durant des siècles dans la culture romaine et ont conservé
 --
-       de Saint-Étienne), de Suisse romande aussi.
 
    Carte des dialectes français Carte des langues de France continentale
 
-   La période qui s'étend de la fin du XI^e siècle au début du
+--
    XIV^e siècle correspond à une période de rayonnement du français
    médiéval. Le français devient une langue internationale, parlée dans
    toutes les cours d'Europe, ce qui influença toutes les langues
    européennes. Elle devient une « lingua franca », les lois sont rédigées
    en français, la langue de la diplomatie est le français.
 
-   Le français, sous sa forme dialectale normande, est introduit en
 --
-   Conquérant en 1066, et son usage y durera plus de trois cents ans. Le
    vocabulaire anglais en conserve un important héritage : 50 % à 60 % du
    contenu lexical anglais provient de langues d'oïl de façon générale,
    principalement des dialectes de Normandie et d'Île-de-France^[26]. On
-   dit qu'à cette époque le français était plus utilisé en Angleterre
 --
-   médiévale italienne.
 
    La langue française commence à prendre de l'importance dès 1250,
    lorsque Saint Louis commande une traduction de la Bible en français.
-   L'Académie française L'Académie française
+--
 
    À la fin du XIII^e siècle, c'est en langue d'oïl que le chroniqueur
    vénitien Martino Canal rédige sa Chronique des Vénitiens et assure, que
@@ -415,17 +336,13 @@ Situation de la langue française dans le monde
    Vers 1256, le célèbre philosophe et chancelier florentin Brunetto
    Latini (1220-1294) écrit en langue française son Livre du Trésor et
    s'en explique en déclarant que c'est là « la parlure plus délictable et
-   commune à toutes gens^[31]. »
 --
-
    En 1346, pendant la guerre de Cent Ans, à Crécy, Édouard III roi
    d'Angleterre ne connaît pas d'autre langue que le français, comme son
    adversaire le roi de France^[34]. En 1362, l'anglais remplace le Law
    French en tant que langue officielle des tribunaux via l'acte des
    tribunaux anglais de 1362^[35]. Le discours judiciaire peut désormais
-   être compris de tous et non la seule noblesse. La même année, l'anglais
 --
-   C'est en 1539 que débute officiellement la francisation de la France
    avec la proclamation de l'ordonnance de Villers-Cotterêts, signée par
    François I^er : elle impose le français comme langue du droit et de
    l'administration en France, en remplacement du latin. Cependant^[27],
@@ -435,9 +352,7 @@ Situation de la langue française dans le monde
    relativement longue avec ses 192 articles^[44], seuls les articles 110
    et 111 concernaient la langue :
    [220px-Villers-Cot.jpg] Copie du préambule et des articles toujours
-   appliqués de l'ordonnance de Villers-Cotterêts.
 --
-
    [220px-Joachim_du_Bellay.png] Joachim Du Bellay auteur en 1549 de la La
    Défense et illustration de la langue française.
 
@@ -449,37 +364,27 @@ Situation de la langue française dans le monde
    mortem du premier dictionnaire de la langue française « Trésor de la
    langue française tant ancienne que moderne » de Jean Nicot. Le Discours
    de la méthode (1637) de René Descartes constitue une étape importante
-   car il s'agit d'un des premiers essais philosophiques écrits en
 --
-   Méditations métaphysiques ; il avait donc réécrit son livre et l’avait
    publié sous le nom Discours de la méthode, en français, sachant que les
    élites ne liraient pas son livre car écrit en langue vernaculaire
    tandis que les lettrés ouverts à ses idées pourraient le lire sans
-   craindre la menace de la censure.
+--
 
    Enfant du latin, le français le remplace en tant que langue
    internationale au XVII^e siècle avant de laisser à son tour sa place à
-   l'anglais depuis la fin de la Seconde Guerre mondiale. La cause
 --
-   Wilhelm Leibniz (1646-1716), écrivait le plus souvent en français.
    [220px-Moli%C3%A8re_-_Nicolas_Mignard_%281658%29.jpg] Le français est
    parfois surnommé « langue de Molière » (Nicolas Mignard, 1656, musée de
    la Vie romantique).
-
 --
-   fait rédiger tous les mémoires de l'Académie en français^[47].
 
    Frédéric II de Prusse (1740-1786) est un grand amateur de la langue
    française, il correspond en français avec Voltaire et écrit son
-   autobiographie en français^[48], il ira jusqu'à remplacer le latin par
 --
-   française ou Paris, le modèle des nations étrangères. En 1783,
    l'Académie de Berlin proposait, comme thème de concours aux écrivains,
    le sujet suivant : « Qu'est-ce qui a rendu la langue française
    universelle ? »^[50]^,^[51].
-
 --
-
    En 1911, Jacques Novicow rédige un article^[53] nommé Le Français,
    langue auxiliaire de l'Europe. Cet article explique pourquoi le
    français devrait devenir la langue véhiculaire de toute l'Europe^[54].
@@ -490,9 +395,7 @@ Situation de la langue française dans le monde
    l'Office québécois de la langue française (OQLF), les Conseils
    supérieurs de la langue française de France, de Belgique et du Québec.
 
-   En 1985, la chaine francophone internationale TV5 Monde est fondée.
 --
-   [modifier | modifier le code]
    Articles détaillés : Répartition géographique du français,
    Francophonie, Liste des pays ayant le français pour langue officielle
    et Francisation.
@@ -503,7 +406,7 @@ Situation de la langue française dans le monde
    hachuré : langue administrative, de travail et d'enseignement ; bleu
    clair : langue de culture
 
-                          Le français dans le monde
+--
 
      * Langue maternelle (créoles inclus)
      * Langue officielle
@@ -513,9 +416,7 @@ Situation de la langue française dans le monde
    [500px-Dialectes_de_la_langue_fran%C3%A7aise.png] Variétés régionales
    de la langue française dans le
    monde^[réf. nécessaire].[500px-Pays_francophones_les_plus_peupl%C3%A9s_
-   %282018%29.png] Les dix pays francophones les plus peuplés en
 --
-     >50%
 
    En Europe, le français est la principale langue maternelle en France
    (pays avec la plus grande population ayant cette langue pour langue
@@ -527,24 +428,19 @@ Situation de la langue française dans le monde
 
    En Amérique, le français est langue maternelle dans plusieurs provinces
    et territoires du Canada (principalement dans la province de Québec,
-   dans une grande partie du Nouveau-Brunswick, mais aussi en Ontario, en
 --
-   dans 6 pays en 2021.
 
    En Afrique, dans les pays dont il est langue officielle, il est parlé
    comme première langue surtout dans les milieux urbains. Ainsi, il
    existe des villes où les francophones natifs sont majoritaires en Côte
-   d'Ivoire (Abidjan/Yamoussoukro)^[63], au Gabon (Libreville), au
-   Cameroun et au Congo^[64]. Dans de nombreux pays d'Afrique du Nord,
+--
    d'Afrique de l'Ouest, et d'Afrique centrale, le français est souvent
    parlé comme deuxième langue, comme en République démocratique du Congo,
    pays francophone le plus peuplé du monde^[65] (le français y est
    toutefois maitrisé à des degrés très divers par la population)^[66],
    l'un des 28 pays ayant le français pour langue officielle ou
    co-officielle^[67].
-
 --
-
    Ces pays ont pour la plupart fait partie des anciens empires coloniaux
    de la France et de la Belgique. Le français est également langue
    officielle à Djibouti. Dans l'Océan Indien, le français et des créoles
@@ -558,89 +454,70 @@ Situation de la langue française dans le monde
    française, à Wallis-et-Futuna et au Vanuatu. En Asie, le français est
    encore présent à Pondichéry (Inde), ainsi qu'au Liban et comme langue
    de culture au Viêt Nam, au Laos et au Cambodge.
-
+--
    Le nombre de francophones (dans sa définition « sachant lire et écrire
    le français » incluant ceux qui parlent le français comme langue
    étrangère mais excluant arbitrairement ceux sachant juste le parler car
-   ces statistiques sont difficiles à obtenir) dans le monde ne cesse
 --
-   1997^[70], 200 millions en 2005^[71] et 300 millions en 2018^[72]. Dès
    2015 « l'espace francophone » — dans lequel on inclut toute la
    population des pays pour lesquels le français a le statut de langue
    officielle — dépassera en population l'espace hispanophone et deviendra
-   le 3^e au monde après l'anglophone et le sinophone^[73]. De plus, les
 --
-   grande organisation linguistique mondiale.
 
    Dans les années 2000-2010, le français est appris comme langue
    étrangère dans de nombreux pays. Il semble même être la langue dont le
    nombre de locuteurs augmente le plus rapidement (en pourcentage) dans
-   le monde^[80], grâce au rayonnement international du français mais
-   aussi au fait que les populations des pays composant la francophonie ne
+--
    parlent pas toutes français, sans oublier que le français est la seule
    langue parlée sur tous les continents, avec l'anglais^[81].
 
    Le français est aussi la langue étrangère la plus apprise après
    l'anglais^[82]^,^[83]. Les personnes apprenant le français sont aussi
-   en forte augmentation, près de 30 % entre 1994 et 2004^[84] tous
 --
-   d'habitants, soit 13 % de la population mondiale^[88].
 
    En 2005, le nombre de personnes en contact avec la langue française
    était estimé à 250-300 millions ; ce nombre était censé atteindre
-   500 millions en 2010^[89].
+--
 
    Le français est la langue officielle de nombreux pays. Il est largement
    utilisé dans un certain nombre d'autres pays. Une partie des nations
    utilisant cette langue est regroupée au sein de la « francophonie ».
    Dépassant le seul cadre linguistique, le Haut Conseil de la
-   francophonie est une plateforme d'échanges impliquant un tiers des pays
 --
-
    Bien qu'il soit difficile de mesurer avec précision le nombre total de
    locuteurs d'une langue donnée, le français figure parmi les 10 langues
    les plus parlées du monde et la deuxième langue la plus rayonnante
    après l'anglais ainsi que la langue la plus enseignée après
    l'anglais^[92]. La version française de l'encyclopédie Wikipédia est la
-   5^e en nombre de pages et la 6^e en nombre de consultation^[93].
 --
-   afin d'évaluer différentes hypothèses sur l'avenir de la francophonie.
    Les deux plus plausibles sont la plus optimiste et la plus pessimiste.
    L'avenir de la langue dépendant énormément du développement de
    l'éducation en Afrique, le nombre de locuteurs peut donc sensiblement
-   varier^[94]. Selon le scénario le plus pessimiste, se basant simplement
 --
-   Dans trois pays anglophones que sont le Canada anglais, le Royaume-Uni
    et l'Irlande, le français conserve le privilège d'être la première
    langue étrangère enseignée et loin devant les autres langues. Aux
    États-Unis, le français est la deuxième langue étrangère apprise, mais
    loin derrière l'espagnol^[97]. En Australie, dont le Japon est le
-   deuxième partenaire économique, il est devancé de peu par le japonais.
-
+--
    Savoir si l'apprentissage du français est encore pertinent aujourd'hui
    ou déterminer s'il sera une langue importante dans le futur sont des
    questions présentes dans l'actualité. À titre d'exemple, on peut citer
-   le débat médiatique récent à New York. Le 30 janvier 2014, le New York
 --
-   Republic^[99]. Selon lui, l'apprentissage du français par les
    Américains est une caractéristique sociale qui s'ancre dans une vision
    dépassée où le français était encore la langue la plus parlée en Europe
    et où l'immigration n'avait pas encore explosé aux États-Unis. Pour
    McWhorter, il est aujourd'hui beaucoup plus cohérent que les jeunes
    Américains apprennent des langues comme le mandarin, l'espagnol,
    l'arabe ou encore le hindi. Pour autant, dans une étude parue en mars
-   2014 et reprise par le magazine Forbes^[100], la banque
+--
    d'investissement Natixis affirme que le français pourrait être d'ici à
    2050 la langue la plus parlée au monde, notamment en raison de sa
    propagation rapide dans certaines zones où la population augmente très
-   vite, particulièrement au sud du Sahara.
 --
-     * Alger entre 30 et 45 %^[réf. nécessaire].
 
 Langue officielle et langue de travail
 
-   [modifier | modifier le code]
-
+--
    [220px-Hierarchy_of_the_global_language_system_%28adapted_from_de_Swaan
    %2C_2001%29.jpg] Le français est une langue internationale qui, dans la
    liste hiérarchique des langues d'Abram de Swaan (en), fait partie des
@@ -655,184 +532,136 @@ Langue officielle et langue de travail
    officielle et Liste d'organisations internationales ayant le français
    comme langue officielle.
 
-   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
-   aide est la bienvenue ! Comment faire ?
+--
 
    En 2016, le français est langue officielle de jure de 28 États et
    territoires dans le monde.
-
 --
-   [modifier | modifier le code]
 
    Le français est la deuxième langue la plus fréquemment utilisée dans
    les rencontres internationales. Le français est usité pour la
-   diplomatie du Saint-Siège, le Vatican étant enregistré comme État
-   francophone auprès des organisations internationales^[106].
+--
 
 Influence dans d'autres langues
 
-   [modifier | modifier le code]
 --
-   Autres                                                   ≈10%
 
    Du XIV^e siècle jusqu'aux années 1920, le français était la langue la
    plus utilisée dans des contextes de communication internationale
-   (surtout la diplomatie), d'abord en Europe puis dans le monde entier à
+--
    partir du XVII^e siècle^[109]. C'est pour cela que l'on retrouve des
    mots français dans beaucoup de langues. Mais la langue la plus
    francisée est sans aucun doute la langue anglaise à la suite de la
    conquête normande de l'Angleterre : son lexique est composé de près de
-   30 % de mots français, principalement du vieux français et du français
 --
-   Variétés régionales du français.
 
    Le français est la langue officielle de la République française selon
    l'article 2 de la Constitution de 1958, qui précise : « La République
-   participe également au développement de la solidarité et de la
 --
-   francilien même.
 
    Le français d'Île-de-France, choisi pour codifier la langue, a
    constitué pendant longtemps la norme du français pour l'ensemble des
    francophones dans le monde, et continue d'exercer une influence sans
    pareille sur la langue française prise en son entier. C'est pour cette
    raison que les francophones débutants le prennent souvent comme point
-   de référence auquel d'autres variétés de français peuvent être
 --
-
    La variation régionale du français peut être abordée de deux manières :
      * en considérant que le français est un synonyme de la langue d'oïl,
        ce qui implique que tous les dialectes romans du domaine d'oïl sont
        des variétés dialectales du français (voir l'article Langue
        d'oïl) ;
-     * en se limitant à ce qui est appelé le « français régional »,
 --
-   certaines régions de la francophonie sont nommés « français régional »,
    mais ils ne sont pas retenus par les dictionnaires académiques du
    français. Il ne s'agit pas de langue familière, mais bien du français
    qui a évolué de façon différente.
-
 --
-   stéréotypes et de croyances qui s’y rapportent. Ainsi, dans le cadre
    d’une expérience menée par Marion Didelot et lors de laquelle des
    personnes dont le français est la langue première devaient évaluer
    l’adéquation de certaines personnes à certains postes de travail, en
-   fonction de leur accent, ce phénomène de hiérarchisation a été
 --
-   en insistant sur le fait qu’ils seraient garants d’une prononciation
    plus juste, valorisant de ce fait leur accent en fonction d’un certain
    idéal de la langue française^[120].
 
-Prononciation
 --
-
    Une des caractéristiques de la grammaire française vis-à-vis de
    nombreuses langues vivantes est la richesse de ses temps et modes.
    Toutefois, cette richesse tend à se réduire à l'oral. Par exemple,
-   certains temps, tel le passé simple, ne se trouvent guère plus qu'à
 --
-   (exemple : ils jouent, il joue).
 
    La langue française est illustrée par de grands grammairiens comme
    Claude Favre de Vaugelas (première moitié du XVII^e siècle) et Maurice
-   Grevisse (1895-1980), grammairien belge, auteur de la grammaire de
 --
-   cyrillique grâce à l'existence de normes (utilisées pour la
    transcription officielle des toponymes et noms français), mais plus
    délicate et imprécise avec les écritures sémitiques (dans les langues
    qui utilisent ces écritures, l'écriture française normalisée est le
-   plus souvent conservée.)
 --
-   L'Académie française et des institutions analogues d'autres pays
    francophones ont approuvé une série de rectifications orthographiques
    proposées en 1990 par un rapport du Conseil supérieur de la langue
    française. Ces rectifications portent sur moins de 3 % du vocabulaire.
-   En outre, l'Académie française souligne que ces rectifications n'ont
 --
-   français a subi de nombreuses rectifications, mais l'habitude
    littéraire de réécrire les classiques dans l'orthographe officielle du
    moment donne une impression de continuité que la langue française
    écrite, en fait, n'a jamais eue. Ces rectifications orthographiques du
-   français ont pour objectif de rendre le français plus « logique » et
 --
-   de nouvelles pratiques d'orthographes alternatives et non officielles
    ont suscité un certain intérêt auprès de personnes intéressées par une
    orthographe qu'ils préféraient plus conforme à la langue parlée
    (comportant moins de lettres muettes, par exemple) et surtout plus
-   facile à apprendre.
 --
-   recommandée ; l'ordonnancement par défaut d'Unicode classe déjà la
    ligature spécifiquement française œ comme deux lettres) ne liste aucune
    autre lettre empruntée à une autre langue : d'autres caractères
    spécifiques peuvent être aussi employés tels que des ligatures purement
-   typographiques non différenciées sur les plans alphabétique et
-   orthographique, différents symboles techniques, des signes de
+--
    ponctuation supplémentaires, et des lettres empruntées à d'autres
    langues que le français. Les caractères ignorés durant les premiers
    niveaux de tri (ou traités pour ce niveau comme s'ils étaient d'autres
-   caractères indiqués en italique et traités pour cette phase comme ces
 --
-   sens (par exemple « consacré » ne peut être coupé en « con-sacré »).
    Cela nécessite donc un dictionnaire de césures ou la connaissance de la
    langue pour trouver les nombreuses exceptions à la règle phonétique
    simple.
-
 --
-   [modifier | modifier le code]
 
    Articles détaillés : Littérature française et Littérature de langue
    française.
-
 --
-   Article détaillé : Enseignement du français.
 
 Comme langue étrangère
 
-   [modifier | modifier le code]
+--
 
    Article détaillé : Français langue étrangère.
 
    De façon générale, le français demeure une des langues les plus
    enseignées dans le monde^[123].
-
 --
-   La Fondation des Alliances françaises est une fondation française de
    droit privé reconnue d'utilité publique et dont la mission est la
    promotion de la langue et de la culture française à l’étranger. Son
    siège se situe au 101, boulevard Raspail à Paris 6^e où se trouve
-   également l'Alliance française Paris Île-de-France. Elle est liée au
 --
-
    Il existe 27 Alliances françaises en France. Celles-ci ont pour mission
    l'enseignement de la langue française ainsi que la diffusion des
    cultures francophones.
-   [220px-Alliance_fran%C3%A7aise%2C_101_boulevard_Raspail%2C_Paris_6e.jpg
 --
-   personnalisées toute l'année pour tous les niveaux. Tous sont alignés
    sur les niveaux du CECRL (Cadre Européen Commun de Référence pour les
    Langues). L'Alliance française est aussi centre de passation pour tous
    les diplômes délivrés par le ministère français de l'Éducation
    nationale pour certifier des compétences en français : DELF (Diplôme
    d'Études en Langue Française), DALF (Diplôme Approfondi de Langue
    Française), et TCF (Test de connaissance en Français). Elle est aussi
-   centre d'examens agréé par la Chambre de Commerce et d'Industrie de
 --
-   (Diplôme de Français Professionnel). L'Alliance française Paris
    Île-de-France est aussi un centre de formation pour les professeurs de
    français langue étrangère. Chaque année, près de 2 300 professeurs du
    monde entier sont formés, sur place ou à distance en formation initiale
-   ou continue via différents programmes : stages d'été, formations à la
-   carte, stage d'observation… Elle délivre ainsi des diplômes spécifiques
+--
    pour les professeurs, tel que le DAEFLE (Diplôme d'Aptitude à
    l'Enseignement du Français Langue Étrangère), qu'elle a inventé en
    collaboration avec le Centre national d'enseignement à distance (Cned),
-   ou encore un diplôme qui lui est propre : le DPAFP (Diplôme
+--
    Professionnel de l'Alliance française Paris Île-de-France en Français
    Langue Étrangère), anciennement le Professorat (inventé en 1948).
 
 Comme langue maternelle
 
-   [modifier | modifier le code]
+--
 
    Cette section est un extrait de Enseignement du français § Langue
    maternelle.[modifier].
@@ -840,8 +669,7 @@ Comme langue maternelle
    Le français langue maternelle (FLM) est le français enseigné — surtout
    à l'école^[124] — en tant que langue maternelle. Distinct de
    l'acquisition du langage dans la toute petite enfance, il concerne
-   notamment les cours de grammaire française dans l'enseignement primaire
-   et secondaire des pays intégralement francophones (par exemple, en
+--
    France : à l'école élémentaire, au collège et dans les premières
    classes du lycée). Il est également séparé du français langue seconde
    dans les pays dont le français n'est que la langue officielle ou de
@@ -849,7 +677,7 @@ Comme langue maternelle
 
 Comme langue seconde
 
-   [modifier | modifier le code]
+--
 
    Cette section est un extrait de Français langue seconde.[modifier].
 
@@ -861,8 +689,7 @@ Comme langue seconde
 
    Dans leur Cours de didactique du français langue étrangère et seconde
    (p. 94-97), Jean-Pierre Cuq et Isabelle Gruca distinguent deux types de
-   définitions du FLS :
-     * « Le premier type est directement issu de la sociolinguistique
+--
        anglo-saxonne. » Pierre Martinez, qui le défend, le résume
        parfaitement : « Il est clair qu'on gagne beaucoup à appeler langue
        seconde tout système acquis chronologiquement après la langue
@@ -871,57 +698,42 @@ Comme langue seconde
        France, le français langue seconde est une langue de nature
        étrangère qui se distingue des autres langues étrangères par ses
        valeurs statutaires, en raison de la situation sociolinguistique,
-       comme le français en Afrique dite francophone.
 --
-   Une troisième acception est née dans le cadre de l'Éducation nationale
    en France. Pour cette institution, le FLS est le français appris en
    tant que langue cruciale et déterminante pour la vie de l'apprenant
    (notamment les apprenants immigrés dans un pays francophone). Cette
-   acception est contestée par un certain nombre de chercheurs en sciences
 --
-
    Jusqu'à la fin du XVIII^e siècle, les élèves de France apprennent
    toujours à lire en latin, qui a toujours le statut de langue de
    transmission du savoir. Le français est enseigné de manière
-   rudimentaire : simples notions d'orthographe et de grammaire. De plus,
-   les classes se déroulent toujours en dialecte local afin de se faire
+--
    comprendre des élèves, car ces dialectes sont toujours utilisés comme
    langue courante en France.
 
-   Dans son rapport^[126] de juin 1794, l'abbé Grégoire révéla que le
 --
-   départements » (sur 83). Il lui paraissait paradoxal, et pour le moins
    insupportable, de constater que moins de 3 millions de Français sur 28
    parlaient la langue nationale, alors que sur le territoire de la
    Nouvelle-France, celle-ci était utilisée et unifiée depuis plus de
    100 ans de Bâton-Rouge à Montréal^[127]. La francisation du territoire
    se fait au détriment des autres langues de France, causant notamment
    des séquelles psychologiques et des tensions.
-
 --
-   n'enseigner que le français afin de chasser cette « foule de dialectes
    corrompus, derniers vestiges de la féodalité ». Pour la première fois,
    sont associées langue et nation, le français est alors considéré comme
    le ciment de l'unité nationale^[128].
-
 --
-   [modifier | modifier le code]
 
    En Europe, au XIX^e siècle, le français devient une langue diplomatique
    de premier plan ; en plus d'être appris par l'aristocratie, il
-   s'exporte dans les colonies^[129].
 --
-   que la francisation est trop lente. Les autorités décident donc de
    nommer des professeurs hors de leur région d'origine pour les rendre
    incapables de communiquer en langue régionale avec les habitants et
    donc les forcer à utiliser le français. Les dialectes cèdent donc
-   progressivement la place à un enseignement du français. La loi Guizot
+--
    de 1833 amplifie le phénomène de francisation : « l'instruction
    primaire comprend nécessairement […] les éléments de la langue
    française. » En 1831, les lois visant à la francisation continuent à
-   être votées, par exemple cette directive de monsieur Auguste Romieu,
 --
-   Simon introduisent la notion de rédaction et de composition, puis
    l'étude de la littérature afin d'évoquer la dimension culturelle de la
    langue française.
 
@@ -930,13 +742,11 @@ Comme langue seconde
    tout le territoire français, et la démocratisant. Pourtant en 1863, sur
    38 millions de Français, 7,5 millions ne connaissaient pas la « langue
    nationale ». D'après les témoignages de l'époque^[Laquelle ?], les
-   enfants des villages ne retenaient presque rien du français appris à
 --
-   La Grande Guerre accélère grandement la francisation de la France, des
    hommes de toutes les régions se retrouvant ensemble à combattre, avec
    comme seule langue commune le français, sous peine de mort^[133].
 
-   En 1925, Anatole de Monzie, ministre de l'Instruction publique,
+--
    proclame : « Pour l'unité linguistique de la France, il faut que la
    langue bretonne disparaisse^[134]. » En 1926, le grammairien Ferdinand
    Brunot écrit dans son Histoire de la langue française que les patois
@@ -945,7 +755,7 @@ Comme langue seconde
    village » […]. À l'heure actuelle, le français est la langue des
    villes, le patois, la langue des campagnes^[135].
 
-   La Seconde Guerre mondiale constitue un tournant, tant par le massacre
+--
    d'élites francophiles en Europe de l'Est, que par la montée en
    puissance de l'anglais comme langue véhiculaire internationale^[136].
 
@@ -960,7 +770,7 @@ Comme langue seconde
    effectuer de grands changements et Naoya considérait le français comme
    « la plus belle langue du monde »^[140]^,^[141]. Effectivement, il dit
    du français :
-
+--
      « C'est ainsi qu'il vaut mieux, à mon sens, adopter avec courage et
      franchise la meilleure langue, la plus belle langue du monde comme
      langue nationale. Pour cela, c’est la langue française qui me semble
@@ -969,9 +779,7 @@ Comme langue seconde
      pour insister avec conviction sur l'adoption du français comme
      langue nationale. Mais les raisons pour lesquelles le français me
      semble le plus approprié sont les suivantes : d’abord, la France est
-     un pays culturellement avancé ; de plus, elle a quelques points
 --
-     des romans français ; ensuite, d'après ce qu'on dit, la poésie
      française a aussi certains éléments en partage avec les waka et les
      haïkus japonais ; enfin, il semble que la langue française ait
      atteint un haut niveau d’élaboration grâce aux hommes de lettres.
@@ -980,21 +788,18 @@ Comme langue seconde
    Le 7 janvier 1972, le gouvernement français promulgue le décret
    n^o 72-9 relatif à l'enrichissement de la langue française, prévoyant
    l'institution de commissions ministérielles de terminologie pour
-   l'enrichissement du vocabulaire français.
-
+--
    En 1972, Georges Pompidou, alors président de la République, déclare au
    sujet des langues régionales : « Il n'y a pas de place pour les langues
    et cultures régionales dans une France qui doit marquer l'Europe de son
-   sceau^[142]. »
-
+--
    C'est sous la présidence de François Mitterrand (1981 - 1995) que les
    premières mesures pour conserver les langues régionales en voie de
    disparition sont prises, comme l'annonce le discours de François
    Mitterrand de 1981, à Lorient : « Le temps est venu d'un statut des
    langues et cultures de France qui leur reconnaisse une existence
    réelle. Le temps est venu de leur ouvrir grandes les portes de l'école,
-   de la radio et de la télévision permettant leur diffusion, de leur
-   accorder toute la place qu'elles méritent dans la vie publique. »
+--
    Pourtant, en mai 1997, l'inspecteur de l'Éducation nationale Daniel
    Gauchon déclarait qu'il fallait privilégier la culture et la langue
    françaises et non pas les langues régionales^[143]. La révision
@@ -1012,17 +817,13 @@ Comme langue seconde
    française de Belgique, la délégation générale à la langue française et
    aux langues de France, ou même l'OIF, l'Organisation internationale de
    la francophonie, qui est chargée de protéger la francophonie mondiale
-   et de participer à son expansion (la France est un des soixante-dix
 --
-   94-665 du 4 août 1994 ou « Loi Toubon », qui est la première loi en
    France, à l'instar de la loi « loi 101 » au Québec, à imposer
    clairement le français comme seule langue de la République française.
    Son but est de défendre la langue française en France, non pas contre
    les langues régionales et leurs dialectes, mais principalement contre
    l'américanisation de la France^[145].
-
 --
-   le droit du travail et les organismes publics est soumis aux
    dispositions de la loi Toubon. Un dispositif public d'enrichissement de
    la langue française a été mis en place dans le cadre de l'application
    du décret du 3 juillet 1996 relatif à l'enrichissement de la langue
@@ -1033,35 +834,27 @@ Comme langue seconde
    En particulier, l'usage des termes en français recommandés par la
    Commission d'enrichissement de la langue française, publiés au Journal
    officiel de la République française, et disponibles depuis 2008 sur le
-   site internet FranceTerme, est obligatoire dans les services publics de
+--
    l'État^[146]. Le décret d'application du 3 juillet 1996 a mis en place
    un dispositif d'enrichissement de la langue française. Il impose
    l'usage des termes en français dans les services et établissements
-   publics de l'État (articles 11 et 12 du décret) :
-     * Art. 11. - Les termes et expressions publiés au Journal officiel
+--
        sont obligatoirement utilisés à la place des termes et expressions
        équivalents en langues étrangères :
          1. Dans les décrets, arrêtés, circulaires, instructions et
-            directives des ministres, dans les correspondances et
 --
-            services et des établissements publics de l'État.
          2. Dans les cas prévus aux articles 5 et 14 de la loi du 4 août
             1994 susvisée relative à l'emploi de la langue française. La
             commission générale observe l'usage prévu au présent article
-            des termes et expressions publiés.
-     * Art. 12. - Les listes de termes et expressions approuvés en vertu
+--
        des dispositions règlementaires relatives à l'enrichissement de la
        langue française précédemment en vigueur sont assimilées aux listes
        publiées en vertu du présent décret. Elles peuvent être modifiées
-       selon la procédure prévue aux articles 7 à 10 du présent décret.
 --
-   dispositions visant les entreprises : l'obligation faite aux chefs
    d'entreprises de soumettre au personnel un rapport sur l'utilisation de
    la langue française dans l'entreprise, la rédaction en français de
    l'ordre du jour du comité d'entreprise, ainsi que du procès-verbal
-   consignant les délibérations. Cette proposition de loi vise également
 --
-   Étant donné l'hégémonie de l'anglais dans les relations
    internationales, et le risque de multiplication des anglicismes dans la
    langue française, de nombreuses associations se sont fondées pour
    défendre la langue française. Peuvent notamment être cités :
@@ -1070,49 +863,40 @@ Comme langue seconde
      * Avenir de la langue française ;
      * Défense de la langue française^[149] ;
      * Association francophone d'amitié et de liaison ;
-     * Académie de la Carpette anglaise ;
+--
      * Le Droit de Comprendre^[pertinence contestée] ;
      * Association des informaticiens de langue française ;
      * Association Francophonie Avenir (Afrav)^[150] ;
-     * Conseil pour le développement du français en Louisiane ;
 --
-     * Alliance Champlain (Nouvelle Calédonie)^[152]^[pertinence
        contestée] ;
      * Association pour la sauvegarde et l’expansion de la langue
        française (Asselaf)^[153]^[pertinence contestée] ;
-     * Cercle littéraire des écrivains cheminots (CLEC)^[pertinence
 --
-
    Voir aussi les sites relatifs à la défense et à la promotion de la
    langue française^[155]^[pertinence contestée].
 
-   En France, l'Autorité de régulation de la communication audiovisuelle
-   et numérique (Arcom) est chargée, en application de l'article 3-1 de la
+--
    loi du 30 septembre 1986, de veiller « à la défense et à l'illustration
    de la langue française » dans la communication audiovisuelle, ainsi
    qu'au respect des dispositions de la loi du 4 août 1994 relative à
    l'emploi de la langue française (dite loi Toubon). En particulier,
    l'Arcom veille au respect des obligations concernant la langue
    française inscrites aux cahiers des charges des sociétés nationales de
-   programme et dans les conventions annexées aux décisions d'autorisation
+--
    des diffuseurs privés. L'Arcom doit être attentif à la qualité de la
    langue employée dans les programmes de télévision et de radio^[156].
    Pour ce faire, l'Arcom est amené à prendre des initiatives, telles que
    l'organisation du colloque « Quel avenir pour la langue française dans
    les médias audiovisuels ? », le 9 décembre 2013^[157].
-
 --
-   [modifier | modifier le code]
 
    La discipline ayant pour objet l'étude de la langue française est une
    subdivision de la linguistique romane : la linguistique française.
-
+--
    Les principales revues s'occupant de linguistique française sont, en
    France, Le Français moderne et Langue française.
 
-Règlementation de l'usage
 --
-   [modifier | modifier le code]
 
    Dans certains pays, le législateur a règlementé l'usage de la langue.
    Ainsi au Québec, les principales législations sur l'usage de la langue
@@ -1120,17 +904,13 @@ Règlementation de l'usage
    En France, le gouvernement reconnaît depuis 2016 qu'il revient à
    l'Académie française de déterminer les règles en vigueur dans la langue
    française^[159]. La loi Toubon, qui date du 4 août 1994, vise à la
-   protéger et à garantir son usage dans l'administration, auprès des
 --
-    8. ↑ Livre électronique.
     9. ↑ Bien que parlé au Maroc et en Algérie, le français n'y est pas
        une langue officielle.
    10. ↑ il ne s’agit pas ici de ce qui est parfois appelé des « patois »,
        c'est-à-dire des dialectes de la langue d'oïl, et difficilement
        intelligibles aux Parisiens, mais de variétés de français proches
-       du parisien.
 --
-       l'Organisation internationale de la Francophonie, Laval, Québec
     2. ↑ OIF, p. 38.
     3. ↑ ^a et b « La langue française rayonne avec 321 millions de
        locuteurs », sur francophonie.org (consulté le 16 août 2020).
@@ -1138,13 +918,11 @@ Règlementation de l'usage
        donneesmondiales.com
     5. ↑ Délégation à la Langue française - Orthographe, CIIP, consulté le
        18 septembre 2011.
-    6. ↑ « Francoscope », sur www.outils-odsef-fss.ulaval.ca (consulté le
 --
-    7. ↑ « “Et le monde parlera français”, plaidoyer décomplexé pour la
        Francophonie », RFI, 21 juillet 2017.
     8. ↑ « La langue française rayonne avec 321 millions de locuteurs »
        [PDF], sur francophonie.org, Paris, mars 2022 (consulté le 18 août
-       2022).
+--
     9. ↑ OIF, p. 107.
    10. ↑ ^a et b Razika Adnani, « Algérie : le français, une langue
        africaine », Marianne,‎ 22 juillet 2019 (ISSN 1275-7500, lire en
@@ -1160,50 +938,36 @@ Règlementation de l'usage
        nationale », sur axl.cefan.ulaval.ca (consulté le 14 janvier 2021).
    15. ↑ Jean Montenot, « La langue de Molière », L'Express,‎ 1^er février
        2007 (ISSN 0245-9949, lire en ligne, consulté le 16 août 2020).
-   16. ↑ « Dictionnaire étymologique roman », sur atilf.fr, université de
 --
-   21. ↑ (it) Dante, Vita nuova, 1293, pour « oc » et « si » ; dans De
        vulgari eloquentia, vers 1305, de manière plus complète
    22. ↑ Jean Pruvost, Nos ancêtres les Arabes : Ce que notre langue leur
        doit, J.-C. Lattès, 2017, 300 p. (ISBN 9782709658966).
-   23. ↑ Selon une étude effectuée en 1991, 8 000 mots d'un dictionnaire
 --
-       4 200 mots courants d'origine étrangère parmi les 35 000 mots d'un
        petit dictionnaire d'usage. cf. Jacques Mousseau, « Le roman de la
        langue française : Henriette Walter. L'aventure des d'ailleurs »,
        Communication & langages, vol. 114, n^o 1,‎ 1997, p. 125 (lire en
-       ligne, consulté le 16 août 2020).
 --
-       • Archive.is • Google • Que faire ?), sur www.gringoire.com, 18
        aout 2009 (consulté le 27 mai 2010).
    27. ↑ ^a et b « Histoire de la langue française, par Jacques
        Leclerc. », sur Agence intergouvernementale de la Francophonie,
-       (consulté le 4 avril 2010).
-   28. ↑ « Quand les Anglais parlaient français, par André Crépin. », sur
+--
        www.aibl.fr (consulté le 4 avril 2010).
    29. ↑ Argumentaire en faveur de la langue française.
    30. ↑ « Livre: Le souffle de la langue : voies et destins des parlers
        d'Europe, par Claude Hagège, page 95 », sur Books google (consulté
-       le 2 juin 2010).
 --
-   39. ↑ L'Europe aujourd'hui: textes des conférences et des entretiens,
        Éditions de la Baconnière, 1 janv. 1986 p. 56.
    40. ↑ Joseph-Gabriel Rivolin, Langue et littérature en Vallée d'Aoste
        au XVI^e siècle, Aoste, Assessorat de l'éducation et de la culture,
-       2011, 7 p. (lire en ligne), p. 3.
 --
-   46. ↑ « historia.fr/data/mag/703/70306… »^(Archive.org • Wikiwix •
        Archive.is • Google • Que faire ?).
    47. ↑ « Le français - langue universelle, car aussi (et surtout) langue
        du droit! », sur www.juridica-danubius.ro (consulté le 31 juillet
-       2010) [PDF].
-   48. ↑ « Memoires de Frédéric », sur www.amazon.com (consulté le 31
+--
        juillet 2010).
    49. ↑ Le français, langue diplomatique par le doyen François Pitti
        Ferrandi, sur http://www.amopa.asso.fr.
-   50. ↑ Célestin Bouglé (1920) (sociologue, professeur à la Sorbonne), P.
 --
-       l'esprit français ? Vingt définitions choisies et annotées »
        (consulté le 3 novembre 2011) [PDF].
    51. ↑ De l'universalité et de la défense de la langue française, sur
        www-rocq.inria.fr.
@@ -1211,21 +975,15 @@ Règlementation de l'usage
    53. ↑ s:Le Français, langue auxiliaire de l'Europe.
    54. ↑ « Jacques NOVICOW : Le français, langue auxiliaire de l'Europe,
        Paris, Grasset, 1911. (extraits) », sur /www2.unil.ch (consulté le
-       31 juillet 2010).
 --
-   56. ↑ TV5 Monde : la plus grande classe de français du monde, Canal
        Académie.
    57. ↑ ^a et b Observatoire de la langue française de l’Organisation
        internationale de la Francophonie, « Estimation du nombre de
-       francophones (2018) » (consulté le 24 novembre 2020)
 --
-   60. ↑ ^a et b ONU, « World Population Prospects: The 2022 Revision »
        [XLSX] (consulté le 5 février 2024).
    61. ↑ Observatoire de la langue française de l’Organisation
        internationale de la Francophonie, « Estimation du pourcentage et
-       des effectifs de francophones (2023-03-15) » (consulté le 5 février
 --
-   63. ↑ Le français à Abidjan : Pour une approche syntaxique du
        non-standard par Katja Ploog, CNRS Éditions, Paris, 2002.
    64. ↑ 'De plus, le français est également devenu la langue maternelle
        de plus de 30 % des Librevillois et il est de plus en plus perçu
@@ -1237,44 +995,33 @@ Règlementation de l'usage
    67. ↑ [2] Les États où le français est langue officielle ou
        co-officielle] (Jacques Leclerc, site du Trésor de la langue
        française au Québec).
-   68. ↑ « Rapport du Secrétaire général de la Francophonie », sur
 --
-       Mathieu Gagné », sur erudit.org (consulté le 19 juin 2010) [PDF].
    71. ↑ Rapport de L'OIF 2006-2008, sur http://www.francophonie.org.
    72. ↑ La langue française dans le monde 2010, sur
        http://www.francophonie.org.
    73. ↑ http://www.francophonie.org/IMG/pdf/espaces_linguistiques.pdf.
    74. ↑ La langue française dans le monde 2010 (Éditions Nathan, 2010,
        p. 49).
-   75. ↑ Cahiers québécois de démographie, vol. 32, n^o 2, 2003,
 --
-   78. ↑ [3] - lefrancaisenpartage.over-blog.com.
    79. ↑ Membres de l'OIF, http://www.francophonie.org.
    80. ↑ http://www.francophonie.org (2010) La langue française dans le
        monde 2010.
-   81. ↑ « 17 bonnes raisons de faire le choix du français », sur
 --
-   82. ↑ « 12 bonnes raisons générales d'apprendre le français… », sur
        Ambassade de France (consulté le 3 juillet 2010).
    83. ↑ « Promouvoir la Langue française dans le monde », sur
        www.diplomatie.gouv.fr (consulté le 3 juillet 2010) [PDF].
-   84. ↑ « Rapport d'information de l'Assemblée nationale », sur
-       assemblee-nationale.fr (consulté le 3 juillet 2010).
+--
    85. ↑ Rapport de la francophonie 2006-2007.
    86. ↑ « Rapport d'information la situation de la langue française dans
        le monde », sur ministère des Affaires étrangères (consulté le 3
-       juillet 2010).
 --
-   89. ↑ La Francophonie vue par l'université Laval
        http://www.tlfq.ulaval.ca/axl/francophonie/francophonie.htm.
    90. ↑ ^a et b « Le français, langue internationale », ministère
        français des affaires étrangères, 30 juin 2010 (consulté le 13
        octobre 2010).
    91. ↑ ^a b c d e et f OIF 2010 - La langue française dans le monde en
        2010 [broché], Nathan (ISBN 978-2-09-882407-2) [lire en ligne].
-   92. ↑ OIF Rapports.
 --
-   100. ↑ (en) Pascal-Emmanuel Gobry, « Want To Know The Language Of The
        Future? The Data Suggests It Could Be... French » [« Vous voulez
        connaître la langue du futur ? Les données suggèrent que ça
        pourrait être… le français »], sur forbes.com, 21 mars 2014
@@ -1283,53 +1030,43 @@ Règlementation de l'usage
        (ISBN 978-2-09-882407-2) [lire en ligne].
    102. ↑ Selon la variable « Connaissance des langues officielles », il y
        a 1 472 055 personnes qui connaissent le français (uniquement) et 2
-       231 540 qui connaissent le français et l'anglais sur une population
+--
        totale de 4 053 360 pour la région métropolitaine de Montréal.
        Connaissance des langues officielles selon l'âge (Total), chiffres
        de 2016 pour la population à l'exclusion des résidents d'un
-       établissement institutionnel du Canada et régions métropolitaines
 --
-       Archive)
    111. ↑ « Hervé Lavenir de Buffon est secrétaire général du « Comité
        international pour le français, langue européenne » », sur
        canalacademie.com (consulté le 27 mai 2010).
    112. ↑ « La langue française : atout ou obstacle, Par Charles X.
        Durand », sur books.google.com (consulté le 3 juillet 2010).
-   113. ↑ (en) « French Words and Expressions in English », sur About.com.
 --
-   122. ↑ OQLF 2017.
    123. ↑ OIF, p. 106-107.
    124. ↑ Emmanuelle Guerin, « Le français, « langue maternelle » est-il
        une « langue vivante » ? Réflexion sur la place de la variation
        stylistique dans le discours scolaire », Lidil. Revue de
        linguistique et de didactique des langues, n^o 50,‎ 15 décembre
        2014, p. 147–167 (ISSN 1146-6480, DOI 10.4000/lidil.3609, lire en
-       ligne, consulté le 1^er octobre 2024)
 --
-       ligne)
    126. ↑ Rapport sur la nécessité et les moyens d’anéantir les patois et
        d'universaliser la langue française - Abbé Grégoire, Trésor de la
        langue française au Québec.
    127. ↑ « Histoire du Français au Québec. La Nouvelle-France
-       (1534-1760) : L'implantation du français au Canada, consulté le 4
+--
        avril 2010 ».
    128. ↑ Mille ans de langue française, histoire d'une passion (Broché)
        (ISBN 2-2620-2270-4 et 978-2-2620-2270-9).
    129. ↑ « Les élites sacrifient la langue française » - Gaston Pellet,
        Le Monde diplomatique, décembre 2010.
-   130. ↑ « La pratique du breton de l'Ancien régime à nos jours »
+--
        (consulté le 27 mai 2010) [4].
    131. ↑ Gérald Antoine et Robert Martin, Histoire de la langue
        française, 1880-1914, Éditions du CNRS, 1985, p. 266.
-   132. ↑ « Règlement en 1836 adopté par le Comité supérieur de
 --
-   133. ↑ « Histoire du français durant la grande guerre. », sur
        www.tlfq.ulaval.ca (consulté le 27 mai 2010).
    134. ↑ « Le français et les langues historiques de la France, par Hervé
        Abalain », sur books.google.com (consulté le 19 juin 2010).
-   135. ↑ (ISBN 2-2620-2270-4).
 --
-       septembre 2011 (lire en ligne, consulté le 29 septembre 2018)
    141. ↑ Modèle:Titre=SHIGA NAOYA ET LA LANGUE FRANÇAISE
    142. ↑ Université de Provence: Histoire de la langue française [PDF].
    143. ↑ « Florilège de contre-vérités, de bêtises, de propos haineux ou
@@ -1339,42 +1076,33 @@ Règlementation de l'usage
        www.tlfq.ulaval.ca (consulté le 27 mai 2010).
    145. ↑ Beatrice Bagola, « L’américanisation de la langue française sur
        Internet?Quelques aspects de la terminologie officielle et de
-       l’usage des internautes Is French Being Americanized on the
 --
-       québécoises,‎ 2007, p. 101-124 (lire en ligne)
    146. ↑ Dictionnaire terminologique FranceTerme, l'enrichissement de la
        langue française.
    147. ↑ « 570 000 euros d'amende pour refus de traduction », sur
-       www.novethic.fr (consulté le 27 mai 2010).
 --
-   153. ↑ Site internet de l'Asselaf
    154. ↑ Site internet du CO.U.R.R.I.E.L
    155. ↑ http://www.langue-francaise.org/Sites.php
    156. ↑ « Le respect de la langue française » sur le site de l'Arcom.
    157. ↑ « Quel avenir pour la langue française dans les médias
        audiovisuels ? » sur le site de l'Arcom.
-   158. ↑ « Redirection », sur gouv.qc.ca (consulté le 14 avril 2023).
-   159. ↑ « Réforme de l'orthographe », sur gouvernement.fr (consulté le 7
+--
        avril 2021).
    160. ↑ « Loi n^o 94-665 du 4 août 1994 relative à l'emploi de la langue
        française - Légifrance », sur legifrance.gouv.fr (consulté le 7
-       avril 2021).
 --
-
    Sur les autres projets Wikimedia :
      * Langue française, sur Wikimedia Commons
      * français, sur le Wiktionnaire (thésaurus)
      * Faculté de français, sur Wikiversity
      * Langue française, sur Wikiquote
 
-Bibliographie
 --
-       affaires, Favre d'Echallens, 2004
      * Claude Hagège, Combat pour le français : Au nom de la diversité des
        langues et des cultures, Éditions Odile Jacob, 2006
      * Paul-André Maur, Main basse sur la langue française, Via Romana,
        2007
-     * Jacques Maurais, Pierre Dumont, Jean-Marie Klinkenberg, L'avenir du
+--
        français, Paris : Éditions des archives contemporaines, 2008
      * Cécile de Bouttemont, « La langue française dans l’espace
        francophone : promotion et diffusion » [PDF], France Éducation
@@ -1382,7 +1110,7 @@ Bibliographie
      * Agnès Blanc, La langue du roi est le français, Essai sur la
        construction juridique d'un principe d'unicité de langue de l'État
        royal (842-1789), L'Harmattan, 2010
-     * Maurice Grevisse et André Goosse, Le Bon Usage, DeBoeck-Duculot,
+--
        1936-2011 (15 éditions)
      * Les Européens et leurs langues (rapport), Commission européenne,
        juin 2012, 153 p. (lire en ligne [PDF]), Eurobaromètre spécial 386.
@@ -1391,9 +1119,7 @@ Bibliographie
        (1789-2013), L'Harmattan, 2013
      * Michèle Perret, Introduction à l'histoire de la langue française,
        Armand Colin, 2014 (4^e éd.)
-     * Martin Riegel, Jean-Christophe Pellat et René Rioul, Grammaire
 --
-     * Ilyes Zouari, Petit dictionnaire du Monde francophone, L'Harmattan,
        2015
      * Organisation internationale de la francophonie, La langue française
        dans le monde 2015-2018, Gallimard, 2019, 366 p.
@@ -1401,9 +1127,7 @@ Bibliographie
      * Le grand quiz de la langue française, Le Figaro Eds, 2020, 96 p.
      * Alain Bentolila, Controverses sur la langue française, 51 vérités
        contre l'hypocrisie et la démagogie, ESF sciences humaines, février
-       2024, 156 p.
 --
-
      * Linguistique
           + Liste de langues
                o Langues par famille
@@ -1414,27 +1138,20 @@ Bibliographie
                                    * Langues gallo-romanes
                                    + Langue d'oïl
      * Francophonie - Organisation internationale de la francophonie -
-       Répartition géographique du français
-     * Francisation - Anglicisation
+--
      * Anglicisme - Franglais
      * Défense de la langue française
      * Politique linguistique - Politique linguistique de la France
-     * Impérialisme linguistique
 --
-
      * Enseignement du français à l'école primaire
      * Enseignement du français dans le monde - Français langue étrangère
        - Français fondamental
-
 --
-     * Italien - Piémontais en comparaison de l'italien et du français
      * Espagnol
      * Langues celtiques
      * Langues germaniques
 
-Liens externes
 --
-          + Lettonie
           + Glottocode
      * (en) Fiche langue du français [fra] dans la base de données
        linguistique Ethnologue.
@@ -1442,9 +1159,7 @@ Liens externes
        linguistique Glottolog.
      * (en) Fiche langue du français[51-AAA-i]dans la base de données
        linguistique Linguasphere.
-     * (en) Sources d'information sur le français sur le site de l'OLAC.
 --
-       français », sur lepoint.fr, Le Point, 19 avril 2017 (consulté le 19
        avril 2017).
      * «Le français, une langue bien vivante», Du Vent dans les synapses,
        France Inter, 20 juin 2020.
@@ -1458,103 +1173,76 @@ Liens externes
      * Agence de promotion du français langue étrangère
      * Office québécois de la langue française, « Apostrophes
        dactylographique et typographique », 2017 (consulté le 19 avril
-       2017)
 --
-
    v · m
    Langues romanes
    Langues romanes occidentales
    Langues ibéro-romanes
    Galaïco-portugais
-     * fala
 --
-          + bénasquais^t
 
    Langues occitano-romanes
    Catalan
-     * alguérois
 --
-          + gascon noir
           + judéo-gascon^✡^†
           + langue sifflée pyrénéenne^†
      * languedocien
           + aurillacois
-          + bas-vivarois
 --
-          + mentonasque^t
 
    Langues gallo-romanes
    Arpitan / francoprovençal
-     * bressan
 --
-     * vaudois
 
    Langues d'oïl
      * angevin
-     * berrichon
 --
-          + istriote
 
    Langues romanes orientales
    Diasystème roman de l'Est
-     * aroumain
 --
-          + logudorais
 
    Autres langues éteintes
      * dalmate^†
-          + ragusain^†
 --
-     * roman de Pannonie^†
 
      * ^✡ langue juive
      * ^† langue éteinte
      * ^t parler de transition
-
+--
    v · m
    Langues dans l’Union européenne
    Langues officielles
    (24)
-     * allemand
 --
-     * tchèque
 
    Langues de travail
    Langues de travail au sein de la Commission européenne :
      * anglais
-     * français
 --
-           Articles liés
      * Politique linguistique de l'Union européenne
      * Charte européenne des langues régionales ou minoritaires
 
    v · m
    Langue française
    Histoire
-     * Ancien français
 --
-     * Serments de Strasbourg
      * Ordonnance de Villers-Cotterêts
      * La Défense et illustration de la langue française
 
-   [100px-Flag_of_La_Francophonie.svg.png]
 --
-     * Au secondaire
      * À l'université
      * Langue étrangère
           + Apprentissage
-          + Enseignement
-          + Didactique
+--
           + Manuel
      * Langue seconde
           + Enseignement
-          + Didactique
+--
           + Manuel
      * Langue maternelle
           + Enseignement
-          + Didactique
 --
-          + Didactique
      * Sur objectifs universitaires
      * Langue de scolarisation
      * Langue d'intégration
@@ -1563,13 +1251,11 @@ Liens externes
      * Pays ayant le français pour langue officielle
      * Pays ayant le français comme langue maternelle
      * Afrique
-          + Maroc
 --
-
    Autres
      * Langue d'oïl
      * Dialectes
-     * Créoles
+--
      * Francophonie
      * Registres de langue
      * Français signé
@@ -1577,9 +1263,7 @@ Liens externes
      * icône décorative Portail des langues
      * icône décorative Langue française et francophonie
      * icône décorative Portail de l’Académie française
-
 --
-
    Catégories :
      * Langue SVO
      * Langue flexionnelle
@@ -1689,13 +1373,10 @@ Liens externes
      * Langue au New Hampshire
      * Langue au Vermont
 
-   Catégories cachées :
 --
-     * Page pointant vers des dictionnaires ou encyclopédies généralistes
      * Article de Wikipédia avec notice d'autorité
      * Portail:Langues/Articles liés
      * Portail:Langues/Articles liés directement
      * Portail:Société/Articles liés
      * Portail:Langue française et francophonie/Articles liés
      * Portail:Académie française/Articles liés
-     * Portail:France/Articles liés

@@ -1,12 +1,9 @@
-    3. Anatomies et organes
     4. Organes
     5. La langue
 
 La langue
 
-   Image
 --
-
    Le muscle le plus mobile de tout l’organisme : avaler, goûter, parler –
    la langue est toujours en mouvement et remplit ainsi de multiples
    fonctions. Celles-ci sont nettement plus diversifiées que la plupart
@@ -17,30 +14,25 @@ La langue
    les dents. Les aliments broyés continuent à être triturés grâce aux
    mouvements de roulement de la langue avant de s’enrichir en salive pour
    former le « bol alimentaire ». Ensuite, elle transporte le bol
-   alimentaire en direction du palais et soutient la déglutition. Une
 --
-   informations importantes sur la nourriture absorbée et sa qualité,
    jugeant ainsi si elle est sucrée, salée, amère ou acide. Mise à part
    son importance pour la prise alimentaire, la langue est essentielle à
    l'articulation. C’est de la position de sa pointe, de ses bords et de
-   son centre que dépend la production des sons.
+--
    Anatomie de l’organe – de la racine à la pointe
    La langue est un organe musculaire qui est revêtu d’une muqueuse
    spéciale. On peut la diviser en différentes sections :
-     * Racine
 --
-     * Frein
 
    La partie la plus épaisse de la langue se trouve tout au fond ; c’est
    la racine de la langue. En plus du tissu musculaire, cette région
    comporte aussi les amygdales linguales, qui sont constituées de tissu
-   lymphatique et font partie du système immunitaire. La racine est reliée
-   à l’os hyoïde qui est attaché au larynx par des ligaments et des
+--
    muscles. Cette liaison joue un rôle important dans la déglutition. La
    racine de la langue est raccordée au corps de la langue.
    Le corps de la langue est constitué de plusieurs couches de muscles,
    qui peuvent être regroupés en une partie interne et une partie externe.
-   Les fibres musculaires vont de l’avant à l’arrière, de haut en bas et
+--
    de droite à gauche, ce qui crée un réseau de fibres permettant à notre
    langue de bouger avec autant de souplesse dans toutes les directions et
    de prendre différentes formes. Outre les fibres musculaires, le corps
@@ -55,11 +47,9 @@ La langue
    Comment la langue distingue les goûts
    La langue est dotée de multiples papilles filiformes, fongiformes ou
    plates. Les papilles gustatives contiennent des bourgeons olfactifs qui
-   réagissent au contact de la nourriture par l’intermédiaire de
-   récepteurs. Les différentes papilles étant réparties de manière
+--
    disparate, les saveurs sont perçues différemment selon la zone de la
    langue. Le goût sucré est perçu directement au bout de la langue. Le
    goût amer est quant à lui seulement perçu sur le partie postérieure du
    dos de la langue. Les bords de la langue assurent la perception du salé
    et du sucré.
-

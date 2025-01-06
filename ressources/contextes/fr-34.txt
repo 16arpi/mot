@@ -1,43 +1,30 @@
 
-
    2.4 Proto-langues
 
-
 --
-Origine du langage
 
    [ ] 36 langues
      * Afrikaans
-     * العربية
 --
-
    L’origine du langage humain a toujours suscité l’intérêt des penseurs.
    De nombreux mythes tendent à donner aux langues une origine
    surnaturelle. La Bible explique ainsi la multiplicité des langues par
    le mythe de la Tour de Babel, selon lequel la langue unique des
    origines aurait été divisée en une multitude de langues pour apporter
    la discorde entre les hommes et les empêcher de se concerter en vue
-   d'une action commune.
 --
-   la partie haute de l'espace pharyngal ; des modélisations informatiques
    montrent que, même avec un larynx en position haute, les
    articulateurs (en) (langue, voile du palais, dents et lèvres) du
    tractus vocal ont un degré de liberté tel qu'il est possible de les
-   coordonner afin de produire une large gamme de sons articulés ;
 --
-       préférence manuelle. Ce lien a récemment été remis en cause par le
        groupe d’imagerie neurofonctionnelle de Bordeaux^[10] ;
      * dans les langues des signes, ce sont les mêmes aires qui sont mises
        en jeu ;
-     * lorsque l’on parle, on utilise aussi ses mains pour s’exprimer (par
 --
-   dans ce qu'elles créent du lien social.
 
 Proto-langues
 
-   [modifier | modifier le code]
 --
-   Il est difficile d’envisager que le langage soit apparu d’un bloc.
    Certains soutiennent que le langage suit une évolution graduelle depuis
    un langage primitif. Les langues ne se fossilisant pas, il faut donc
    faire appel à des méthodes linguistiques pour reconstruire ce langage
@@ -54,7 +41,7 @@ Proto-langues
    proposé d'appliquer à 2 449 termes provenant de 87 langues de cette
    famille de langues une méthode phylogénétique informatisée comme celle
    qu'utilise la biologie moléculaire pour construire des arbres
-   généalogiques à partir de l'ADN^[20]. Cette méthode prend comme unité
+--
    de base non pas les lexèmes mais les phonèmes présents dans les
    différentes langues. Considérant que le nombre de phonèmes d'une langue
    augmente en fonction du nombre de locuteurs qui la parlent, mais
@@ -66,79 +53,55 @@ Proto-langues
    une base de 504 langues, il observe que certaines langues africaines
    comptent plus de 100 phonèmes, alors que le hawaïen, qui est la langue
    la plus éloignée du berceau africain, n'en compte que 13, contre 45 en
-   anglais et 36 en français. Cette diminution de la diversité des
 --
-   englobant des expressions faciales, un langage corporel, le toucher,
    les tapotements et caresses, les rires, les chatouilles et les appels
    émotionnellement expressifs. Selon Dean Falk, la langue aurait pu
    apparaître de cette manière^[23].
-
 --
-   produire du chant ou de la parole. Le canal vocal a évolué pour être
    mieux adapté à la parole, avec un larynx plus bas, une inclinaison à
    90° de la trachée, et une large langue arrondie^[25]. Les neurones
    moteurs chez les oiseaux et les humains contournent les mécanismes de
-   l’inconscient dans le tronc cérébral pour donner au cerveau un contrôle
 --
-   articulé^[28], ce qui ne signifie pas pour autant que cet hominidé ait
    usé d’un langage comparable au nôtre. On suppose la préexistence d’une
    proto-langue chantée par l'Homme de Néandertal (the singing
    Neanderthal^[29]) qui, au niveau actuel des connaissances, ne possédait
-   pas de syntaxe.
 --
-   pomme d'Adam), ce qui était une condition nécessaire pour pouvoir
    moduler la vocalisation et augmentait la hauteur de la voûte du palais,
    permettant à la langue d’articuler une plus large gamme de sons.
    Apparues avec le genre Homo, ces caractéristiques allaient se renforcer
-   nettement par la suite, notamment chez l’espèce Homo erectus : au-delà
 --
-   le scénario « Out of Africa » et un scénario pluricentripète
    (polygenèse). Certaines recherches en paléolinguistique ont identifié
    un fonds de vingt-sept mots communs à la racine de toutes les langues
    terrestres écrites au début du XXI^e siècle^[34], ce qui pousse à
-   favoriser le scénario « Out of Africa » (monogenèse). En effet,
+--
    plusieurs sources n’auraient pas eu de raison d’adopter la même
    protolangue de départ^[35]. Les divers rameaux du moderne Homo sapiens
    qui sont partis d'Afrique il y a cent mille ans partageaient déjà une
-   même fonction langagière, bien avant l'apparition de l'Homme de
 --
-   Le langage évolue donc au fil du temps avec les observations et les
    interprétations du comportement de chaque individu dans l’utilisation
    de la langue sur chaque individu dans une société.
 
-   Le langage serait lui-même un mécanisme d’évolution comprenant trois
 --
-
    Ces trois dynamiques interagissent entre elles de façon cyclique et
    complexe. Les mécanismes d’apprentissage des langues font partie de
    notre héritage biologique et sont donc soumis à l’évolution biologique.
-   Cette évolution a un impact sur la dynamique culturelle de transmission
 --
-       language » (voir la liste des auteurs).
 
     1. ↑ L'origine des langues.
     2. ↑ ^a b et c G. Marcus et Rabagliati, H., « What developmental
-       disorders can tell us about the nature and origins of language »,
 --
-       du langage, de la culture et de la pensée, Éditions Sciences
        Humaines, 2012, p. 147.
    19. ↑ Merritt Ruhlen, L'Origine des langues, Débats Belin, 1997
        (ISBN 2-7011-1757-7).
-   20. ↑ ^a et b Russell D. Gray et Quentin D. Atkinson, « Language-tree
 --
-       Proceedings of the Royal Society, n^o 268,‎ 2001, p. 1669-1675
    28. ↑ Voir le chapitre « Aux sources du langage » in Picq 2008.
    29. ↑ Jean-Jacques Hublin, « La langue des premiers hommes, in Hombert
        2005.
-   30. ↑ ^a et b Philippe Vernier, « Évolution du cerveau et émergence du
 --
-       en ligne, consulté le 15 octobre 2014)
    34. ↑ Ruhlen 1994
    35. ↑ Christophe Coupé, « L’impossible Quête de la Langue Mère », in
        Hombert 2005.
-   36. ↑ Pinker 1994, p. 353.
 --
-
    [modifier | modifier le code]
      * Essai sur l'origine des langues (Jean-Jacques Rousseau)
      * Synopsis Universae Philologiae
@@ -147,16 +110,11 @@ Proto-langues
      * Famille de langues
      * Langue adamique : utopie d'une langue biblique retrouvée
 
-Liens externes
 --
-     * Jean-Louis Dessalles, Aux origines du langage : Une histoire
        naturelle de la parole, Paris, Hermès, 2000.
      * Jean-Marie Hombert (dir.), Aux origines des langues et du langage,
        Paris, Fayard, 2005.
-     * Pascal Picq, Laurent Sagart, Ghislaine Dehaene et Cécile Lestienne,
 --
-     * Page pointant vers des dictionnaires ou encyclopédies généralistes
      * Portail:Linguistique/Articles liés
      * Portail:Langues/Articles liés
      * Portail:Sciences humaines et sociales/Articles liés
-     * Portail:Anthropologie/Articles liés

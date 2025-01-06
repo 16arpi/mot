@@ -1,10 +1,7 @@
-   santedéfinitions
 
 Langue : qu'est-ce que c'est ?
 
-   Biologie
 --
-     __________________________________________________________________
 
    La langue est un organe impliqué dans l'alimentation et la phonation. ©
    univ-paris5
@@ -25,19 +22,17 @@ Fonction de la langue
        l'aliment. Les papilles reconnaissent au moins quatre sortes de
        goût : le sucré, le salé, l'acidité et l'amertume. La langue permet
        de détecter si les aliments sont aptes à être consommés (l'amertume
-       est souvent signe de contamination ou de poison). Elle est aussi
-       nécessaire à la mastication et à la déglutition des aliments grâce
+--
        aux nombreux et puissants muscles dont elle est pourvue.
      * Parole : la langue est l'organe de la parole. Suivant sa place dans
        la bouche, sa forme et son interaction avec les lèvres ou les
-       dents, les sons émis seront différents.
+--
 
 Structure de la langue
 
    La langue est un organe mobilemobile, mou, et très musclé, d'environ 10
    centimètres de long, que l'on peut diviser en trois parties :
-
-     * le segment buccalbuccal (visible quand la bouche est ouverte) ;
+--
      * le segment pharyngien (au fond de la gorge) ;
      * la racine de la langue (fixée sur l'os hyoïdehyoïde).
 
@@ -46,8 +41,7 @@ Structure de la langue
    Elle est extrêmement vascularisée, surtout sur la face inférieure où
    arrive l'artère linguale. L'innervation de la langue est aussi multiple
    : elle est sensorielle (pour le goût), sensitive (pour les sensations
-   mécaniques, le chaud, le froid), et motrice (pour la mobilité).
-
+--
    Les papilles sont situées uniquement sur la face antérieure de la
    langue et il en existe quatre sortes :
      * les papilles circumvallées (ou caliciformes), situées à l'arrière
@@ -57,55 +51,40 @@ Structure de la langue
      * les papilles foliées (ou corolliformes) situées sur les côtés de la
        langue.
 
-   Image du site Futura Sciences Image du site Futura Sciences
 --
-
    • 24/01/2006
    Les piercing sur la langue peuvent espacer les incisives. © Laurent
    Saillard/Fotolia Les piercing sur la langue peuvent espacer les
    incisives. © Laurent Saillard/Fotolia
-
 --
-   Beauté
 
 Piercing sur la langue : peut-il abîmer les dents ?
 
-   question réponse
 --
-
    • 07/07/2013
    Lorsqu’il s’agit d’apprendre une langue étrangère, les Français ne sont
    pas doués. Mais peut-être ont-ils une bonne excuse à présenter ? ©
    esthermm, Fotolia Lorsqu’il s’agit d’apprendre une langue étrangère,
    les Français ne sont pas doués. Mais peut-être ont-ils une bonne excuse
-   à présenter ? © esthermm, Fotolia
 --
-   Divers
 
 Pourquoi est-il difficile d’apprendre une langue étrangère ?
 
-   question réponse
 --
-   coeur organe
 
    langue bleue
 
    langue covid
 
-   sang organe
 --
-   Dent
 
    Fonction de la langue
 
    Structure de la langue
 
-   Mastication
 --
-   Segment pharyngien
 
    Racine de la langue
 
    Muscle de la langue
 
-   Papilles circumvallées

@@ -1,12 +1,9 @@
-   [ ] Basculer la table des matières
 
 Capacité de rouler la langue
 
    [ ] 11 langues
      * Bosanski
-     * Deutsch
 --
-   Vous pouvez partager vos connaissances en l’améliorant (comment ?)
    selon les recommandations des projets correspondants.
    [220px-Rolled_tongue_flikr.jpg] Langue roulée.
 
@@ -15,14 +12,11 @@ Capacité de rouler la langue
    tube. Les muscles intrinsèques permettent à certaines personnes de
    former des motifs particuliers avec leur langue (ces muscles
    transverses permettent également de réaliser des motifs en trèfle, en
-   W)^[1]^,^[2]. Une minorité (36,3 % des hommes et 33,16 % des femmes)
 --
-   Selon une croyance populaire relayée dans des manuels scolaires, les
    variations de cette capacité chez les individus est d'origine
    héréditaire. Rouler la langue en tube est souvent décrit comme un trait
    dominant et est communément utilisé en cours d'introduction en
-   biologie^[4].
-
+--
    Il y a peu de preuves confirmant l'hypothèse que la capacité de rouler
    la langue est héréditaire et dominante. En 1940, Alfred Sturtevant a
    observé qu'environ 70 % des personnes d'ascendance européenne pouvaient
@@ -31,22 +25,15 @@ Capacité de rouler la langue
    des jumeaux dizygotes d'avoir tous les deux le même phénotype de la
    capacité de rouler la langue^[7].
 
-Notes et références
 --
-
    Sur les autres projets Wikimedia :
      * Capacité de rouler la langue, sur Wikimedia Commons
 
-     * Traits mendéliens chez l'homme (en)
 --
-     * Mon œil
      * Roulement des yeux
      * Rouler la langue
 
-   Jeu de main
 --
-
      * Communication non verbale
      * Langue des signes
 
-     * icône décorative Portail de la médecine

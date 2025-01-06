@@ -1,31 +1,22 @@
-     * Passer à « Au sujet du gouvernement »
 
 Sélection de la langue
 
-     * English en
 --
-            soins de santé
                o 2.1.1 Accroître la proportion de rencontres dans une
                  langue commune
                o 2.1.2 Dispenser des services d'interprétation
-          + 2.2 Groupes d'intérêts dans les services d'accès linguistique
 --
-          + 3.3 Contexte historique et culturel de la prestation de
             services
                o 3.3.1 Langues officielles
                o 3.3.2 Langues des Premières Nations et des Inuits
                o 3.3.3 Langages visuels
                o 3.3.4 Langues des « immigrants »
           + 3.4 Loi canadienne sur la santé
-          + 3.5 Droit aux services linguistiques dans les soins de santé
 --
-   Il y a une prise de conscience grandissante du fait qu'un certain
    nombre de populations sont mal desservies par le système de santé au
    Canada. Ceux qui ne parlent pas une des langues officielles
    représentent un de ces groupes mal desservis. Dans certaines
-   circonstances, des francophones vivant à l'extérieur du Québec ou des
 --
-
    Au Canada, quatre groupes peuvent rencontrer des barrières
    linguistiques à l'accès aux services de santé du fait que leur langue
    maternelle n'est pas une langue officielle : les communautés des
@@ -33,107 +24,75 @@ Sélection de la langue
    (immigrants et réfugiés), les personnes Sourdes et, selon le lieu de
    résidence, les locuteurs d'une des langues officielles du pays. En
    vertu de la Loi canadienne sur la santé de 1984, tous les Canadiens ont
-   droit aux services de soins de santé dont ils ont besoin. Néanmoins,
 --
-   libertés ont confirmé le droit des personnes Sourdes aux services
    d'interprétation pour les soins de santé, le droit des autres locuteurs
    d'une langue minoritaire n'est pas clair.
 
-   On s'entend généralement pour dire que la meilleure communication est
+--
    obtenue lorsque les intervenants et les patients parlent la même
    langue. Un certain nombre d'approches différentes permettent
    d'augmenter le nombre de rencontres de même langue, allant d'encourager
    l'apprentissage de l'anglais et du français pour les nouveaux arrivants
    à augmenter le nombre d'intervenants maîtrisant des langues
    minoritaires. Néanmoins, les besoins en services d'interprétation
-   linguistique subsisteront pour certains patients.
 --
-     * Les récentes recherches qui comportent à la fois des variables sur
        l'origine ethnique et la compétence linguistique suggèrent que,
        dans de nombreux cas, la langue, et non les croyances et les
        pratiques culturelles, constitue la plus importante barrière à
-       l'établissement d'un premier contact avec les services de soins de
 --
-       diabète.
      * La qualité des soins pour les personnes qui ne maîtrisent pas une
        langue officielle est affectée dans les consultations avec des
        professionnels de la santé qui, en raison des barrières
-       linguistiques, ne respectent pas les normes d'éthique de la
 --
-     * Un certain nombre d'études se sont penchées sur différents aspects
        de la satisfaction des patients envers les soins de santé. Les
        patients qui ne parlent pas la même langue que leurs intervenants
        enregistrent de manière constante un niveau de satisfaction moins
-       élevé que dans le cas contraire. On ne sait toutefois pas dans
 --
-       services de santé tendent à sous-représenter les minorités
        ethniques, plus spécialement celles qui ne possèdent pas les
        compétences requises dans une langue officielle. L'exclusion de
        certains groupes ethniques des recherches biomédicales peut par
-       conséquent vouloir dire que les résultats des études ne peuvent
 --
-   modèles appropriés compte tenu de la répartition de la population
    canadienne et inclure des modèles adaptés aux régions dont le taux de
    densité des locuteurs d'une langue non officielle est faible mais d'une
    grande diversité.
-
 --
-
    Bien que les services d'interprétation professionnels soient essentiels
    pour l'accès aux soins des personnes ne maîtrisant pas une langue
    officielle, la prestation de tels services n'est pas une solution
-   suffisante. Si nous n'abordons pas la question plus large de l'équité
 --
-   De récentes recherches ont souligné l'interaction complexe qui existe
    entre l'origine ethnique, le statut socio-économique et la santé. La
    recherche laisse également croire que la maîtrise d'une langue
    officielle est en soi un facteur déterminant de la santé et qu'il peut
-   interagir avec l'origine ethnique et le statut socio-économique. Les
 --
-     * Étudier la possibilité d'inclure dans la collecte de données du
        système de santé des données sur la compétence linguistique des
        patients dans l'une des langues officielles.
      * Ajouter, autant que possible, la compétence dans une langue
        officielle comme variable d'analyse dans les recherches sur les
-       services de santé. Cette variable devrait toujours être incluse
 --
-     * Inclure dans le sommaire des plans de recherche une indication à
        savoir si des personnes qui n'ont pas une maîtrise parfaite d'une
        langue officielle seront admissibles et encourager la participation
        de minorités linguistiques dans des recherches cliniques et sur les
-       services de santé.
 --
-       méthodologie et de déontologie qui se rapportent à la mise en
        oeuvre de recherches auxquelles participent des personnes dont les
        compétences dans une langue officielle sont limitées.
      * Mettre sur pied des initiatives dont l'objectif est de faire la
-       promotion d'une plus grande sensibilisation à l'importance que
 --
-       sur l'utilisation des services et sur l'état de santé des
        Canadiens. Une telle stratégie devrait inclure et coordonner la
        recherche sur les langues officielles, étrangères, autochtones et
        gestuelles.
-     * Établir un centre d'échange centralisé sur l'information et la
 --
-          + Coordonner des stratégies de formation et de reconnaissance
             professionnelle des interprètes.
           + Inclure et coordonner des stratégies pour les langues
             officielles, autochtones, gestuelles et étrangères.
-
 --
-   Canada (Comité consultatif fédéral-provincial-territorial sur la santé
    de la population, 1999; Bowen, 2000). Ceux qui ne parlent pas l'une des
    langues officielles représentent un de ces groupes mal desservis. Dans
    certaines circonstances, des francophones vivant à l'extérieur du
-   Québec ou des anglophones vivant au Québec peuvent être eux aussi
 --
-   les coûts généraux pour le système de santé ou pour la société.
 
    Pour ceux qui ne parlent pas l'une des langues officielles, il est peu
    probable que le manque d'accès soit uniquement attribuable aux
-   barrières linguistiques. Ceux qui ne parlent pas couramment le français
 --
-   communication. La compréhension et le respect des différences entre les
    cultures ont été reconnus comme une pierre angulaire de la compétence
    culturelle. Les langues ne peuvent jamais être totalement comprises si
    elles sont isolées des autres facteurs culturels et ethniques. La
@@ -144,24 +103,18 @@ Sélection de la langue
    commune, à moins qu'il n'y ait communication, ces solutions de rechange
    à la compréhension ne seront pas connues. La langue est la base, la
    condition préalable, à une compréhension plus approfondie. Nous savons
-   que le salaire, le sexe, le niveau socio-économique, l'éducation et
 --
-   des personnes.
 
    La langue a été décrite comme la technologie la plus indispensable à la
    médecine, soit le principal instrument pour assurer sa pratique
    (Jackson, 1998). Selon les observations, s'il ne s'agissait pas de la
    langue, le travail des médecins et des vétérinaires serait pratiquement
    identique (Clark, 1983). L'établissement d'une communication permet à
-   toutes les parties présentes à une rencontre médicale de participer à
 --
-   sujets importants ayant trait à la prestation de services d'accès
    linguistique. Le rapport ne passe pas en revue le vaste corpus de
    travaux portant sur la relation entre la langue et la culture. Les
    études de cas pouvant servir de base à une recherche empirique
-   approfondie sur les effets des barrières linguistiques sont
 --
-   De manière générale, on reconnaît qu'il existe deux approches de base
    pour étudier les barrières linguistiques à la communication
    attribuables à l'absence d'une langue commune entre le client et
    l'intervenant. La première est d'accroître le nombre de rencontres où
@@ -174,9 +127,7 @@ Sélection de la langue
    Accroître le nombre de rencontres en milieu médical où l'intervenant et
    le patient partagent la même langue est souvent considéré comme la
    solution idéale. Selon de nombreux auteurs, l'interprétation ne pourra
-   jamais être aussi satisfaisante qu'une communication directe, peu
 --
-   et sur le type de renseignements transmis.
 
    L'augmentation du nombre de rencontres dans une langue commune peut
    être atteinte, soit :
@@ -188,33 +139,25 @@ Sélection de la langue
 
    Augmenter le nombre d'intervenants maîtrisant d'autres langues
 
-   Un certain nombre de stratégies différentes ont été proposées en vue
+--
    d'accroître la proportion d'inter-venants en milieu médical maîtrisant
    la langue d'une minorité linguistique.
 
-   Les stratégies d'équité en matière d'emploi encouragent l'embauche
 --
-   formation à la prestation de services. Cependant, ce ne sont pas tous
    les membres des groupes visés qui possèdent la connaissance de la
    langue présumée. Au Canada, par exemple, un nombre relativement
    restreint d'étudiants autochtones inscrits dans ces programmes
    maîtrisent la langue d'une Première Nation. Les stratégies visant à
    faciliter l'octroi de permis pour les personnes ayant obtenu un diplôme
-   en médecine à l'étranger sont des exemples d'initiatives d'embauche
 --
-       à la région peuvent par ailleurs être ignorées.
      * Alors que les communautés linguistiques minoritaires favorisent la
        prestation de services dans la langue maternelle du patient, une
        inquiétude a été soulevée à l'effet que les membres des communautés
-       ne veulent pas être « ghettoïsés » en ayant pour choix uniquement
 --
-       pour une ou plusieurs professions ne répondront pas à tous les
        besoins. Par exemple, les initiatives dont l'objectif est
        d'augmenter le nombre de médecins parlant une langue minoritaire
        sont inadéquates comme unique solution puisque l'accès à un médecin
-       ne représente qu'un élément du système de soins de santé. L'accès
 --
-
    Une autre approche visant à augmenter la proportion de rencontres en
    langue commune consiste à accroître la capacité linguistique des
    intervenants dans les langues non officielles par la prestation de
@@ -222,19 +165,15 @@ Sélection de la langue
    initiatives ont été mises de l'avant en vue d'encourager les
    intervenants à apprendre la langue des groupes minoritaires (Prince et
    Nelson, 1995; Binder et al., 1988; Koff et McGowan, 1999). L'efficacité
-   de ces mesures n'a toutefois pas été adéquatement évaluée. Néanmoins,
 --
-   souligné les risques que pose la « fausse capacité linguistique » des
    intervenants qui, possédant seulement une connaissance limitée dans une
    deuxième langue, tentent tout de même de communiquer sans avoir recours
    à l'aide d'un interprète (Flores et al., 2000). Dans ce cas,
-   l'intervenant peut croire qu'il comprend bien le patient, qu'il répond
 --
-   de communica-tion sérieuses et dangereuses.
 
    Augmenter le nombre de locuteurs d'une langue minoritaire qui
    maîtrisent l'anglais ou le français
-
+--
    Plutôt que d'élaborer des stratégies visant à accroître le nombre
    d'intervenants s'exprimant dans une langue minoritaire, on fait souvent
    valoir que l'accent devrait être mis de préférence sur l'aide à
@@ -244,7 +183,7 @@ Sélection de la langue
    des nouveaux immigrants. Le manque de facilité à communiquer dans une
    langue officielle est perçu comme étant un problème de courte durée qui
    ne requiert pas de changements systématiques. Il est tenu pour acquis
-   que les immigrants (qui, selon les attentes, apprendront l'anglais ou
+--
    le français, selon la province d'établissement) maîtriseront en peu de
    temps l'une des langues officielles. On prévoit que le nombre de
    rencontres en langue commune augmentera à mesure que s'amélioreront les
@@ -256,132 +195,94 @@ Sélection de la langue
    communautés sont unilingues, en anglais ou en français, et que, selon
    certains, ces autres langues seraient en voie de mourir, ce qui aura
    pour conséquence dans l'avenir de réduire les besoins en services
-   d'interprétation.
 --
-   dans les situations où le service est offert. Il est aussi vrai de dire
    que de nombreux Autochtones possèdent de bonnes compétences dans une
    langue officielle.
 
-   Cela ne permet toutefois pas de répondre aux besoins d'accès aux
 --
-   leurs intervenants. Un grand nombre de personnes sont capables de
    communiquer adéquatement pour ce qu'elles croient être des problèmes
    simples, mais sont incapables, dans une langue seconde, de comprendre
    des troubles plus complexes et de faire face à des situations hautement
-   stressantes reliées à la santé (Stevens, 1993b; Bowen, 1999). Des
 --
-   ou inuits qui ne parlent pas couramment l'anglais ou le français, ou
    encore du droit des Premières Nations et des Inuits à conserver leur
    propre langue.
 
-   Alors que les services pour les malentendants ont souvent été offerts
 --
-   malentendants fait reconnaître la surdité comme un handicap, et tenter
    d'intégrer les enfants malentendants à la culture « dominante »
    favorise l'accroissement du nombre de locuteurs d'une langue
    officielle.
-
 --
-   communication entre de nombreux patients et intervenants. Alors que
    certaines personnes (ou communautés linguistiques spécifiques) peuvent
    acquérir la maîtrise d'une langue, et éventuelle-ment ne plus avoir
    besoin de recourir aux services d'interprétation, on reconnaît que le
-   besoin pour des services d'accès linguistique sera toujours présent
 --
-   santé, un intervenant en matière de santé ou un interprète
    professionnel. Le niveau de compétence de l'interprète non
    profes-sionnel dans les langues officielles ou minoritaires peut varier
    selon ses connaissances du domaine pour lequel l'interprétation est
-   demandée. Les interprètes bénévoles ou non professionnels peuvent avoir
 --
-   1 Pour les besoins du présent rapport, le terme interprétation fait
    référence au processus par lequel un message parlé ou gestuel dans une
    langue donnée est transposé, avec le même sens, dans une autre langue.
    Le terme traduction signifie le passage par écrit d'une langue à une
    autre. Les deux formes courantes d'interprétation sont l'interprétation
-   simultanée, lorsqu'elle est effectuée presque instantanément après le
 --
-   réellement peuvent tous les deux varier. On peut s'attendre de
    l'interprète qu'il fasse une interprétation objective et neutre de la
    langue, une interprétation culturelle, la défense d'une cause ou qu'il
    prenne le rôle d'éducateur en matière de santé (Putsch, 1985). Cette
-   gamme de modèles de services et de rôles, de même que ces variations en
 --
-   médicaux. L'importance de ces observations augmente lorsque des liens
    sont établis avec des recherches connexes (p. ex., la communica-tion
    patient-intervenant et l'alphabétisation dans une langue officielle).
 
-   L'objectif du présent rapport est de se pencher sur ces récentes
 --
-   clients. Ces mêmes personnes reconnaissent également les risques qui
    peuvent découler d'une mauvaise communication, non pas simplement en
    raison du manque de compétences dans la langue dominante, mais aussi en
    raison des diverses hypothèses liées aux rôles, à la santé et à une
-   communication adéquate (Putsch, 1985; Stevens, 1993b; Jackson, 1998).
 --
-   présumer, par exemple, que l'influence d'un conciliateur inter-prète
    linguistique culturel sera la même que celle d'un simple interprète qui
    se limite à une interprétation stricte de la langue (comme dans le cas
    d'une interprétation à distance par téléphone). De plus, les
-   interprètes ne possèdent pas nécessairement un niveau d'expérience
 --
-   d'interprétation professionnelle le plus efficace dans une situation
    donnée. La diversité des milieux de pratique, les variations dans la
    taille des populations de locuteurs d'une langue non officielle, de
    même que les différences dans les mesures de soutien offertes dans des
-   com-munautés spécifiques posent un défi de taille pour déterminer des
 --
-   normes répondent explicitement au droit des clients à un personnel ou à
    des services d'interprétation bilingues, l'accès à l'information dans
    leur langue, des normes professionnelles pour les interprètes et
    l'inclusion d'identificateurs linguistiques lors de la collecte de
-   données. Ces normes sont basées sur la législation et les capacités de
 --
-   À bien des égards, les problèmes auxquels on doit faire face dans la
    prestation de services de santé pour ceux dont les compétences sont
    limitées dans une langue officielle peuvent sembler analogues d'un pays
    à l'autre. Certes, du point de vue des usagers des services de soins de
-   santé, plusieurs des difficultés et des risques entourant la
 --
-   Au Canada, quatre groupes peuvent être touchés par les barrières
    linguistiques dans l'accès aux services de santé du fait que leur
    langue maternelle n'est pas une langue officielle 2 :
      * les Premières Nations et les Inuits;
-     * les nouveaux arrivants au Canada (immigrants et réfugiés);
+--
      * les Sourds 3
      * selon le lieu de résidence, les locuteurs d'une langue officielle
        (français ou anglais).
-
 --
-
    Le présent rapport met l'accent sur les personnes qui doivent faire
    face à des barrières linguistiques du fait que leur langue maternelle
    n'est pas une langue officielle. Il reconnaît également que de nombreux
    locuteurs d'une langue officielle dont le niveau d'alphabétisation est
    faible sont aussi confrontés à des « barrières linguistiques »,
-   principalement pour les documents écrits.
 --
-   appartiennent les personnes Sourdes. Bon nombre d'entre elles sont
    atteintes d'une surdité prélinguistique et, bien qu'elles puissent
    apprendre à lire ou à écrire l'anglais ou le français, ces langues sont
    acquises à titre de langues secondes. Par coutre, les mots sourds ou
    surdité (avec un «s »minuscule) font référence à un manque de capacité
-   auditive. Tous les sourds ne font pas partie de la communauté des
 --
-   les quatre groupes. Plus particulièrement, la communauté des Sourds
    n'est pas normalement reconnue comme une minorité linguistique au même
    sens que les locuteurs d'autres langues minoritaires, bien que certains
    auteurs décrivent les similarités qui existent entre ces groupes
    (McKewan et Anton-Culver, 1988; Barnett, 1999). Au nombre des
    similarités, notons l'accès limité à l'information dans une langue
    officielle, l'exclusion des sources de renseignements « ambiantes »,
-   des rencontres peu fréquentes avec des médecins ou des intervenants en
 --
-   moins portés à essayer de s'expliquer à nouveau. Ils tendaient
    également moins à se dire capables de parler au médecin dans leur
    langue courante (McEwan et Anton-Culver, 1988).
 
-3.3 Contexte historique et culturel de la prestation de services
+--
 
 3.3.1 Langues officielles
 
@@ -390,7 +291,7 @@ Sélection de la langue
    anglophones et aux francophones le droit de recevoir une gamme de
    services dans leur langue maternelle (Bastarache et al., 1987).
    Cependant, les francophones vivant à l'extérieur du Québec (et certains
-   anglophones habitant au Québec) peuvent également être confrontés à des
+--
    barrières linguistiques dans l'accès aux soins de santé dans leur
    langue maternelle, selon leur lieu de résidence (Martin, 1992). Il n'y
    a aucune loi spécifique rendant obligatoire la prestation de services
@@ -405,48 +306,34 @@ Sélection de la langue
    Territoires du Nord-Ouest et, depuis la création du Nunavut,
    l'Inuktituk est devenu une langue gouvernementale officielle. Les
    systèmes d'ad-ministration et de prestation de services fédéraux, tels
-   que la Direction générale de la santé des Premières Nations et des
 --
-   aux communautés du Nord de même qu'à certains patients nécessitant des
    soins tertiaires dans des hôpitaux urbains. Alors que 80 à 90 pour cent
    des Autochtones de l'Est du Canada maîtrisent une langue officielle, un
    pourcentage important d'Autochtones vivant dans les villes de l'Ouest
    peuvent ne pas posséder les capacités linguisti-ques suffisantes pour
    communiquer dans une langue officielle lors d'une rencontre médicale.
    Les Autochtones en milieu urbain n'ont pas été considérés comme un
-   groupe prioritaire pour les services d'interprétation offerts par la
 --
-   aux soins de santé destinés aux Autochtones. Cette situation permet de
    créer un contexte fort différent de prestation de services
    comparativement à celui des immigrants s'exprimant dans une langue
    minoritaire.
-
 --
-   aux autres minorités linguistiques.
 
 3.3.4 Langues des « immigrants »
 
-   Contrairement à d'autres pays, en l'occurrence les États-Unis, les
 --
-   domaine d'application de la Loi, et ce en dépit du fait qu'ils soient
    essentiels pour la protection et la promotion de la santé. Le droit
    d'une personne à accéder à de l'information préventive dans sa langue
    maternelle est par conséquent encore plus ténu que celui du droit à
-   l'accès linguistique visant à faciliter le diagnostic et le traitement
 --
-   d'interprétation peut être un empêchement ou un obstacle à l'accès.
    D'exiger du client qu'il trouve ou qu'il rémunère un interprète afin
    d'accéder aux mêmes soins que ceux qui s'expriment dans une langue
    maternelle peut empêcher la prestation de services selon des modalités
-   uniformes.
 --
-   [Traduction) « Tous les résidents de l'Ontario ont droit à des services
    de santé de haute qualité, accessibles et intégraux, sans égard à leur
    âge, sexe, niveau de compétence fonction-nelle, langue ou origine
    ethnoculturelle ou emplacement géographique (c'est nous qui
-   soulignons). La notion d'accessibilité devrait comprendre les aspects
 --
-   Il a été plaidé devant les tribunaux que la situation des personnes
    sourdes ne pouvait pas être distinguée de manière cohérente de celle
    des locuteurs d'une langue non officielle. Cependant, le tribunal a
    statué que, du point de vue d'un patient, il pouvait ne pas y avoir de
@@ -455,156 +342,109 @@ Sélection de la langue
    Par conséquent, il n'est pas certain que l'absence de services
    d'interprétation pour les locuteurs d'une langue non officielle
    constituerait une violation de la Charte, même en admettant que de
-   nombreux principes énoncés dans le jugement pourraient également
 --
-
    Au Canada, en vertu de la common law, il est reconnu que lorsqu'un
    patient ne maîtrise pas une langue officielle, il incombe au médecin de
    veiller à ce que le patient comprenne l'information qui lui est
-   communiquée avant l'administration du traitement (Champion, 2000).
 --
-3.6 Recherches sur la diversité et la santé au Canada
 
    La façon dont nous comprenons les répercussions de la langue, de la
    culture, des classes, du racisme et de la pauvreté sur les services de
-   santé et sur l'état de santé dépend largement de nos attentes en tant
 --
-   territoire). Les recherches menées au Canada ont mis davantage l'accent
    sur les différentes habitudes d'utilisation selon le « revenu » plutôt
    que sur les différences relatives à la langue, à la culture ou à
    l'origine ethnique et ce, parce que le régime d'assurance-maladie au
-   Canada a été conçu de façon à abolir les barrières financières à
 --
-   matière de droits de la personne dans la Charte des droits et libertés,
    suggèrent que le droit à l'accès linguistique pour les locuteurs d'une
    langue non officielle puisse être contesté. Cela dit, il y a peu de
    dispositions exigeant l'application obligatoire de l'accès
-   linguistique. Aux États-Unis, le gouverne-ment fédéral exerce un
-   contrôle à cet égard et met en application le droit des personnes à
+--
    accéder aux institutions publiques sans discrimination à l'égard de la
    langue (Perkins et Vera, 1998). Au Canada cependant, le soutien du
    gouvernement fédéral pour veiller à la mise en application des
-   dispositions existantes a été plutôt timide. Malgré les mesures
 --
-   sembleraient indiquer que l'absence de services d'accès linguistique
    entraînerait une prestation de services de soins de santé de qualité
    inférieure pour les locuteurs d'une langue non officielle.
 
-4. Aperçu des méthodologies de recherche
 --
-   le revenu, l'éducation) qui pourraient également influer sur les
    résultats mesurés. Cette façon de procéder a permis aux chercheurs de «
    démêler » les effets multiples de l'origine ethnique, de la langue et
    de la situation économique.
-
 --
-
    Les recherches menées directement auprès de ceux qui ne maîtrisent pas
    une langue officielle présentent des problèmes d'éthique et de
    méthodologie additionnels susceptibles d'aug-menter les coûts de
-   recherche. L'information sur les capacités linguistiques ne fait
 --
-   différentes : oral, lecture labiale, interprétation gestuelle,
    télécopieur, téléscripteur (ATS) et services de relais par téléphone.
    (Swanson, 1997). La validation des instruments dans d'autres langues
    pose un défi additionnel. L'interprétation des données peut être
    problématique puisque les divers emplois de la langue, à moins d'être
    abordée, peuvent nuire à la fiabilité et à la validité des recherches
-   (Marshall et al., 1998). Il existe également des difficultés énormes
 --
-   significatives entre les populations (p. ex., comparer le niveau de
    satisfaction envers les soins de santé des anglophones, des
    francophones et des locuteurs d'une autre langue). Les enquêtes
    longitudinales, quant à elles, décrivent ou mesurent la à plusieurs
-   moments dans le temps, soit en enquêtant auprès des mêmes personnes à
 --
-   plus d'être confronté à des problèmes d'accès (Woloshin et al., 1997).
    Les enquêtes téléphoniques sont particulièrement de nature à exclure
    les locuteurs d'une langue non officielle (Barnett et Franks, 1999a).
 
-   Validité et fiabilité des instruments
 --
-   traduction pour les personnes ciblées. Il se peut que la traduction
    doive com-porter des différences, même parmi ceux qui parlent la même
    langue, tout dépendant des variations régionales et du niveau
    d'instruction. La traduction de documents est un processus com-plexe
-   qui demande au traducteur de reconnaître les différences les membres de
 --
-   groupes linguistiques et ethniques. Ceci peut avoir une influence sur
    les résultats de l'enquête, même lorsque les versions dans les autres
    langues sont traduites de manière exacte. Plusieurs chercheurs se sont
    penchés sur les difficultés que pose le processus qui consiste à faire
-   en sorte que les instruments de mesure du niveau de satisfaction du
 --
-   en matière de santé et ceux qui n'en connaissent pas. Par exemple, les
    latinophones qui sont compétents en anglais peuvent être comparés à
    ceux éprouvant des difficultés à communiquer dans cette langue.
    Cependant, certaines données indiquent qu'un même répondant peut donner
    des réponses divergentes s'il est interrogé dans diverses langues de
    même qu'il peut exprimer des symptômes différents (Marcos et al., 1973;
-   Oquendo, 1996).
 --
-   sur l'état de santé, l'accès, le niveau de satisfaction et les
    barrières aux soins de santé. Ils ont entrepris de comparer les mesures
    dépendantes avec la langue d'enquête (espagnol ou anglais). L'enquête a
    été menée en Arizona auprès de 3 104 adultes choisis au hasard et de 1
-   113 adultes (espagnol ou anglais). L'enquête a été menée en Arizona
 --
-   hispanophones et les hispanophones maîtrisant l'anglais. Les auteurs
    ont estimé qu'il était important d'analyser séparément les réponses
    obtenues dans deux langues, non seulement pour garantir leur validité,
    mais aussi pour identifier les groupes à plus haut risque. Des
-   différences significatives ont été enregistrées entre les enfants dont
 --
-   introduire les expériences des patients et des intervenants de même que
    pour recueillir des détails précieux sur les mesures linguistiques (p.
    ex., langue spécifique, caractéristi-ques de l'interprète, niveau de
    compétence dans la langue officielle) ainsi que sur les comportements
    en lien avec la santé qui ne sont mesurés par aucun système de collecte
-   de données. Les enquêtes peuvent fournir une évaluation de l'incidence
 --
-   de ces données sur le plan institutionnel demeure un sujet contesté.
 
    Si le fait de recueillir de l'information sur la maîtrise de la langue
    dans le cadre d'une cueillette de données de routine faciliterait la
-   recherche sur les barrières linguistiques et les services
 --
-   croire que la mesure consignée serait une piètre approximation de la
    variable étudiée. Par exemple, le fait de demander à des patients
    quelle est leur origine ethnique ou la langue parlée à la maison ne
    donne pas nécessairement de l'information sur la présence ou non de
-   barrières communicationnelles ou le recours à des services
 --
-   d'origine vietnamienne, ou qui parle le vietnamien à la maison, peut
    avoir vécu au Canada depuis 20 ans et maîtriser l'anglais, ou encore
    obtenir des services de santé auprès d'un intervenant de langue
    vietnamienne. Les différences attribuées à la langue peuvent également
    découler de facteurs liés au revenu ou à d'autres difficultés d'accès
    qui ne sont pas associées à la langue ou à l'origine ethnique
    (Robinson, 1998). Mais tant que ces renseigne-ments ne seront pas
-   consignés, l'utilisation de données sur la santé pour évaluer l'effet
 --
-   étaient incluses, il faudrait toutefois prendre soin d'incorporer une
    mesure relative à la communication, et non simplement à l'origine
    ethnique ou à la langue maternelle.
 
-   On pourrait en outre lier les données secondaires à d'autres sources de
 --
-   sein de la catégorie, soit entre elles directement. En effet, dans la
    catégorie Variables relatives au client, le niveau de compétence dans
    une langue officielle peut interagir avec le type de maladie ou de
    pré-occupation. Par exemple, une femme qui maîtrise un peu l'anglais et
    qui a suivi des cours de préparation prénatale dans sa propre langue
    peut être en mesure de se « débrouiller » en anglais lors d'un
-   accouchement normal, mais peut ne pas posséder des compétences
 --
-   mesurer la « compétence linguistique ». La plupart des études se
    pré-occupent principalement de l'habileté du patient à parler une
    langue officielle, catégorisant par exemple le patient d'« anglophone »
    ou de « non-anglophone ». Divers termes sont employés pour catégoriser
-   la compétence linguistique. La documentation américaine fait
 --
-   (compétences limitées en anglais) ou non-English speakers-NES (aucune
    compétence en anglais). D'autres définitions mettent l'accent sur la
    langue maternelle du patient (p. ex., « langue minoritaire » ou
    locuteurs d'une « langue non officielle »).
@@ -613,9 +453,7 @@ Sélection de la langue
    linguistique (si l'intervenant et le patient partagent la même langue).
    Par exemple, Lee et al. (1998) ont déterminé si la langue usuelle de
    certains patients était différente de celle de leur médecin de famille.
-   Les analyses effectuées comparaient « correspondance linguistique » à «
 --
-   la qualité de l'interaction et la qualité des soins soient similaires
    lorsqu'il y a correspondance linguistique entre deux personnes, peu
    importe la langue de communication. Cependant, afin de faire un suivi à
    grande échelle des répercussions sur la santé, il est plus réaliste, et
@@ -624,54 +462,39 @@ Sélection de la langue
    intervenants du milieu médical est requise, et les compétences dans une
    langue officielle auront une influence sur l'accès à l'information, la
    disponibilité des services, les activités de promotion de la santé et
-   les traitements prescrits. De plus, aucune donnée n'est recueillie
 --
-   conversation de la vie courante en anglais ou en français ne nécessite
    pas les services d'un interprète. Toutefois, même ceux qui maîtrisent
    officiellement une langue officielle peuvent faire face à des problèmes
    de communication lors d'une consulta-tion médicale. La complexité et
-   l'acceptabilité sociale de la maladie, les connaissances préalables du
 --
-   pratiques entre le patient et l'intervenant, de même que son niveau de
    détresse émotive (Peck, 1974) peuvent, dans une situation spécifique,
    influer sur la capacité du client à communiquer dans une langue
    seconde. Une personne qui peut ne pas avoir besoin d'un interprète pour
-   une blessure visible (p. ex., une cheville fracturée) peut toutefois ne
 --
-   promotion de la santé). En revanche, comme nous en discuterons dans la
    prochaine section, les recherches montrent que ceux qui ne possèdent
    pas des compétences suffisantes dans une langue officielle font une
    sous-utilisation des programmes de prévention en général ou évitent
-   d'avoir recours aux services pour lesquels un interprète n'est pas
 --
-     * capacité d'interprétation
 
    Niveau de compétence dans d'autres langues
      * connaissance des bons termes de médecine et de soins dans la langue
        maternelle
-     * connaissance des idiomes et dialectes locaux
 --
-   Puisque les intervenants accordent souvent la priorité d'accès à des
    services linguistiques aux communautés composées d'un grand nombre de
    locuteurs d'une langue minoritaire, certaines personnes de plus petites
    communautés peuvent en réalité être confrontées à des barrières de plus
-   grande envergure lorsqu'il s'agit pour elles d'accéder au réseau des
 --
-   communauté au Canada. Une communauté plus grande et mieux établie est
    davantage susceptible de disposer d'interve nants qui parlent la même
    langue que le patient et d'avoir mis au point des solutions en vue de
    répondre aux besoins d'accès de cette communauté. Les locuteurs d'une
    langue non officielle qui vivent dans des com-munautés où seulement
    quelques personnes ont besoin de services d'accès linguistique peuvent
-   disposer d'un moins grand éventail de solutions en matière de soins
-   alternatifs ou supplémentaires, ou d'accès à des services
+--
    professionnels d'interpréta-tion. Une étude menée dans un centre
    médical observait que même si l'espagnol était la langue prédominante
    parmi les groupes non-anglo-phones, ceux qui parlaient une autre langue
    étaient davantage susceptibles de se trouver en situation de crise
-   (Corso, 1997). Une étude canadienne a révélé que c'était les Inuits et
 --
-   l'intermédiaire d'intervenants provenant d'un même horizon culturel.
    Dans ce type de communauté, une personne peut avoir accès dans sa
    langue maternelle à tous les services ou à la majorité d'entre eux.
 
@@ -681,325 +504,231 @@ Sélection de la langue
    place de normes et de pratiques d'interprétation en français et en
    anglais est beaucoup plus avancée que pour les langues des Premières
    Nations et des immigrants non européens.
-
 --
-   relation entre l'interprète et le patient. Il est assez fréquent que
    des interprètes soient embauchés simplement parce qu'ils parlent la
    même langue que le patient sans qu'aucune attention particulière ne
    soit donnée notamment aux différences linguistiques sur les plans
-   politique, ethnique, régional, idiomatique ou encore aux différences
 --
-   Tableau 4.3.5
    Variables relatives à la communauté du client Conséquences possibles
    Groupe linguistique (langue officielle, nouveaux arrivants, Premières
    Nations, Inuits, malentendants)
-     * le contexte politique et culturel peut avoir une influence sur
 --
-
    Taille de la communauté et intégrité institutionnelle
      * disponibilité des intervenants parlant la langue maternelle du
        patient
      * accès aux ressources dans la même langue que celle du patient
      * économies liées à la prestation de services d'interprétation
-     * modèle de prestation de services
 --
-   Données démographiques spécifiques (structures d'âge, niveaux
    d'éducation, prévalence des traumatismes, pourcentage de personnes
    maîtrisant une langue officielle)
      * état de santé de la population
-     * types de risques pour la santé
-     * vraisemblance des renseignements confiés
+--
 
    Langue spécifique (similarités avec l'anglais ou le français)
      * probabilité de compréhension partielle
-     * période de temps pendant laquelle les services sont requis
 --
-       influer sur le traitement
 
    La langue pour laquelle l'interprétation est nécessaire est également
    un facteur pertinent. Les locuteurs de langues qui ont en commun le
    même alphabet ou la même racine (comme l'espagnol) peuvent apprendre
-   l'anglais ou le français plus rapidement et plus facilement ou encore
 --
-   sur les besoins pour certains services d'interprétation. Par exemple,
    si un programme est mis en place en vue d'offrir des cours prénataux
    dans la langue maternelle des clients dans un milieu com-munautaire,
    l'ampleur de l'information pour laquelle un patient réclame des
-   services d'inter-prétation en milieu médical peut être de moindre
 --
-   Au Canada, l'absence d'un système coordonné d'interprétation en milieu
    médical et d'obligations visant à fournir des services professionnels
    d'inter-prétation aux locuteurs d'une langue non officielle explique en
    partie le fait qu'il y ait très peu de recherche dans ce domaine. Peu
-   de chercheurs possèdent une expérience dans le domaine, et l'isolement
 --
-   Les interprètes en soins médicaux n'ont été reconnus que récemment à
    titre de professionnels essentiels pour la prestation de soins de santé
    aux patients qui ne parlent pas une langue officielle (Jackson, 1998).
    Avec la sensibilisation accrue aux risques liés aux barrières
-   linguistiques et à l'inter-prétation incorrecte, les fournisseurs des
 --
-   des « interprètes profession-nels ») est mal défini. La responsabilité
    principale d'un interprète consiste à permettre de surmonter la
    barrière linguistique entre des personnes parlant des langues
    différentes afin qu'elles puissent communiquer librement entre elles
-   (Downing, 1995), mais il n'y a pas de consensus sur la meilleure façon
 --
-   de santé peut faire obstacle à l'équité des soins. Il a été constaté
    qu'on sollicite souvent l'assistance des interprètes -même lorsque le
    patient parle une langue officielle -afin d'aider à la médiation quant
    aux attentes culturelles tant du client que de l'intervenant, et pour
-   offrir soutien et réconfort au patient (Hemlin et Mesa, 1996; Kaufert
 --
-   les interprètes sont des employés à temps plein ou à temps partiel, ou
    qu'ils travaillent à contrat ou à la séance. Bien que les populations
    plus vastes de locuteurs d'une langue non officielle peuvent s'offrir
    des interprètes à temps plein, bon nombre de centres canadiens
-   considèrent que les interprètes contractuels constituent une solution
 --
-   inter-hôpitaux, dans le cadre duquel un certain nombre d'établissements
    se partagent les interprètes. Ce système est particulièrement utile
    dans les cas où des clients parlant des langues minoritaires se
    retrouvent en nombre plus restreint dans une même région et où les
-   hôpitaux sont raisonnablement rapprochés.
 --
-   également un exemple de rôle d'interprète combiné, puisque les
    interprètes jouent également d'autres rôles, notamment celui de donner
    de la formation médicale en langue maternelle adaptée à la culture.
    Comme les interprètes relèvent d'un organisme communautaire, leur rôle
-   consiste à agir au nom du client. Ce programme illustre également les
 --
-   ainsi qu'aux services de formation et aux services juridiques. Ce
    modèle est souvent plus efficace puisqu'il permet d'offrir des services
    dans un plus grand nombre de langues, et bon nombre des éléments de la
    formation (p. ex., la déontologie) sont semblables pour beaucoup de
-   zones de services. Il permet également d'assurer la continuité auprès
 --
-   sociaux de Montréal-Centre, elle emploie un certain nombre
    d'interprètes à la pige qui dispensent des services dans plus de 50
    langues (Hemlin et Mesa, 1996; Mesa, 1997).
 
-   Beaucoup de « banques linguistiques » reposent également sur ce modèle,
 --
-   d'interprétation à distance, ou les « lignes linguistiques », sont
    utilisées couramment aux États-Unis et dans plusieurs régions du
    Canada. Comme ils sont offerts en maintes langues et sont disponibles
    24 heures sur 24, ces services peuvent avoir une valeur inestimable
-   dans des situations d'urgence (p. ex., pour des ambulanciers sur les
-   lieux d'un accident). Cependant, leur utilisation coûte également cher
+--
    à la minute, bien qu'ils puissent être rentables lorsque la demande
    pour une langue en particulier n'est qu'occasionnelle. Ils sont
    considérés supérieurs sur le plan de la qualité à l'interprétation
-   ponctuelle, mais les interprètes par téléphone peuvent ne pas posséder
 --
-   l'accent sur le recrutement de professionnels de la santé mentale
    biculturels et bilingues ayant reçu une formation afin qu'ils
    travaillent directement avec des clients parlant la même langue qu'eux.
    L'autre consiste à créer des postes de paraprofessionnels, ces derniers
-   travaillant en étroite collaboration avec les professionnels de la
 --
-   l'intervenant, mais il permet également d'accroître le nombre de
    consultations où la congruence linguistique est assurée en dispensant
    certains services directement dans la langue maternelle du client. Ce
    modèle s'est révélé particulièrement utile dans des domaines critiques
-   des soins de santé, notamment en matière de sexualité et de santé
 --
-   Un certain nombre d'études ont permis de cerner des différences quant à
    l'utilisation, la satisfaction et le respect du traitement entre les
    patients parlant couramment ou non une langue officielle. Cependant,
    rares sont celles où l'on a tenté de comparer directement les patients
-   ayant des interprètes professionnels à leur disposition et ceux qui n'y
 --
-   participant à un programme où des interprètes professionnels sont
    toujours disponibles, à la situation vécue par ceux qui ne parlent pas
    couramment une langue officielle. La différence quant à l'utilisation
    d'interprètes en ASL entre les personnes du premier groupe et les
-   membres du groupe témoin indique la sous-utilisation des interprètes,
 --
-   linguistique (ami ou membre de la famille, interprète hospitalier
    professionnel, employé de l'hôpital n'étant pas interprète, interprète
    par téléphone, et médecin maîtrisant la langue maternelle du patient).
    Les taux de satisfaction quant à chaque méthode variaient
-   considérablement entre les membres des deux groupes. Le taux de
 --
-   Au Canada, l'accent a davantage été mis sur la formation et la
    reconnaissance professionnelle de l'interprétation gestuelle que des
    autres langues minoritaires (Bird et McDonald, 1998). Les procédures
    d'agrément des traducteurs, des interprètes judiciaires et des
-   interprètes de conférence ont également été plus perfectionnées que ce
 --
-
    Presque tous les programmes au Canada forment simultanément des
    interprètes dans diverses langues, à l'exception des programmes
    destinés aux locuteurs de l'inuktitut du Nunavut et du Nunavik. Le
-   Collège de l'Arctique du Nunavut (Penney et Sammons, 1995) et le
 --
-   établisse-ments, les villes et les régions présentent des différences
    considérables en ce qui concerne le nombre de consultations médicales
    nécessitant des services d'interprétation, et le nombre de langues dans
    lesquelles ces services sont requis. Un défi d'ordre pratique est alors
-   soulevé : celui de concevoir des modèles qui sont à la fois acceptables
 --
-   adéquats constitue un défi particulier dans un pays comme le Canada, où
    une population relativement petite est répartie sur un vaste
    territoire. Même si la majorité des locuteurs de langues non
    officielles vivent essentiellement dans quelques grandes villes
-   canadiennes, la plupart des petites villes comportent également une
-   faible proportion de leur population devant composer avec des barrières
+--
    linguistiques. Dans les régions du Nord, il peut arriver que les
    intervenants soient des « locuteurs d'une langue minoritaire », et le
    patient ainsi que la plupart des membres de la communauté peuvent alors
    communiquer principalement dans une langue autochtone.
 
-   Vraisemblablement, de nombreux centres auront recours à une combinaison
 --
-   Cette technologie, maintenant utilisée au Canada pour surmonter les
    obstacles liés à la distance, semble particulière-ment utile lorsque le
    diagnostic dépend de la culture et de la langue, comme par exemple en
    psychiatrie. La vidéoconférence a obtenu un degré élevé d'acceptation
-   auprès des patients dans divers milieux. Elle peut également être utile
 --
-   professionnelle. Elle diffère également des stratégies visant à
    accroître le nombre de professionnels de la santé qui parlent des
    langues non officielles, puisque ces employés bilingues remplissent
    principalement des rôles de liaison, et non de service direct, et
-   travaillent auprès d'une seule communauté linguistique.
 --
-   et d'immigrants de toute une série de pays (dont une proportion non
    négligeable de « sans-papiers » qui font face à des barrières à l'accès
    supplémentaires). Le degré de maîtrise de la langue anglaise varie
    considérablement au sein de cette population, qui présente un éventail
-   allant de personnes hispanophones unilingues à des anglophones
 --
-   et un plus grand accès aux services. Les résultats de ces études
    risquent donc d'être d'une applicabilité limitée à la situation vécue
    par un grand nombre de personnes parlant une langue minoritaire au
    Canada. Qui plus est, on ne peut pas supposer que la recherche limitée
-   aux Hispaniques soit généralisable à d'autres groupes linguistiques,
 --
-   généralisabilité, notons que :
 
    a) l'espagnol étant une langue européenne, il y a plus de chances que
    les intervenants et les patients parviendront à communiquer, même
    lorsque le patient ne peut s'exprimer que de manière limitée dans la
    langue officielle (Minkler et Looper, 1978);
 
-   b) la forte concentration d'Hispaniques dans beaucoup de régions peut
+--
    faire en sorte qu'une plus large gamme de services soient disponibles
    dans la langue maternelle du client (y compris la présence de
    professionnels de la santé hispanophones);
-
 --
-   propres qu' elles ne partagent pas avec d'autres minorités.
 
    Les études publiées sont en grande partie centrées sur les langues des
    immigrants. On a accordé moins d'attention en Amérique du Nord aux
    personnes qui parlent les langues autochtones et aux personnes sourdes.
    Le présent rapport reflète cette réalité. Comme le reconnaissent les
-   auteurs, beaucoup d'études comportent des limitations - qu'il s'agisse
 --
-6.2.1 Besoins en services d'interprétation
 
    On évalue à 17 % la proportion de Canadiens dont la langue maternelle
    est autre que l'anglais ou le français. Environ 10 % de la population
    parle une langue « non officielle » à la maison. Au moment de leur
    arrivée au Canada, 42 % des immigrants ne parlent ni français ni
-   anglais (Marmen et Corbell, 1999). Cette proportion est plus forte dans
+--
    beaucoup de populations de réfugiés. Le quart des Autochtones déclarent
    avoir une langue maternelle autre que l'anglais ou le français
    (Statistique Canada, 1998). Cette proportion s'élève à 90 % à Nunavut,
-   où 26 % des Inuits sont unilingues (Penney, 1994). Selon l'Association
 --
-   de personnes sourdes ou malentendantes (Wood, 2001). Il est possible
    que les francophones hors Québec (environ 3 % des Canadiens vivant à
    l'extérieur du Québec déclarent que le français est la langue d'usage à
    la maison) et les anglophones vivant au Québec (10,5 % de la population
-   québécoise) se heurtent à des barrières semblables (Bird et McDonald,
 --
-   On a assisté au Canada à une augmentation (d'environ 2 % au cours de la
    dernière décennie) du nombre de résidents qui ne parlent ni l'une ni
    l'autre des langues officielles. La place croissante qu'occupent
    l'Asie, l'Afrique et l'Amérique latine comme sources d'immigrants a
-   contribué à cette plus grande diversité culturelle et linguistique.
 --
-   et pour communiquer efficacement lors d'une rencontre médicale. De
    plus, les intervenants sont souvent portés à surestimer la capacité de
    leurs patients de comprendre et de communiquer dans une langue seconde
    (voir par exemple Holden et Serrano, 1989; Haffner, 1992; Stevens,
-   1993b; Jackson, 1998). Nous savons que le nombre de Canadiens qui ont
 --
-   cette proportion est beaucoup plus difficile à déterminer. Il est
    possible qu'elle soit aussi élevée qu'une personne sur dix - soit la
    proportion des Canadiens qui parlent une langue non officielle à la
    maison. Le pourcentage variera de façon importante entre les villes et
-   les régions, et il sera plus élevé dans les villes où les immigrants
 --
-   dépendra également du domaine des services de santé. Par exemple, dans
    une région où la plupart des jeunes Autochtones parlent l'anglais ou le
    français comme langue maternelle, l'accès aux services de santé aux
    mères et aux enfants ne sera pas nécessairement entravé par des
-   barrières linguistiques, bien qu'il puisse y avoir des barrières
-   culturelles et systémiques à l'équité des soins. Dans une population
+--
    donnée, toutefois, de nombreuses personnes plus âgées ne savent pas
    toujours s'exprimer dans une des langues officielles (Tran, 1990). La
    proportion des aînés dont la langue maternelle n'est ni l'anglais ni le
    français, par exemple, varie de moins de 2 % (dans
-   l'Île-du-Prince-Édouard) à un tiers des Manitobains et à plus des trois
 --
-   Il est important de noter que l'évaluation du besoin de services
    linguistique ne sera pas nécessairement la même selon qu'on définit le
    besoin comme une « incapacité à communiquer dans une des langues
    officielles » ou un « manque de congruence linguistique » entre le
    patient et l'intervenant. Prenons l'exemple d'une situation dans
    laquelle plusieurs personnes parlant une langue minoritaire sont
    employées dans les professions de la santé dans une communauté donnée.
-   Le nombre de membres de la communauté qui ne peuvent s'exprimer
 --
-   questionnaire, disponible en anglais et en espagnol, renfermait des
    questions à choix multiples ouvertes et de type Likert. En remplissant
    le questionnaire, les parents ont indiqué que la langue constituait la
    « plus importante barrière en soi » à l'obtention de soins pour leurs
-   enfants, même si des barrières financières étaient présentes pour bon
 --
-   ethnoculturelles que dans le temps. Bien que les besoins
    d'interprétation soient restés assez constants dans les communautés
    d'immigrants, les langues les plus en demande sont souvent liées aux
    tendances actuelles en matière d'immigration (Cross Cultural Health
-   Care Project, 1995).
 --
-   rencontres avec des patients qui ne parlaient pas anglais, et avec
    quelle fréquence ils employaient chacune des six méthodes
    d'interprétation (parler couramment la langue du patient; employer un
    interprète médical formé; employer d'autres membres du personnel qui
-   n'ont aucune formation en interprétation; employer un service
-   d'interprétation par téléphone; demander l'aide de membres de la
+--
    famille ou de compagnons; ou « se débrouiller »). Les auteurs ont
    trouvé que 27 % des répondants ont déclaré parler la langue maternelle
    du patient. Des interprètes médicaux ou des interprètes par téléphone
-   formés n'ont été utilisés que dans 6 % des cas. Dans les autres cas, on
 --
-   %). Il n'a pas été possible dans le cadre de cette étude de déterminer
    la qualité de la communication entre les patients et les intervenants
    dans les 27 % des cas où le médecin affirmait parler la langue du
    patient.
-
 --
-   fondées sur les données démographiques puisent entre autres dans les
    analyses des statistiques sur le nombre d'immigrants admis au Canada,
    les rapports des programmes d'anglais ou de français langue seconde ou
    des écoles publiques, les enquêtes locales ou les consultations avec
-   des répondants de la communauté.
 --
-   actuellement.
 
    Au Canada, étant donné que ni l'ethnicité ni la langue ne sont codées
    régulièrement dans les données administratives des systèmes de santé,
-   on ne peut pas faire une analyse secondaire de ces données à des fins
+--
    d'estimation. Les recensements et les enquêtes sur les activités des
    ménages recueillent des données sur l'usage des langues, mais ces
    données n'ont pas encore été employées pour faire des estimations
-   préliminaires des besoins non satisfaits de services d'interprétation
-   médicale. Les données sur l'immigration pourraient fournir des
+--
    informations utiles sur le nombre de personnes arrivant au Canada en
    fonction de leur langue maternelle et sur leur capacité de parler
    anglais ou français. Toujours est-il que de tels chiffres se révèlent
@@ -1012,151 +741,109 @@ Sélection de la langue
    plus longtemps et ceux qui, pour diverses raisons, ne suivent pas des
    cours de langue.
 
-   La recherche dans ce domaine doit viser avant tout à aider les
 --
-   services d'accès linguistique. Il est nécessaire, non seulement
    d'obtenir une évaluation précise du nombre de rencontres entre
    personnes sans langue commune, mais aussi de déterminer les types
    d'interprètes employés lors de ces rencontres, les raisons pour
-   lesquelles l'interprétation n'a pas été assurée, les méthodes de
 --
-   Health Care Project, 1995).
 
    6 Les enfants de parents qui ne parlent pas une des langues officielles
    n'augmenteront pas forcément le nombre de personnes qui ont besoin
-   d'interprétation, mais ils augmenteront le nombre d'interactions dans
 --
-   que peu de patients ont accès aux programmes d'interprétation
    professionnelle. Cependant, les estimations des populations ayant une
    connaissance limitée de l'une ou l'autre des langues officielles, et de
    la proportion qui a accès aux services d'interprétation, ne peuvent
-   évidemment pas être généralisées d'une province ou d'un territoire à
 --
-   habitudes d'utilisation relatives à la santé qui sont semblables à
    celles de la population dans son ensemble. Dans beaucoup d'études, on a
    supposé que la langue était une mesure de l'acculturation et non la
    première variable d'intérêt. Or, comme on le verra dans les sections
    qui suivent, les études récentes semblent indiquer que la maîtrise de
    la langue pourrait être le facteur déterminant.
 
-6.3.2 Accès aux programmes de prévention
-
+--
    Des différences importantes dans l'utilisation des programmes de
    prévention en fonction de la connaissance d'une langue officielle (ou
    de la congruence linguistique) ressortent systématiquement dans les
-   études. Le phénomène est présent dans un grand éventail de conditions
 --
-   discrimination systémique, ou d) l'ethnicité en tant que facteur de
    substitution pour le statut socio-économique. Ce n'est que depuis peu
    qu'on étudie la langue elle-même comme variable contributive. Compte
    tenu du nombre de facteurs qui ont un potentiel d'interaction et qui
-   pourraient contribuer à une participation réduite aux programmes de
 --
-
    Rares sont les études nord-américaines publiées qui traitent
    spécifiquement de l'impact de la langue sur l'utilisation des
    programmes de prévention. Il existe toutefois deux autres types
-   d'études qui présentent des pistes intéressantes, soit :
+--
      * les études qui comparent différents groupes ethniques et font
        apparaître la langue comme facteur explicatif possible ou probable
        des différences; et
-     * les études qui comparent différents groupes ethniques, mais qui ne
+--
        mesurent pas ou ne prennent pas en considération la maîtrise de la
        langue de manière distincte de la « culture ». Une connaissance des
        résultats de ce volumineux corpus est utile, car on peut souvent en
-       tirer des indications pour la conception d'études futures.
 --
-   mammographique était faible, comparativement aux femmes noires ou
    blanches. Les auteurs ont regardé de plus près l'importance de la
    langue en tant que facteur en faisant la distinction entre les
    hispaniques qui parlaient anglais, et celles qui avaient choisi d'être
-   interviewées en espagnol. La préférence linguistique (l'anglais ou
 --
-   comprenaient la nature du test et des interventions. Aux yeux des
    clientes, ce qui constituait la barrière à la participation, c'étaient
    la langue et l'administration, et non pas, comme l'affirmaient les
    médecins, un manque d'intérêt pour les programmes de prévention.
-
 --
-   du recours au dépistage préventif : l'accès (qui dans le cas des
    États-Unis, était largement déterminé par le coût) et l'acculturation
    (qui comprend la langue). Ils ont trouvé que la capacité linguistique
    prédisait le recours aux services de dépistage. D'après les auteurs,
    l'effet de la langue sur les pratiques relatives au dépistage ne doit
    pas être interprété comme un facteur culturel mais plutôt comme un
-   facteur d'accès (autrement dit, la connaissance de l'anglais augmentait
 --
-6.3.4 Autres différences sur le plan de l'utilisation initiale
 
    Une des premières études des effets de la langue a comparé les
    différences dans l'utilisation des services de santé entre des patients
    hispaniques qui étaient a) hispanophones unilingues, b) bilingues mais
    ayant l'espagnol comme langue maternelle, ou c) principalement
    anglophones. Hu et Covell (1986) ont demandé à un échantillon de 1 990
-   patients, sélectionnés dans cinq services de consultation externe à San
 --
-   besoin. Ce résultat laisse supposer que ce sont les rendez-vous de
    nature préventive qui étaient les plus touchés. Les auteurs de l'étude
    ont fait remarquer que la corrélation entre la langue maternelle et la
    fréquence d'utilisation des services de santé était plus forte que la
-   corrélation entre le revenu et la fréquence d'utilisation des services
 --
-   médicaux non urgents. Dans cette étude, quatre groupes ont été définis
    à des fins d'analyse comparée : a) des anglophones non latinophones; b)
    des latinophones dont la langue maternelle était l'anglais, ou des
    hispanophones d'origine qui disaient que leur anglais était de bon à
-   excellent, c) des hispanophones d'origine qui disaient que leur anglais
 --
-   latinophones dont la connaissance de l'anglais était passable ou faible
    ont dit avoir fait environ 22 % moins de visites chez le médecin que
    les non-latinophones dont l'anglais était leur langue maternelle, même
    après que des ajustements aient été apportés pour tenir compte d'autres
-   déterminants. Les auteurs ont observé que l'effet d'une maîtrise
 --
-   soins, même après avoir apporté des ajustements pour tenir compte de
    l'assurance-maladie et du statut socio-économique. Cependant, quand ils
    ont corrigé pour tenir compte de la langue, les différences entre les
    enfants blancs et hispaniques ont disparu. Les auteurs ont conclu que
-   le résultat fréquemment observé selon lequel les enfants hispaniques
 --
-
    Les enquêtes sur les barrières aux services telles que décrites par les
    patients font souvent apparaître la langue comme la barrière la plus
    importante (ou une des plus importantes), même dans les pays où il
-   existe des barrières financières explicites aux services. Une enquête
 --
-   qui est de la recherche spécifiquement consacrée à l'accès
    linguistique, et les études emploient souvent une définition vague de
    la « langue » en combinaison avec des facteurs ethniques et autres.
    Beaucoup de ces études semblent dire que la langue est un facteur
    explicatif des différences d'utilisation. Cependant, ces différences
-   sont plus fréquemment attribuées à des différences de croyances
 --
-   subissaient des tests mammographiques à des taux plus élevés que les
    autres femmes au Canada. À noter toutefois que les personnes qui ne
    maîtrisent pas l'une ou l'autre des langues officielles ont peu de
    chances de participer à de telles enquêtes (Woloshin et al, 1997), et
-   que l'étude n'a fait de différenciation ni quant aux régions du monde
 --
-   allophones). Les auteurs de l'étude ont trouvé que les francophones
    avaient de manière significative moins de chances de subir un examen
    des seins ou une mammographie. Les femmes dont la langue maternelle
    n'était ni l'anglais ni le français avaient moins de chances d'obtenir
-   une analyse des frottis vaginaux. Ces résultats persistaient même quand
 --
-
    Les auteurs ont souligné les difficultés à départager les effets de la
    langue sur les soins médicaux des effets d'autres facteurs corrélés.
    Ils ont noté que la langue peut agir de différentes façons. Elle peut
    constituer une barrière au contact avec le système de santé, une
-   variable de substitution pour d'autres facteurs qui influent sur
 --
-   culturelles de la valeur du dépistage ou une barrière à la
    communication. Les chercheurs ont cherché à rendre compte du facteur «
    langue » en demandant quelle était la langue la plus souvent parlée à
    la maison. Ils ont posé deux questions au sujet de la culture : à quel
-   groupe ethnique la personne s'identifiait-elle et quel était son statut
-   du point de vue de l'immigration (née au Canada, immigrante vivant
+--
    depuis plus de cinq ans au Canada, immigrante vivant au Canada depuis
    moins de cinq ans). Ils ont trouvé que bien que la langue soit liée
    tant à l'identité ethnique qu'au nombre d'années au Canada, il existait
@@ -1167,335 +854,237 @@ Sélection de la langue
    recevoir des services préventifs importants. Par contre, ils n'ont pas
    trouvé de relation entre la langue et le contact avec le système de
    santé (mesuré par le nombre de visites chez le médecin au cours de
-   l'année précédente).
 --
-   confusionnel dans les analyses. C'est peut-être d'ailleurs la raison
    pour laquelle l'étude a exclu le 2,4 % des ménages dans lesquels
    personne ne parlait anglais ou français (les deux langues employées
    pour faire les entrevues) et que l'étude a peut-être sous-estimé la
    différence réelle entre les personnes parlant d'autres langues et les
    anglophones/ francophones. Mentionnons enfin que cette étude des
-   différences d'utilisation entre anglophones et francophones a eu lieu
 --
-   et la prévention de la maladie. Ces initiatives se situent en grande
    partie à l'extérieur du système de santé en tant que tel et dépendent
    fortement de la langue en raison de leur nature « éducative ». Les
    études réalisées dans ce domaine n'en fournissent pas moins des signes
-   qu'il existe des barrières réelles en éducation sanitaire.
 --
-   connaissances relatives au cancer chez les aînés). Parmi les
    répondants, 349 étaient nés à l'extérieur du Canada, et 243 d'entre eux
    ont rempli une version du questionnaire traduite dans leur langue
    maternelle. Les réponses ont été analysées en deux catégories selon
    qu'on avait rempli le questionnaire en anglais ou dans une autre
    langue. Les auteurs ont trouvé que la proportion des répondants
    non-anglophones qui ont donné des réponses inexactes était plus grande
-   que celle des répondants anglophones, et cela pour toutes les
 --
-   Cependant, comme il s'agit d'une des rares études canadiennes dans
    laquelle l'analyse primaire visait les différences liées à l'usage des
    langues, elle représente une source d'informations importantes sur les
    mécanismes par lesquels la maîtrise linguistique peut, en influant sur
-   l'accès à l'information sur la santé, retarder le diagnostic d'une
 --
-   première génération d'origine indienne ou pakistanaise, et parlaient le
    hindi, le punjabi, l'ourdou ou le gujarati. Un questionnaire a été
    préparé et traduit dans ces quatre langues, et ensuite retraduit en
    anglais à des fins de vérification. Le questionnaire a été prétesté
-   auprès de 11 femmes. L'étude a révélé que l'auto-examen des seins était
 --
-   régression pour cerner les facteurs qui étaient des prédicteurs
    significatifs de pratiques de détection du cancer du sein. L'âge, le
    niveau de scolarité et la langue maternelle n'étaient pas liés de
    manière statistiquement significative aux pratiques de détection du
-   cancer du sein. Cependant, la relation avec les pratiques de détection
 --
-   l'anglais que pour le nombre d'années passées au Canada. Les auteurs
    ont aussi noté que les barrières semblaient se situer au niveau de la
    langue et de l'ignorance de la culture occidentale plutôt qu'au niveau
    de quelque attitude négative que ce soit à l'égard des pratiques (le
-   fait de toucher les seins, par exemple). Le manque de connaissances a
 --
-   prédicteurs de la participation à des cours prénatals chez les femmes
    immigrantes. Il a trouvé que la capacité de s'exprimer dans une des
    langues officielles était un puissant prédicteur de la participation à
    des cours prénatals. Toutes les femmes qui étaient admissibles à
-   l'étude avaient émigré de l'Europe de l'Est ou d'un pays en voie de
 --
-   l'assistance à des cours prénatals, notons : le niveau d'acculturation;
    le statut d'immigrante; l'identité ethnique; la compréhension d'une des
    langues officielles; la durée du séjour au Canada; l'expérience en tant
    que réfugiée; le statut conjugal; l'âge; le niveau de scolarité; et le
-   caractère planifié ou non planifié de la grossesse. À la suite d'une
 --
-   pour la première fois : la maîtrise auto-évaluée de l'anglais ou du
    français, et l'âge maternel. Les femmes qui ont évalué leur maîtrise de
    la langue officielle comme excellente ou très bonne avaient 7,36 plus
    de chances de déclarer avoir participé à des cours prénatals que celles
-   qui ont évalué leur compétence linguistique comme mauvaise ou passable.
 --
-
    Il existe d'autres études canadiennes qui semblent indiquer que la
    langue peut contribuer à faciliter ou à entraver l'accès aux services.
    Beaucoup de ces études reposent sur des échantillons de taille plus
    restreinte et n'ont pas mesuré le facteur « langue » directement (ou
    apporté des ajustements pour en tenir compte). Dans une étude réalisée
-   en Ontario, Majumdar et al (1995) ont comparé l'utilisation des
 --
-   auteurs ont conclu que ces groupes étaient sous-représentés en tant que
    clients des services de soins à domicile. Ils ont avancé l'idée que la
    langue et les barrières culturelles pouvaient avoir contribué à cette
    sous-représentation. Cette étude comportait, toutefois, un certain
    nombre de limitations. Elle n'a pas analysé les différences
    d'utilisation en tenant compte de l'effet de la langue, et ses
    estimations étaient fondées sur les souvenirs des intervenants. De
-   plus, on ne peut pas supposer que la proportion des personnes
 --
-
    Il existe des indications assez solides pour dire que les Canadiens qui
    ne parlent pas une des langues officielles font face à d'importantes
    barrières à l'accès initial aux services de santé. Cependant, en raison
-   de l'assurance-maladie universelle, il est peu probable que ces
 --
-   l'accès que dans des pays sans régime d'assurance-maladie universelle.
    Il est important que les études futures se penchent sur les effets de
    la connaissance de la langue officielle, tout en tenant compte des
    divers facteurs liés à l'ethnicité, au statut d'immigrant, au statut
-   socio-économique et à la scolarité.
 --
-   barrières linguistiques comme le principal facteur influant sur les
    soins. Par contre, nous disposons d'un plus grand nombre d'études qui
    semblent indiquer que la langue peut contribuer de façon importante à
    ce que divers groupes ethniques aient une expérience différente des
-   services de santé.
 --
-   d'une relation entre les barrières linguistiques et la qualité des
    soins sont moins cohérentes. Les faits indiquent que dans bien des cas,
    l'utilisation des services augmente quand il n'y a pas de langue
    commune entre le et l'intervenant.
-
 --
-   patient augmentait la probabilité d'une admission à l'hôpital après que
    le patient s'est présenté à l'urgence. Un échantillon de commodité de 1
    000 patients a été évalué pour déterminer si la langue de communication
    préférée du patient était différente de celle de leur médecin de
-   recours. L'anglais était préféré par 85,3 % des patients. Plus de la
 --
-   risque relatif d'admission à l'hôpital (disparité linguistique /
    concordance linguistique) de 1,7. En autres termes, les adultes qui ne
    parlaient pas la même langue que leur intervenant avaient 70 % de plus
    de chances d'être admis à l'hôpital que les patients qui parlaient la
    même langue que leur intervenant. Les auteurs ont avancé l'idée qu'un
    intervenant, placé devant un patient avec qui il ne pouvait communiquer
-   efficacement, serait plus porté à le faire admettre à l'hôpital comme
 --
-   problème médical présenté. Ils ont formé trois groupes linguistiques.
    Le groupe n° 1 était composé de personnes dont l'anglais était la
    langue maternelle (blancs, noirs et latinophones) et latinophones
    hispanophones qui ont déclaré qu'ils communiquaient avec leur
-   intervenant (en espagnol ou en anglais) sans l'aide d'un interprète et
-   ne pensaient pas qu'un interprète soit nécessaire. Environ la moitié de
+--
    ce groupe parlaient l'anglais, l'autre moitié parlant l'espagnol. Le
    groupe n° 2 était formé de latinophones de langue maternelle espagnole
    qui communiquaient avec leur intervenant par l'intermédiaire d'un
-   interprète. (Les auteurs mentionnent qu'un interprète de l'hôpital a
-   été employé pour seulement 12 % de ces patients; des membres de la
+--
    famille ou des interprètes ad hoc ont été employés dans tous les autres
    cas). Le groupe n° 3 était composé de latinophones de langue maternelle
    espagnole qui ont dit qu'un interprète n'a pas été employé mais aurait
-   dû l'être. Quand on regarde les données démographiques, on constate que
 --
-   % des patients appartenant à la majorité, ont reçu des analgésiques
    recommandés dans les directives. Les difficultés à évaluer la douleur
    en raison des différences de langue et de culture étaient un des
    facteurs que les auteurs ont avancé comme explication possible de ce
-   résultat. Les patients hispaniques étaient plus touchés par une
 --
-   rôle. Cependant, plusieurs autres facteurs ont également été avancés, y
    compris des différences culturelles quant à l'acceptabilité des
    analgésiques. Comme la langue n'était pas mesurée directement, on ne
    peut savoir si des interprètes étaient disponibles. Dans une autre
-   étude, Todd et al (1993) ont examiné le rôle de l'hispanicité dans la
 --
-   puissant prédicteur de l'administration d'analgésiques, puisque les
    hispaniques avaient deux fois plus de chances de ne pas recevoir de
    médicaments pour soulager la douleur. La langue maternelle a atteint un
    niveau de signification limite. Ici encore, la présence d'interprètes
-   n'a pas été mesurée.
 --
-   D'autres études ont mis en évidence des différences dans la manière
    dont les médicaments sont prescrits selon l'ethnicité des patients.
    Certaines de ces études font également penser que la langue peut être
    un facteur. Une étude des pratiques de prescription des
-   hormonothérapies substitutives aux femmes afro-américaines, asiatiques,
 --
-   bien qu'il soit possible qu'il y ait aussi eu des différences de
    croyances culturelles. Par ailleurs, pour certaines des femmes
    asiatiques et latinophones, la langue peut aussi avoir été un facteur,
    mais les auteurs n'ont pas pu le déterminer étant donné la façon dont
-   l'étude était conçue.
 --
-   Considérations spéciales
 
    Les chercheurs canadiens sont arrivés à la conclusion que la langue est
    la barrière la plus omniprésente à l'accès aux services de santé
-   mentale appropriés (Groupe canadien chargé d'étudier les problèmes de
-   santé des immigrants et des réfugiés, 1988). Il n'existe sans doute
+--
    aucun autre domaine de la santé où le diagnostic et le traitement sont
    aussi tributaires de la langue et de la culture, et les risques posés
    par des services inadéquats ont été soulevés par plusieurs auteurs.
-   C'est aussi en santé mentale que les intervenants s'interrogent le plus
 --
-   santé mentale des immigrants et des réfugiés, 1988). D'aucuns ont fait
    remarquer que certains patients donnent des réponses différentes aux
    questions selon que l'entrevue se déroule dans une langue ou une autre
    (Marcos, 1979; Oquendo, 1996). L'évaluation dépend non seulement de la
    langue mais aussi des signaux non verbaux qui peuvent différer d'un
    groupe culturel à l'autre. La présence d'un interprète non formé peut
-   créer des distorsions supplémentaires, et toute brèche dans la
 --
-   intervenants qui peuvent avoir l'impression qu'une thérapie ne sera
    d'aucune utilité pour des personnes qui n'ont qu'une connaissance
    limitée d'une des langues officielles. Ainsi, les intervenants peuvent
    être moins portés à commencer ou à poursuivre une thérapie (Marcos,
-   1979).
 --
-   québécois). Elle a comparé l'utilisation des services de la part des
    membres de groupes ethniques (définis comme des personnes nées à
    l'extérieur du Canada ou dont la langue maternelle n'était ni l'anglais
    ni le français) et des Québécois de naissance. Les chercheurs ont
-   employé des méthodes de couplage pour lier les deux sources de données.
 --
-   données de synthèse qui ne permettent pas d'analyser les différences
    entre les différents pays d'origine ou entre les nouveaux arrivants
    (qui ont le moins de chances de parler une des langues officielles) par
    rapport aux immigrants établis de longue date.
-
 --
-   Une récente étude américaine des complications médicamenteuses en
    clinique externe réalisée par Ghandi et al (2000) a fait intervenir la
    langue (anglais, espagnol ou autre) comme un des corrélats non
    cliniques. Un échantillon aléatoire de 2 248 patients anglophones ou
-   hispanophones de 11 cliniques de soins ambulatoires a été interviewé
+--
    par téléphone. Une analyse de régression logistique multiple a révélé
    une corrélation significative entre le fait de parler une langue
    maternelle autre que l'anglais ou l'espagnol et le fait de signaler des
-   complications médicamenteuses. Par contre, aucune différence
 --
-
    Une étude réalisée aux États-Unis par Perez-Stable et al (1997) a
    examiné les effets de l'ethnicité et de la langue sur les résultats
    cliniques de patients hypertensifs et diabétiques. Les chercheurs ont
-   trouvé que la concordance linguistique avec le médecin n'a pas eu
 --
-   examiné les dossiers médicaux pour l'année précédente. Après avoir
    apporté des ajustements pour tenir compte des variables
    confusionnelles, le fait d'avoir un médecin qui parlait la même langue
    était associé avec 10 des 14 mesures de l'état de santé. Les auteurs
-   ont noté que leur étude présentait un certain nombre de limitations :
 --
-   préexistantes. Il est également possible que les latinophones qui se
    portaient mieux d'après les échelles de bien-être aient délibérément
    cherché des médecins qui parlaient la même langue qu'eux. Selon les
    auteurs, le fait qu'ils aient été incapables de déterminer des
-   résultats cliniques intermédiaires était peut-être lié à la taille de
 --
-   des soins, et certains considèrent qu'elle est fortement corrélée avec
    la qualité de ceux-ci. On s'attendrait à ce que les personnes qui n'ont
    pas de langue commune avec leurs intervenants soient moins satisfaites
    des soins qu'ils obtiennent, et la plupart des études qui ont abordé la
-   question confirment que c'est effectivement le cas.
 --
-   la satisfaction des patients et leur volonté de retourner à une salle
    d'urgence. L'étude a porté sur plus de 2 300 patients. Quinze pour cent
    des patients ont répondu que l'anglais n'était pas leur langue
    maternelle. D'après leur analyse multivariée, les non-anglophones
-   avaient plus de chances de signaler des problèmes relatifs aux tests et
 --
-   anglophones. Il est à noter que cette étude a établi une dichotomie par
    rapport à la connaissance de l'anglais en incluant tous les patients
    pour lesquels l'anglais n'était pas la langue maternelle dans le groupe
    des non-anglophones. Ceci a sans doute entraîné une sous-estimation des
-   différences réelles attribuables aux barrières linguistiques, étant
 --
-   facteurs à potentiel confusionnel tels que l'âge, le sexe, la scolarité
    ou l'assurance-maladie. L'ampleur des disparités dans les pointages par
    langue d'entrevue était de 5,4 points, comparativement à 2,5 points
    pour l'âge, 2,5 points pour l'assurance-maladie, 0,4 point pour le
-   sexe, et 0,2 point pour le revenu. Ces chiffres indiquent que la
 --
-   comparativement à 65 %). L'auteur a noté que peu des médecins traitants
    étaient bilingues, bien qu'environ la moitié des préposés aux congés
    d'hôpital le fussent. Les analyses ont été faites selon la langue des
    patients (l'espagnol ou l'anglais) et non selon la congruence ou la
-   disparité linguistique entre le patient et le médecin. Aucun interprète
 --
-   traitement du diabète, est très largement recommandée. La lettre
    d'accompagnement du questionnaire comportait des passages dans
    plusieurs langues de manière à ce qu'on puisse demander des exemplaires
    du questionnaire traduits dans ces langues. Ceux qui ont demandé un
    questionnaire ou du matériel d'éducation sanitaire dans une langue
    autre que l'anglais, ou qui ont employé un interrogateur hispanophone,
-   ont été classés comme ayant de la difficulté à communiquer en anglais,
 --
-   l'urgence et les admissions à l'hôpital ont été employées comme mesure
    du résultat médical. Les patients dont le médecin ne parlait pas la
    même langue avaient moins de chances d'avoir des concentrations
    sanguines thérapeutiques de bronchodilateur, et ils avaient plus de
-   chances de manquer des rendez-vous au bureau du médecin et de se rendre
 --
-   des rendez-vous sont contradictoires. Gruzd et al (1986) ont effectué
    une analyse multivariée de 25 prédicteurs indépendants du non-respect
    des rendez-vous. Ils ont trouvé que la langue était l'une des six
    variables significativement associées au respect des rendez-vous, alors
-   que la race (ou l'ethnicité) ne l'était pas. Ceci confirme le résultat
-   obtenu par Manson (1988). Dans une étude de moindre envergure,
+--
    Enguidanos et Rosen (1997) n'ont trouvé aucune association
    significative entre la langue et le respect des rendez-vous, mais il
    est possible que leurs résultats aient été affectés par la faible
-   taille de l'échantillon et le fait que les chercheurs n'aient pas
 --
-
    Il existe aussi des preuves assez convaincantes que la qualité des
    soins obtenus par ceux qui ne parlent pas couramment une des langues
    officielles est affectée par l'inobservation des normes éthiques de la
-   part des intervenants en santé. Trois formes que peut prendre la
 --
-
    Divers rapports des autorités publiques indiquent que les patients qui
    ne parlent pas une des langues officielles ne reçoivent pas des soins
    de la même qualité au Canada (Tang, 1999). Les exemples les plus
-   spectaculaires de mauvais diagnostics entraînant des lésions ou la mort
+--
    mis à part, les études montrent qu'en dépit des meilleures intentions
    des intervenants, les patients qui ne parlent pas une des langues
    officielles risquent, au jour le jour, d'être moins protégés en termes
-   d'application des normes éthiques que les patients anglophones ou
 --
-   conformes à l'éthique. Or, il ne peut y avoir de consentement éclairé
    sans une communication ouverte et fréquente. Quand le patient et
    l'intervenant ne parlent pas la même langue, il surgit immédiatement
    une barrière qui empêche le patient de s'informer complètement sur sa
-   situation et les choix qui s'offrent à lui (Barnes et al, 1998). Dans
 --
-   les façons dont les barrières linguistiques peuvent avoir une incidence
    sur les résultats des traitements, la satisfaction et le respect des
    traitements. Les patients qui ne maîtrisent pas une langue officielle
    sont souvent exclus des recherches sur la communication
-   patient-intervenant. Par conséquent, les effets des barrières
 --
-santé
 
    Une autre source d'information sur l'incidence possible de la langue
    sur les résultats des traitements est la documentation sur les
-   connaissances en matière de santé. La recherche récente a mis en
 --
-   connaissances en matière de santé est également observé parmi les
    personnes qui ont un niveau d'instruction plus élevé et qui ne parlent
    pas couramment une langue officielle. On estime que d'après les tests,
    29 % des personnes nées à l'étranger et qui disent avoir une formation
    universitaire sont analphabètes dans une langue officielle,
    comparativement à 6 % de la population née au Canada possédant le même
-   niveau d'éducation (Calamai, 1987). Les personnes sourdes sont plus
+--
    susceptibles de présenter des taux d'alphabétisation considérablement
    plus bas dans les langues officielles (Witte et Kuzel, 2000).
 
@@ -1504,252 +1093,178 @@ santé
    Bien que le présent rapport ne porte pas sur l'utilisation de documents
    imprimés ou audio-visuels, la fourniture de documents dans des langues
    non officielles constitue une façon de surmonter certains types de
-   barrières linguistiques (p. ex., documents d'éducation en matière de
+--
    santé à l'intention des patients, ou directives d'autorisation de
    sortie). Les personnes qui ne parlent pas une langue officielle sont
    beaucoup moins susceptibles de saisir l'information qui circule (p.
-   ex., dans les médias ou même dans les conversations). La recherche sur
+--
    les connaissances sur des sujets touchant la santé, comme le sida, a
    permis de découvrir que ceux qui ne parlent pas une langue officielle
    (y compris les personnes sourdes) ont tendance à moins bien comprendre
-   la maladie et sont par la suite moins susceptibles de se protéger
 --
-
    Il existe deux approches générales de la fourniture de ressources dans
    d'autres langues : la traduction à partir de l'original, ou
    l'élaboration de ressources en fonction des besoins et intérêts de la
-   communauté (Stevens, 1993b). Une expertise spécialisée est nécessaire
 --
-   linguistiques (Wilson et Ibanez-Carrasco, 2000).
 
    Cependant, bon nombre de ceux qui ne maîtrisent pas une langue
    officielle peuvent également avoir un taux d'alphabétisation plus
    faible dans leur langue maternelle. Les documents écrits doivent par
    conséquent être complétés par d'autres approches. La fourniture d'une
-   plus grande variété de documents en anglais ou en français en langage
-   clair constitue une autre stratégie pour accroître l'accès à
+--
    l'information en matière de santé, pour ceux qui maîtrisent mal une
    langue officielle, comme pour les locuteurs d'une langue qui sont peu
    alphabétisés.
-
 --
-   al., 2001). Bien que la maîtrise linguistique n'était pas une variable
    de l'analyse, d'après les conclusions d'études réalisées dans d'autres
    pays la langue constitue un autre obstacle à l'obtention d'une source
    de soins régulière (Weinick et Krauss, 2000). Cette étude a également
-   permis de constater que les immigrants qui vivent au pays depuis plus
 --
-   Silgrove et al., 1997; Jerrell, 1998). La congruence linguistique a été
    proposée à titre d'explication pour cela. Par exemple, Ahmad et al.
    (1989) ont découvert que chez les femmes de l'Asie du Sud, la langue
    avait plus d'importance en ce qui concerne leur choix d'un médecin que
    le sexe de celui-ci. D'après une étude réalisée récemment aux
    États-Unis, la langue est l'une des raisons pour lesquelles les
    patients appartenant à des minorités s'adressent à des médecins de leur
-   ethnie (Saha et al., 2000). Pour déterminer dans quelle mesure la «
 --
-   (Dunlop et al., 2000), la recherche sur les différences dans les
    traitements en fonction de l'origine ethnique et la maîtrise d'une
    langue est pratique-ment inexistante. La recherche réalisée dans
    d'autres pays indique qu'il peut y avoir des inégalités dans le
-   traitement en fonction de l'origine ethnique (Todd et al., 1993;
 --
-
    Certaines sources indiquent qu'au Canada, ceux qui ne maîtrisent pas
    une langue officielle pourraient être plus susceptibles d'être
    aiguillés vers des spécialistes ou de subir des tests de diagnostic
-   (Blais et Maiga, 1999). Cela est conforme à des recherches réalisées
 --
-   clairement qu'il existe un lien entre une mauvaise communication
    patient-intervenant et un taux d'alphabétisation plus faible dans la ou
    les langues officielles. On peut présumer que les effets sur les
    résultats des traitements attribuables aux différences dans la
-   communication sont les mêmes entre les pays.
 --
-
    Les programmes canadiens ont nettement démontré que les patients qui ne
    parlent pas une langue officielle ne reçoivent pas le même niveau de
    soins du point de vue éthique que les autres Canadiens. Des études de
-   cas réalisées partout au pays, relevées tant dans la documentation
 --
-
    L'exclusion des programmes de recherche des personnes qui ne maîtrisent
    pas une langue officielle est un effet moins visible mais réel des
    barrières linguistiques. Au cours des dernières années, le recrutement
-   de diverses populations s'est révélé être un défi de taille pour les
 --
-   les recherches cliniques et les recherches sur les services de santé
    tendent à sous-représenter les minorités ethniques, plus spécialement
    celles qui ne possèdent pas les compétences requises dans une langue
    officielle (Hazuda, 1996; Ren et Amick, 1998).
-
 --
-   protocoles écrits, se sont produites en pratique. Par exemple, alors
    que 0,3 % seulement des études rapportaient avoir délibérément exclu
    des patients sur la base de la langue, en fait beaucoup d'études en
    excluaient. Les exclusions sont souvent attribuées aux difficultés de
-   recrutement et d'obtention d'un consentement éclairé (Guilano et al.,
 --
-   recherche, des groupes raciaux ou ethnoculturels peuvent être
    délibérément exclus des essais cliniques. Cependant, dans d'autres cas,
    l'inclusion de locuteurs d'une langue minoritaire n'est simplement pas
    prise en considération.
 
    Les personnes qui ne maîtrisent pas une langue officielle sont
    également exclues d'autres types de recherche. L'exclusion des
-   recherches par enquêtes est probablement l'exemple le plus évident. Peu
 --
-   personnes admissibles ne pouvaient participer à l'Enquête sur la santé
    en Ontario parce qu'elles ne pouvaient communiquer dans l'une des
    langues officielles. Comme nous l'avons mentionné plus tôt dans la
    présente section, même lorsque des locuteurs d'une langue minoritaire
    sont inclus (p. ex., grâce à des textes traduits) des inquiétudes
-   subsistent quant à la qualité de l'information recueillie.
 --
-   à l'accès. De nombreuses différences d'utilisation ont été attribuées
    aux diverses pratiques et croyances culturelles. Dans les études où
    l'on s'est penché sur la langue, celle-ci a souvent été considérée
    comme étant une mesure d'« acculturation ». Néanmoins, bien qu'on ait
-   observé que les groupes ethniques avaient des pratiques et des
+--
    croyances sur la santé différentes de la population en général, des
    recherches spécifiques contrôlant tant la langue que la culture ne
    soutiennent pas l'hypothèse selon laquelle ces pratiques et croyances
-   traditionnelles ont l'effet d'une barrière à l'accès aux soins de santé
 --
-   vers les professionnels de la santé afin d'obtenir de l'aide pour
    régler leurs problèmes de santé mais lorsqu'elles ne le faisaient pas,
    la langue était considérée comme une barrière importante à l'accès. Les
    travailleurs, quant à eux, mettaient davantage l'accent sur la
-   compatibilité culturelle de la prestation de services.
 --
-   l'utilisation des systèmes de santé par les patients lorsque sont pris
    en considération l'assurance-maladie, les facteurs socio-économiques et
    la langue. Pour les immigrants en particulier, il y a deplus en plus de
    preuves indiquant que l'« origine ethnique » (y compris les différences
-   attribuables au pays d'origine et au statut d'immigrant) peut souvent
 --
-
    L'exclusion des recherches sur la santé des personnes dont les
    compétences linguistiques dans une langue officielle sont limitées ne
    semble pas différer d'un pays à l'autre. C'est aussi un secteur dans
-   lequel les changements dans la pratique canadienne auront une incidence
 --
-   aux soins recommandés par leurs médecins diminué en raison de ces
    barrières. Il existe même des indices limités selon lesquels, dans
    certains cas, les Canadiens dont la maîtrise d'une des langues
    officielles est plus faible font une plus grande utilisation des
-   services de spécialistes et des services de diagnostic. Cependant, la
 --
-
    Dans de nombreux cas, les droits à la confidentialité et au
    consentement éclairé des patients qui ne parlent pas une langue
    officielle ne sont pas protégés et ces derniers ne bénéficient pas de
-   la protection des mêmes normes éthiques en matière de soins que les
 --
-   différences de traitement selon la race ou l'origine ethnique du
    patient. D'après les données actuellement disponibles, il semblerait
    qu'au Canada, la langue a une plus grande incidence que l'ethnicité sur
    l'accès initial aux soins de santé des immigrants, et peut-être même
-   sur leur état de santé. Voici donc un autre aspect de la problématique
 --
-   linguistiques ont un impact négatif sur l'efficacité et la satisfaction
    des intervenants en santé. L'exclusion des personnes qui parlent des
    langues autres que les langues officielles des études cliniques et de
    la recherche sur les services de santé nuit à la généralisabilité des
-   résultats des études et au développement des connaissances.
 --
-   le monde accroîtrait l'accessibilité des informations relatives à la
    promotion de la santé et aux soins pour les nombreuses personnes dont
    la maîtrise des langues officielles est limitée (Robinson et Miller,
    1996; Gordon, 1996). Une telle approche améliorerait la communication
-   avec l'ensemble de la clientèle par la même occasion.
 --
-   déterminant de l'état de santé des usagers et des profils d'utilisation
    des services. La recherche dans d'autres pays conclut souvent que les
    non-anglophones sont moins riches que les gens qui parlent la langue
    officielle. Les données canadiennes semblent abonder dans le même sens.
-   Les personnes ayant une invalidité (y compris les personnes sourdes),
 --
-   plan de la santé entre les groupes ethniques (Krieger, 1999; Mayberry
    et al., 1999). Comme le dit à diverses reprises le présent rapport, la
    recherche semble indiquer que la connaissance d'une langue officielle
    est en soi un déterminant de la santé, en interaction éventuelle avec
-   l'ethnicité et le statut socio-économique. Il s'agit d'une variable qui
 --
-   déclarent avoir des besoins non satisfaits (Chen, Ng et Wilkins, 1996).
    Étant donné la corrélation entre les faibles revenus et la faible
    compétence linguistique dans l'une ou l'autre ou les deux langues
    officielles, d'autres études seront nécessaires pour déterminer si les
-   barrières linguistiques à l'accès peuvent contribuer, à part de
 --
-   canadienne. Certains de ces modèles doivent être adaptés aux régions à
    faible densité et à grande diversité de personnes qui parlent des
    langues non officielles.
 
-   Les stratégies visant à accroître l'accès linguistique aux services de
 --
-   étude documentaire :
      * Étudier la possibilité d'inclure dans la collecte de données sur le
        système de santé des données sur la maîtrise des langues
        officielles de la part des patients.
      * Inclure, lorsque possible, la maîtrise d'une des langues
        officielles en tant que variable d'analyse dans la recherche sur
-       les services de santé. Il faudrait toujours inclure cette variable
 --
-     * Inclure, dans l'analyse des propositions de recherche en santé, une
        évaluation de l'admissibilité à participer des personnes ne
        maîtrisant pas une des langues officielles et promouvoir
        l'inclusion des minorités linguistiques dans les recherches
-       cliniques et dans les recherches portant sur les services de santé.
 --
-       linguistiques dans les recherches en santé ainsi qu'aux questions
        méthodologiques et éthiques liées à la réalisation de recherches en
        santé avec des participants ayant une faible maîtrise d'une langue
        officielle.
-     * Établir, auprès des professionnels de la santé, des programmes de
 --
-     * Coordonner les stratégies de formation et de reconnaissance des
        interprètes.
      * Inclure et coordonner des stratégies pour les langues officielles,
        autochtones, visuelles et des immigrants.
-
 --
-          l'intermédiaire d'intervenants provenant d'un même horizon. Dans
           ce type de communautés, la personne peut avoir accès dans sa
           langue maternelle à tous les services ou à la majorité d'entre
           eux.
-
 --
-          Pour les besoins du présent rapport, le terme interprétation
           fait référence au processus par lequel un message parlé ou
           gestuel dans une langue donnée est transposé, avec le même sens,
           dans une autre langue. Les deux formes courantes
           d'interprétation sont l'interprétation simultanée et
-          l'interprétation consécutive. Lors d'une interprétation
 --
-
    Langage clair :
           Langage simple, clair et direct employant les mots de la langue
           courante. L'objectif visé par l'emploi d'un langage clair est de
-          rendre l'information accessible, plus spécialement pour les
 --
-          elles sont atteintes d'une surdité prélinguistique et, bien
           qu'elles puissent apprendre à lire ou à écrire l'anglais ou le
           français, ces langues sont acquises à titre de langues secondes.
           À l'opposé, les mots sourd ou surdité (avec un «s »minuscule)
-          font référence à un manque de capacité auditive. Tous les sourds
 --
-   Traduction renversée :
           Processus par lequel le matériel original est traduit dans une
           langue cible, puis traduit à nouveau par un autre traducteur
           dans la langue originale. Cette méthode est employée afin de
           veiller à l'exactitude de la traduction lorsque les chercheurs
           ne maîtrisent pas les deux langues dont il est question.
 
-   Validité : Degré de justesse des conclusions d'une étude.
 --
-       women: does cultural assimilation make a difference? Am. J. Public
        Health, 77, 1315-1319.
      * Marmen, L. & Corbell, J. P. (1999). Les langues au Canada :
        recensement de 1996. Ministre des Travaux publics et Services
-       gouvernementaux Canada.

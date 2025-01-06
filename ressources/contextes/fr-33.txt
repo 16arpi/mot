@@ -1,125 +1,94 @@
-   parler ? Procy/Shutterstock
    Pour savoir quand le langage articulé est apparu , il faudrait pouvoir
    étudier les langues de nos ancêtres. Problème, elles ne fossilisent
    pas, il faut donc les modéliser.
-   Les positions d’Aristote et de Descartes, qui affirmaient que le
 --
-   l’usage de la main pour des gestes de préhension jusqu’alors effectués
    par la bouche, la bipédie a « libéré » la mandibule, les lèvres et la
    langue pour leur permettre d’exécuter un répertoire gestuel riche et
    structuré, capable de transmettre le langage via le son.
-
 --
-   le cou, répondit le chercheur américain Philip Lieberman (1934-2022)
    dans le journal Science en 1969. Cette descente du larynx aurait, selon
    lui, offert à la langue un espace vertical nouveau, suffisamment large
    pour qu’elle puisse se déformer, se bomber ou s’aplatir pour générer
-   une variété de formes et de sons appropriée à la richesse combinatoire
 --
-   fortement contestée. Le chercheur Louis-Jean Boë et ses collègues ont
    en effet montré que les cris de babouins, dont le larynx est élevé et
    la langue plate, contiennent des sons proches du « a », du « ou » et du
    « i », les trois voyelles qui constituent la base fondamentale des
    systèmes vocaliques des langues du monde.
 
-   De même, Fitch, pourtant disciple de Lieberman, et ses collègues, dans
 --
-   radiographies de la gueule de macaques au cours de la déglutition, que
    malgré leur larynx élevé, ces primates pouvaient générer des formes de
    langue compatibles avec la production de voyelles suffisamment variées
    et distinctes pour constituer les bases sonores d’un langage parlé. La
-   descente du larynx ne semble donc pas constituer un marqueur fiable de
 --
-
    Pour tenter de le percer, notre projet « Origins of Speech », s’est
    proposé d’élaborer des modèles biomécaniques de langue d’humains
    fossiles.
-
 --
-   rendre compte des mécanismes physiques qui régissent leurs mouvements
    et leurs déformations sous l’action d’activations musculaires. Pour la
    langue, de tels modèles permettent d’étudier comment les muscles
    linguaux influencent la forme et la position de la langue dans la
    bouche. Ainsi, pour les fossiles, ces modèles offriraient la
-   possibilité d’étudier, quantitativement et systématiquement, leur
-   capacité à produire des sons de parole.
+--
 
 Prédire la langue des humains fossiles à partir des os de la tête
 
    Mais sur quoi s’appuyer pour élaborer de tels modèles ? Aucune donnée
    anatomique n’existe. En effet, les tissus mous de langue, des parois de
    la bouche, et du visage ne fossilisent pas. Seuls restent les os, plus
-   ou moins abîmés par les sévices du temps.
 --
-   jeunes chercheurs de notre équipe, Pablo Alvarez, Marouane El Mouss et
    Maxime Calka.
    Processus permettant la génération d’un modèle biomécanique de langue
    de babouin par la transformation d’un modèle de référence élaboré sur
-   un humain actuel. Cette transformation s’appuie sur la modélisation
 --
-
    Elle consiste à exploiter les structures osseuses fossilisées pour
    prédire la forme et l’anatomie de la langue de ces humains disparus.
    Pour cela, nous utilisons comme référence le modèle biomécanique de
    langue d’un humain vivant, que nous avons soigneusement conçu dans nos
    laboratoires grenoblois GIPSA-lab et TIMC au cours de près de 3
-   décennies de recherches coordonnées.
+--
 
    Ce modèle rend compte fidèlement de la morphologie de la langue, de ses
    structures musculaires, des caractéristiques mécaniques de ses tissus
    mous, et de ses interactions mécaniques avec la mandibule, le palais et
    l’os hyoïde, un petit os mobile qui relie la langue… au larynx.
 
-   IFRAME:
-   https://www.youtube.com/embed/Pz0A5HTYFeM?wmode=transparent&start=0
+--
 
    Modèle de langue TIMC et Gipsa lab Grenoble.
 
    C’est en modifiant la géométrie du modèle de référence que nous
    générerons des modèles biomécaniques pour les langues fossiles. Pour
    cela, en nous appuyant sur des outils mathématiques combinant des
-   transformations géométriques complexes, nous déterminons tout d’abord
 --
-
    Puis nous appliquons cette transformation géométrique au modèle de
    langue du premier pour le déformer et en faire un modèle de langue pour
    le second, avec sa forme spécifique, ses structures musculaires, et ses
-   interactions avec la mandibule, le palais et l’os hyoïde…
 --
-   Mais dans quelle mesure peut-on faire confiance à une transformation
    géométrique basée sur les structures osseuses pour prédire les tissus
    mous de la langue ? Pour répondre à cette question, cruciale pour
    valider la méthode, nous avons choisi d’évaluer leur méthode sur la
    génération d’un modèle biomécanique de langue de babouin, un primate
    non-humain dont la morphologie de la tête est très différente de celle
-   d’un Homo Sapiens.
 --
-   Notre hypothèse en la matière consiste à dire que si cette méthode
    marche pour un tel primate, alors il est vraisemblable qu’elle sera
    fiable pour la prédiction de la langue de tous les humains fossiles
    dont les crânes sont moins différents de celui d’un Homo Sapiens, que
    ne l’est celui d’un babouin.Nous avons alors généré deux modèles de
    langue de babouin. Le premier a été conçu en utilisant une
    transformation géométrique optimale déterminée en prenant en compte les
-   structures osseuses et les tissus mous de la tête. Comme on peut s’y
-   attendre, la complétude des informations morphologiques prises en
+--
    compte permet d’obtenir un modèle qui décrit avec une grande précision
    la morphologie de la langue du babouin.
 
-   Puis nous avons généré un second modèle, en déterminant la
 --
-   conclure que notre méthode est fiable pour générer, à partir des seules
    structures osseuses, des modèles biomécaniques réalistes pour les
    langues de primates, qu’ils soient humains ou non humains, qu’ils
    soient vivants ou (bientôt car les analyses sont en cours) fossiles.
-
+--
    C’est en exploitant cette méthode, que nous travaillons actuellement à
    la génération de modèles biomécaniques de la langue d’humains fossiles,
    tels que les Homo Heidelbergensis connus en Europe à partir de
-   600 000 ans ou les Néandertaliens de 70-50 000 ans, à partir
 --
-   Perpignan) et de ceux de La Ferrassie 1 en Dordogne. Notre but est
    d’explorer systématiquement les conséquences des activations des
    muscles de la langue dans ces modèles, d’observer le spectre des formes
    de la bouche qui peuvent ainsi être générées et d’analyser les
-   caractéristiques des sons qui seraient ainsi produits par les fossiles,

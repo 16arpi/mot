@@ -1,17 +1,13 @@
-   [ ] Basculer la table des matières
 
 Langue classique
 
    [ ] 33 langues
      * العربية
-     * অসমীয়া
 --
-   népalaise Bhujmol.
 
    En sociolinguistique, une langue classique est une langue dotée de
    prestige au sein d'une culture donnée, en tant que porteuse d'une
-   littérature qui y est considérée comme classique : ancienne,
-   fondatrice, digne d'être enseignée et imitée.
+--
 
    L'expression s'utilise largement par opposition avec la langue
    vernaculaire, qui est celle du quotidien. La langue classique peut être
@@ -21,50 +17,38 @@ Langue classique
    d'une langue morte : dans ce dernier cas, on préfère souvent parler de
    langue ancienne pour indiquer simultanément que la langue n'est plus
    vernaculaire mais qu'elle est toujours largement lue et éventuellement
-   écrite.
+--
 
    Exemples de langues classiques de très grande extension :
      * le latin et le grec ancien en Europe et par extension en Occident
-     * le persan et l'arabe classique dans le monde arabo-musulman
 --
-     * le chinois classique en Asie de l'Est.
 
    Exemples de langues classiques plus locales :
      * le sumérien et l'akkadien en Mésopotamie antique
-     * le moyen égyptien dans l'Egypte antique
 --
-
    Sur les autres projets Wikimedia :
      * Espace Langues anciennes, sur Wikiversity
 
-Articles connexes
 --
-   [modifier | modifier le code]
      * Diglossie
      * Langue liturgique
      * Langue de culture
      * Philologie
-     * Humanités
-
+--
      * icône décorative Portail de la linguistique
      * icône décorative Portail des langues
      * icône décorative Portail de la littérature
-     * icône décorative Portail de la culture
-
+--
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Langue_classique&oldid=220
    231389 ».
-   Catégories :
-     * Sociolinguistique
+--
      * Philologie
      * Langue et culture
 
-   Catégories cachées :
 --
-     * Wikipédia:ébauche culture
      * Portail:Linguistique/Articles liés
      * Portail:Langues/Articles liés
      * Portail:Sciences humaines et sociales/Articles liés
      * Portail:Langues/Articles liés directement
      * Portail:Société/Articles liés
-     * Portail:Littérature/Articles liés
