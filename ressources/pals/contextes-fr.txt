@@ -1,3 +1,4 @@
+
 24
 langues
 La
@@ -30,6 +31,7 @@ Antiquit
 jusqu
 la
 Renaissance
+
 L'
 influence
 de
@@ -53,6 +55,7 @@ la
 médecine
 du
 monde
+
 En
 Provence
 et
@@ -416,6 +419,7 @@ sur
 cet
 organe
 unique
+
 Langue
 tout
 savoir
@@ -423,6 +427,8 @@ sur
 cet
 organe
 unique
+
+
 Elle
 n
 a
@@ -536,11 +542,13 @@ bout
 de
 la
 langue
+
 Une
 langue
 en
 bonne
 santé
+
 d
 alcool
 au
@@ -609,6 +617,7 @@ langue
 cet
 organe
 singulier
+
 On
 oublie
 souvent
@@ -678,6 +687,7 @@ une
 mise
 en
 bouche
+
 Indispensable
 pour
 sortir
@@ -724,6 +734,7 @@ souvent
 de
 la
 bouche
+
 CertainsCertains
 ont
 beau
@@ -769,17 +780,19 @@ Terre
 Sans
 elle
 très
-
 3
 Maladies
 4
 Langue
+
 Langue
+
 La
 langue
 et
 ses
 pathologies
+
 Goût
 aide
 la
@@ -848,6 +861,7 @@ mauvais
 pour
 la
 sant
+
 L'
 anatomie
 de
@@ -883,6 +897,7 @@ la
 Sant
 France
 5
+
 La
 langue
 est
@@ -941,10 +956,12 @@ ne
 pourrions
 rien
 avaler
+
 quoi
 sert
 la
 langue
+
 Les
 muscles
 de
@@ -1016,6 +1033,7 @@ sa
 position
 dans
 la
+
 Enfin
 la
 langue
@@ -1074,6 +1092,7 @@ on
 souffre
 par
 exemple
+
 Pathologies
 de
 la
@@ -1083,6 +1102,7 @@ symptômes
 ne
 pas
 négliger
+
 La
 langue
 est
@@ -1104,6 +1124,7 @@ comme
 n'
 importe
 quelle
+
 La
 langue
 peut
@@ -1157,6 +1178,7 @@ Elle
 demande
 un
 effort
+
 Les
 lésions
 de
@@ -1272,6 +1294,8 @@ brossage
 de
 la
 langue
+
+
 L'
 opération
 du
@@ -1279,6 +1303,7 @@ frein
 de
 la
 langue
+
 La
 langue
 organe
@@ -1324,6 +1349,7 @@ laser
 qui
 limite
 les
+
 Un
 autre
 motif
@@ -1450,11 +1476,13 @@ maxillo
 facial
 et
 stomatologue
+
 Le
 cancer
 de
 la
 langue
+
 La
 reconstruction
 de
@@ -1485,6 +1513,7 @@ elle
 dure
 plusieurs
 heures
+
 Le
 cancer
 de
@@ -1542,6 +1571,7 @@ reconstruire
 une
 nouvelle
 langue
+
 Il
 existe
 des
@@ -1572,6 +1602,7 @@ patient
 de
 la
 capacit
+
 La
 glossodynie
 ou
@@ -1581,6 +1612,7 @@ la
 langue
 de
 feu
+
 Les
 lichens
 sont
@@ -1641,6 +1673,7 @@ ceux
 qui
 en
 souffrent
+
 Toute
 douleur
 persistante
@@ -1692,6 +1725,7 @@ point
 de
 vue
 médical
+
 Côt
 sant
 s'
@@ -1791,6 +1825,7 @@ d
 avaler
 sa
 langue
+
 Institut
 national
 du
@@ -1801,29 +1836,10 @@ douloureuseCancer
 de
 la
 langueBouche
+
 Langue
-Ce
-que
-vous
-devez
-faire
-si
-vous
-avez
-une
-langue
-blanche
-Ce
-que
-vous
-devez
-faire
-si
-vous
-avez
-une
-langue
-blanche
+
+
 Ce
 que
 vous
@@ -1836,6 +1852,28 @@ une
 langue
 blanche
 
+Ce
+que
+vous
+devez
+faire
+si
+vous
+avez
+une
+langue
+blanche
+Ce
+que
+vous
+devez
+faire
+si
+vous
+avez
+une
+langue
+blanche
 
 vonguru
 Accueil
@@ -1844,10 +1882,14 @@ Le
 Fourchelang
 langue
 fictive
+
+
 Le
 Fourchelang
 langue
 fictive
+
+
 Langues
 et
 pratiques
@@ -1855,6 +1897,7 @@ du
 Geek
 le
 Fourchelang
+
 Si
 cette
 première
@@ -1910,6 +1953,7 @@ notion
 de
 langue
 fictive
+
 personnages
 et
 de
@@ -2966,6 +3010,8 @@ leur
 civilisation
 grammaticalement
 correct
+
+
 cependant
 pour
 viter
@@ -3160,6 +3206,7 @@ des
 différentes
 conditions
 environnementales
+
 D'
 autre
 part
@@ -3311,6 +3358,7 @@ pensée
 euro
 américaines
 Sapir
+
 L'
 hypothèse
 Sapir
@@ -3715,6 +3763,7 @@ météorologiques
 et
 d'
 autres
+
 Une
 vieille
 théorie
@@ -3776,6 +3825,7 @@ plantes
 aux
 domaines
 humains
+
 La
 métaphore
 se
@@ -3902,6 +3952,7 @@ communaut
 et
 culture
 
+
 Origines
 et
 mergence
@@ -3909,6 +3960,7 @@ de
 la
 langue
 guadeloupéenne
+
 Le
 présent
 essai
@@ -3942,6 +3994,7 @@ guadeloupéen
 afin
 de
 contribuer
+
 II
 existe
 plusieurs
@@ -4039,6 +4092,7 @@ une
 langue
 créole
 Certains
+
 tiennent
 la
 simplicit
@@ -4125,6 +4179,7 @@ genèse
 de
 la
 langue
+
 En
 réalit
 le
@@ -4368,6 +4423,7 @@ Ceci
 signifie
 par
 conséquent
+
 1
 que
 les
@@ -4384,6 +4440,7 @@ la
 vie
 des
 Africains
+
 2
 que
 le
@@ -4473,6 +4530,7 @@ les
 langues
 Niger
 Congo
+
 reposent
 sur
 une
@@ -4852,6 +4910,7 @@ historique
 Il
 s'
 agit
+
 Gua
 lél
 mauvaise
@@ -4860,6 +4919,8 @@ kik
 lela
 mensonge
 vain
+
+
 Gua
 lenb
 chagrin
@@ -5073,6 +5134,7 @@ très
 important
 dans
 notre
+
 Mots
 créés
 par
@@ -5081,6 +5143,7 @@ langue
 elle
 m
 me
+
 particulièrement
 productif
 pour
@@ -5223,6 +5286,8 @@ d'
 une
 langue
 africaine
+
+
 Que
 le
 développement
@@ -5316,7 +5381,6 @@ celles
 ci
 ont
 continué
-
 Début
 1
 Situation
@@ -5327,6 +5391,8 @@ française
 dans
 le
 monde
+
+
 4
 2
 Langue
@@ -5335,6 +5401,8 @@ et
 langue
 de
 travail
+
+
 4
 5
 Influence
@@ -5342,6 +5410,7 @@ dans
 d'
 autres
 langues
+
 BUTTON
 Afficher
 masquer
@@ -5354,18 +5423,25 @@ Enseignement
 Comme
 langue
 trangère
+
+
 9
 2
 Comme
 langue
 maternelle
+
+
 9
 3
 Comme
 langue
 seconde
+
+
 270
 langues
+
 Cet
 article
 concerne
@@ -5517,6 +5593,7 @@ Suisse
 5
 non
 officielle
+
 Codes
 de
 langue
@@ -5536,6 +5613,7 @@ Linguasphere
 51
 AAA
 i
+
 Langue
 non
 menacée
@@ -5573,6 +5651,8 @@ seconde
 ou
 de
 culture
+
+
 Le
 français
 est
@@ -5670,6 +5750,7 @@ maternelle
 ou
 deuxième
 7
+
 Situation
 de
 la
@@ -5678,6 +5759,8 @@ française
 dans
 le
 monde
+
+
 Le
 français
 est
@@ -5763,6 +5846,7 @@ enrichi
 par
 le
 français
+
 Dans
 le
 monde
@@ -6227,6 +6311,7 @@ origine
 de
 la
 langue
+
 internationale
 de
 la
@@ -6377,6 +6462,7 @@ et
 de
 la
 francophonie
+
 La
 langue
 française
@@ -6509,6 +6595,7 @@ tymologie
 l'
 un
 ayant
+
 On
 ignore
 jusqu
@@ -6616,6 +6703,7 @@ des
 langues
 d'
 oïl
+
 Les
 termes
 utilisés
@@ -6881,6 +6969,7 @@ en
 voie
 de
 disparition
+
 Le
 français
 s'
@@ -6982,6 +7071,7 @@ aussi
 des
 pays
 francophones
+
 Les
 emprunts
 plus
@@ -7189,6 +7279,7 @@ langue
 française
 et
 Francisation
+
 l
 poque
 de
@@ -7483,6 +7574,7 @@ de
 cette
 région
 qui
+
 Carte
 des
 dialectes
@@ -7493,6 +7585,7 @@ langues
 de
 France
 continentale
+
 XIV
 e
 siècle
@@ -7543,6 +7636,7 @@ diplomatie
 est
 le
 français
+
 vocabulaire
 anglais
 en
@@ -7576,6 +7670,7 @@ de
 France
 26
 On
+
 La
 langue
 française
@@ -7597,6 +7692,7 @@ la
 Bible
 en
 français
+
 la
 fin
 du
@@ -7630,6 +7726,7 @@ court
 le
 monde
 30
+
 Vers
 1256
 le
@@ -7842,6 +7939,7 @@ de
 la
 langue
 française
+
 En
 1549
 Joachim
@@ -7856,6 +7954,7 @@ de
 la
 langue
 française
+
 Au
 long
 du
@@ -7946,6 +8045,7 @@ pourraient
 le
 lire
 sans
+
 Enfant
 du
 latin
@@ -7991,6 +8091,7 @@ de
 la
 Vie
 romantique
+
 Frédéric
 II
 de
@@ -8072,6 +8173,7 @@ toute
 l'
 Europe
 54
+
 La
 maintenance
 de
@@ -8125,6 +8227,7 @@ Belgique
 et
 du
 Québec
+
 Articles
 détaillés
 Répartition
@@ -8195,6 +8298,8 @@ clair
 langue
 de
 culture
+
+
 Langue
 maternelle
 créoles
@@ -8215,6 +8320,7 @@ et
 ou
 de
 culture
+
 500px
 C3
 A7aise
@@ -8232,6 +8338,7 @@ réf
 nécessaire
 500px
 C3
+
 En
 Europe
 le
@@ -8302,6 +8409,7 @@ Vallée
 d'
 Aoste
 Italie
+
 En
 Amérique
 le
@@ -8322,6 +8430,7 @@ la
 province
 de
 Québec
+
 En
 Afrique
 dans
@@ -8620,6 +8729,7 @@ espace
 hispanophone
 et
 deviendra
+
 Dans
 les
 années
@@ -8677,6 +8787,7 @@ avec
 l'
 anglais
 81
+
 Le
 français
 est
@@ -8699,6 +8810,7 @@ le
 français
 sont
 aussi
+
 En
 2005
 le
@@ -8721,6 +8833,7 @@ nombre
 tait
 cens
 atteindre
+
 Le
 français
 est
@@ -9041,12 +9154,14 @@ la
 population
 augmente
 très
+
 Langue
 officielle
 et
 langue
 de
 travail
+
 220px
 29
 jpg
@@ -9112,6 +9227,7 @@ des
 langues
 du
 monde
+
 Articles
 connexes
 Liste
@@ -9134,6 +9250,8 @@ français
 comme
 langue
 officielle
+
+
 En
 2016
 le
@@ -9151,6 +9269,7 @@ territoires
 dans
 le
 monde
+
 Le
 français
 est
@@ -9171,11 +9290,14 @@ est
 usit
 pour
 la
+
 Influence
 dans
 d'
 autres
 langues
+
+
 Du
 XIV
 e
@@ -9249,6 +9371,7 @@ compos
 de
 près
 de
+
 Le
 français
 est
@@ -9272,6 +9395,7 @@ qui
 précise
 La
 République
+
 Le
 français
 d
@@ -9458,6 +9582,7 @@ la
 langue
 française
 120
+
 Une
 des
 caractéristiques
@@ -9489,6 +9614,7 @@ l'
 oral
 Par
 exemple
+
 La
 langue
 française
@@ -9714,6 +9840,7 @@ la
 règle
 phonétique
 simple
+
 Articles
 détaillés
 Littérature
@@ -9723,14 +9850,18 @@ Littérature
 de
 langue
 française
+
 Comme
 langue
 trangère
+
+
 Article
 détaill
 Français
 langue
 trangère
+
 De
 façon
 générale
@@ -9956,9 +10087,12 @@ Professorat
 invent
 en
 1948
+
 Comme
 langue
 maternelle
+
+
 Cette
 section
 est
@@ -10043,9 +10177,12 @@ officielle
 ou
 de
 travail
+
 Comme
 langue
 seconde
+
+
 Cette
 section
 est
@@ -10056,6 +10193,7 @@ Français
 langue
 seconde
 modifier
+
 Le
 français
 langue
@@ -10103,6 +10241,7 @@ se
 sont
 révélés
 insuffisants
+
 Dans
 leur
 Cours
@@ -10274,6 +10413,7 @@ langue
 courante
 en
 France
+
 insupportable
 de
 constater
@@ -10365,6 +10505,7 @@ l'
 unit
 nationale
 128
+
 En
 Europe
 au
@@ -10462,6 +10603,7 @@ de
 la
 langue
 française
+
 La
 loi
 Ferry
@@ -10540,6 +10682,7 @@ peine
 de
 mort
 133
+
 proclame
 Pour
 l'
@@ -10617,6 +10760,7 @@ langue
 des
 campagnes
 135
+
 d
 lites
 francophiles
@@ -10639,6 +10783,7 @@ langue
 véhiculaire
 internationale
 136
+
 La
 défense
 de
@@ -10887,6 +11032,7 @@ la
 meilleure
 langue
 possible
+
 Le
 7
 janvier
@@ -11078,6 +11224,7 @@ République
 est
 le
 français
+
 Contrairement
 d'
 autres
@@ -11297,6 +11444,7 @@ aux
 langues
 de
 France
+
 En
 particulier
 l'
@@ -11599,6 +11747,7 @@ française
 155
 pertinence
 contestée
+
 loi
 du
 30
@@ -11718,6 +11867,7 @@ le
 décembre
 2013
 157
+
 La
 discipline
 ayant
@@ -11756,6 +11906,8 @@ moderne
 et
 Langue
 française
+
+
 Dans
 certains
 pays
@@ -13223,6 +13375,7 @@ Langue
 française
 sur
 Wikiquote
+
 Claude
 Hagège
 Combat
@@ -13506,6 +13659,7 @@ Langues
 celtiques
 Langues
 germaniques
+
 Glottocode
 en
 Fiche
@@ -13651,6 +13805,7 @@ ibéro
 romanes
 Galaïco
 portugais
+
 Langues
 occitano
 romanes
@@ -13662,15 +13817,18 @@ sifflée
 pyrénéenne
 languedocien
 aurillacois
+
 Langues
 gallo
 romanes
 Arpitan
 francoprovençal
+
 Langues
 d'
 oïl
 angevin
+
 Langues
 romanes
 orientales
@@ -13679,10 +13837,12 @@ roman
 de
 l'
 Est
+
 Autres
 langues
 teintes
 dalmate
+
 langue
 juive
 langue
@@ -13701,6 +13861,7 @@ européenne
 Langues
 officielles
 24
+
 Langues
 de
 travail
@@ -13727,6 +13888,7 @@ langues
 régionales
 ou
 minoritaires
+
 v
 m
 Langue
@@ -13745,6 +13907,7 @@ de
 la
 langue
 française
+
 l'
 université
 Langue
@@ -13767,6 +13930,7 @@ scolarisation
 Langue
 d'
 intégration
+
 Géographie
 Pays
 ayant
@@ -13794,6 +13958,7 @@ de
 langue
 Français
 signé
+
 icône
 décorative
 Portail
@@ -14216,6 +14381,7 @@ Hampshire
 Langue
 au
 Vermont
+
 Article
 de
 Wikipédia
@@ -14252,6 +14418,8 @@ liés
 5
 Langue
 enroulée
+
+
 7
 La
 langue
@@ -14259,12 +14427,16 @@ chez
 les
 autres
 animaux
+
+
 Langue
 anatomie
 humaine
+
 158
 langues
 Afrikaans
+
 Pour
 les
 articles
@@ -14291,6 +14463,8 @@ Langue
 JPG
 Langue
 humaine
+
+
 La
 langue
 est
@@ -14338,6 +14512,7 @@ bouche
 ou
 du
 corps
+
 modifier
 modifier
 le
@@ -14353,6 +14528,7 @@ langue
 Vue
 de
 droite
+
 La
 longueur
 moyenne
@@ -14463,6 +14639,7 @@ muscle
 transverse
 ils
 sont
+
 Par
 définition
 les
@@ -14525,6 +14702,7 @@ rétraction
 de
 la
 langue
+
 Il
 existe
 un
@@ -14569,6 +14747,8 @@ verticaux
 de
 la
 langue
+
+
 La
 langue
 est
@@ -14717,6 +14897,7 @@ buccale
 de
 la
 langue
+
 La
 section
 buccale
@@ -14755,6 +14936,7 @@ inférieure
 de
 la
 langue
+
 Sur
 la
 face
@@ -14804,6 +14986,7 @@ est
 mince
 et
 transparente
+
 Un
 goût
 est
@@ -14936,6 +15119,8 @@ postérieurs
 de
 la
 langue
+
+
 Il
 a
 longtemps
@@ -14988,6 +15173,8 @@ les
 5
 saveurs
 6
+
+
 La
 langue
 possède
@@ -15027,6 +15214,7 @@ transduire
 plusieurs
 modalités
 parmi
+
 Tous
 les
 muscles
@@ -15104,6 +15292,7 @@ antérieurs
 de
 la
 langue
+
 Le
 nerf
 glosso
@@ -15253,6 +15442,7 @@ déglutition
 atypique
 ou
 déglutition
+
 Via
 les
 pressions
@@ -15304,8 +15494,10 @@ et
 sur
 la
 voûte
+
 Langue
 enroulée
+
 modifier
 modifier
 le
@@ -15325,6 +15517,7 @@ de
 rouler
 la
 langue
+
 Il
 a
 longtemps
@@ -15628,6 +15821,7 @@ cancérogène
 avec
 la
 langue
+
 Un
 diagnostic
 peut
@@ -15665,6 +15859,7 @@ le
 plus
 souvent
 normal
+
 sources
 d'
 irritations
@@ -15680,6 +15875,7 @@ infections
 de
 la
 langue
+
 La
 sécheresse
 de
@@ -15693,6 +15889,7 @@ vulnérable
 aux
 infections
 fongiques
+
 La
 toxicomanie
 est
@@ -15746,6 +15943,7 @@ de
 la
 langue
 16
+
 L'
 observation
 de
@@ -15796,6 +15994,7 @@ maladies
 et
 leur
 volution
+
 Chez
 une
 personne
@@ -16027,12 +16226,14 @@ le
 bon
 diagnostic
 dans
+
 La
 langue
 chez
 les
 autres
 animaux
+
 modifier
 modifier
 le
@@ -16042,6 +16243,7 @@ détaill
 Langue
 anatomie
 animale
+
 Guedj
 et
 Henri
@@ -16177,6 +16379,7 @@ détaill
 sur
 la
 langue
+
 Lèvres
 Bouche
 contenant
@@ -16435,6 +16638,7 @@ arrière
 de
 la
 langue
+
 l
 alimentation
 en
@@ -16468,10 +16672,11 @@ ainsi
 plus
 facilement
 savourée
-
 Courrier
 Expat
 Langues
+
+
 Comment
 le
 cerveau
@@ -16482,6 +16687,7 @@ on
 maîtrise
 plusieurs
 langues
+
 Les
 scientifiques
 se
@@ -16708,12 +16914,14 @@ inhibition
 précise
 la
 journaliste
+
 L
 inversion
 de
 la
 langue
 dominante
+
 Les
 situations
 dans
@@ -16792,6 +17000,7 @@ langue
 dans
 leur
 lecture
+
 D
 ailleurs
 ce
@@ -16942,6 +17151,7 @@ gérer
 souligne
 Matt
 Goldrick
+
 videmment
 maîtriser
 plusieurs
@@ -17031,6 +17241,7 @@ profite
 de
 la
 promotion
+
 Progressez
 dans
 la
@@ -17078,6 +17289,7 @@ Sélectionnez
 votre
 langue
 Deutsch
+
 Fonction
 des
 mouvements
@@ -17088,6 +17300,7 @@ de
 la
 langue
 trangère
+
 La
 phonétique
 est
@@ -17188,6 +17401,7 @@ Allemands
 que
 par
 les
+
 Chaque
 langue
 développe
@@ -17234,6 +17448,7 @@ de
 la
 langue
 cible
+
 Les
 mouvements
 ont
@@ -17426,6 +17641,7 @@ d'
 une
 langue
 trangère
+
 des
 participants
 sur
@@ -17445,6 +17661,8 @@ de
 la
 langue
 cible
+
+
 Les
 mouvements
 qui
@@ -17455,6 +17673,7 @@ de
 la
 langue
 trangère
+
 Le
 mouvement
 rythmique
@@ -17572,6 +17791,7 @@ de
 la
 langue
 française
+
 Il
 se
 dessine
@@ -17591,6 +17811,7 @@ chant
 de
 la
 langue
+
 permet
 pas
 seulement
@@ -17676,6 +17897,7 @@ en
 communiquer
 la
 vie
+
 Llorca
 R
 1994
@@ -17699,8 +17921,6 @@ Sprachen
 6
 588
 606
-
-
 innovation
 langues
 littérature
@@ -18034,6 +18254,7 @@ chimpanz
 veut
 tre
 certain
+
 CLLE
 Laboratoire
 Cognition
@@ -18061,13 +18282,16 @@ communication
 langues
 psychologie
 
+
 Encyclopédie
 anarchiste
 Langue
 Leçon
+
 Ajouter
 des
 langues
+
 Fascicule
 Légalit
 Législation
@@ -18089,6 +18313,7 @@ tome
 djvuFaure
 Encyclopédie
 anarchiste
+
 En
 anatomie
 la
@@ -18366,6 +18591,7 @@ grec
 et
 au
 latin
+
 Les
 langues
 vivantes
@@ -18404,6 +18630,7 @@ selon
 les
 cas
 des
+
 L
 idiome
 est
@@ -18687,6 +18914,7 @@ informes
 de
 langues
 disparues
+
 A
 côt
 des
@@ -18857,6 +19085,7 @@ grise
 faite
 de
 pluie
+
 Le
 jargon
 est
@@ -18923,6 +19152,7 @@ lettres
 les
 jargons
 mondains
+
 Enfin
 côt
 des
@@ -19036,6 +19266,7 @@ s
 entendre
 entre
 eux
+
 Ce
 qu
 on
@@ -19104,6 +19335,7 @@ de
 la
 langue
 verte
+
 Les
 langues
 liturgiques
@@ -19128,6 +19360,7 @@ liturgique
 des
 catholiques
 romains
+
 Quelle
 est
 l
@@ -19283,6 +19516,7 @@ qui
 fut
 la
 première
+
 sornettes
 mais
 n
@@ -19350,6 +19584,7 @@ avoir
 une
 origine
 commune
+
 Leibniz
 commença
 l
@@ -19466,6 +19701,7 @@ branches
 du
 langage
 européen
+
 On
 divise
 aujourd
@@ -19480,6 +19716,7 @@ en
 trois
 grandes
 classes
+
 1
 Les
 langues
@@ -19499,6 +19736,7 @@ Asie
 Orientale
 et
 Amérique
+
 2
 Les
 langues
@@ -19521,6 +19759,7 @@ elles
 conserve
 son
 indépendance
+
 3
 Les
 langues
@@ -19544,6 +19783,8 @@ indo
 européennes
 et
 sémitiques
+
+
 Nous
 ne
 ferons
@@ -19562,6 +19803,7 @@ plus
 particulièrement
 du
 français
+
 Langue
 française
 Comme
@@ -19714,6 +19956,7 @@ celles
 des
 sciences
 sont
+
 C
 est
 de
@@ -19864,6 +20107,7 @@ changements
 insignifiants
 elle
 ne
+
 Ce
 n
 est
@@ -19965,6 +20209,7 @@ très
 nombreuses
 d
 abord
+
 On
 dit
 généralement
@@ -20112,6 +20357,7 @@ parution
 depuis
 1905
 etc
+
 La
 théorie
 du
@@ -20490,6 +20736,7 @@ Mais
 déj
 avant
 la
+
 Jusqu
 la
 Renaissance
@@ -20542,6 +20789,7 @@ L
 imprimerie
 commença
 répandre
+
 La
 langue
 s
@@ -20929,6 +21177,7 @@ on
 ne
 dépris
 t
+
 L
 esprit
 français
@@ -21158,6 +21407,7 @@ tait
 qu
 un
 masque
+
 La
 langue
 de
@@ -21365,6 +21615,7 @@ des
 seuls
 gens
 de
+
 La
 Révolution
 Française
@@ -21467,6 +21718,7 @@ précaution
 des
 formes
 architecturales
+
 La
 langue
 littéraire
@@ -21683,6 +21935,7 @@ trouble
 comme
 les
 consciences
+
 L
 Académie
 acceptera
@@ -21881,6 +22134,7 @@ Sélection
 de
 la
 langue
+
 o
 2
 1
@@ -22068,6 +22322,7 @@ n'
 est
 pas
 clair
+
 obtenue
 lorsque
 les
@@ -22500,6 +22755,7 @@ vivant
 l'
 extérieur
 du
+
 Pour
 ceux
 qui
@@ -22562,6 +22818,7 @@ culture
 sont
 inextricablement
 indissociables
+
 Cependant
 bien
 qu'
@@ -22618,6 +22875,7 @@ plus
 approfondie
 Nous
 savons
+
 La
 langue
 a
@@ -22770,6 +23028,7 @@ forme
 ou
 une
 autre
+
 2
 1
 1
@@ -22782,6 +23041,7 @@ dans
 une
 langue
 commune
+
 Accroître
 le
 nombre
@@ -22816,6 +23076,7 @@ l'
 interprétation
 ne
 pourra
+
 L'
 augmentation
 du
@@ -22863,6 +23124,7 @@ langues
 officielles
 du
 pays
+
 Augmenter
 le
 nombre
@@ -22872,6 +23134,7 @@ maîtrisant
 d'
 autres
 langues
+
 d'
 accroître
 la
@@ -22889,6 +23152,7 @@ d'
 une
 minorit
 linguistique
+
 les
 membres
 des
@@ -23099,6 +23363,7 @@ al
 Dans
 ce
 cas
+
 Augmenter
 le
 nombre
@@ -23346,6 +23611,7 @@ dans
 une
 langue
 officielle
+
 communiquer
 adéquatement
 pour
@@ -23390,6 +23656,7 @@ conserver
 leur
 propre
 langue
+
 d'
 intégrer
 les
@@ -23571,6 +23838,7 @@ dans
 une
 langue
 officielle
+
 peuvent
 découler
 d'
@@ -23956,11 +24224,14 @@ et
 Anton
 Culver
 1988
+
+
 3
 3
 1
 Langues
 officielles
+
 Le
 Canada
 s'
@@ -24061,6 +24332,7 @@ faite
 des
 poursuites
 criminelles
+
 3
 3
 2
@@ -24071,6 +24343,7 @@ Nations
 et
 des
 Inuits
+
 Dans
 certaines
 régions
@@ -24215,12 +24488,14 @@ dans
 une
 langue
 minoritaire
+
 3
 3
 4
 Langues
 des
 immigrants
+
 essentiels
 pour
 la
@@ -24457,6 +24732,7 @@ information
 qui
 lui
 est
+
 La
 façon
 dont
@@ -24598,6 +24874,7 @@ une
 langue
 non
 officielle
+
 résultats
 mesurés
 Cette
@@ -24754,6 +25031,7 @@ Barnett
 et
 Franks
 1999a
+
 doive
 com
 porter
@@ -24991,6 +25269,7 @@ aucun
 système
 de
 collecte
+
 Si
 le
 fait
@@ -25131,6 +25410,7 @@ ou
 la
 langue
 maternelle
+
 catégorie
 Variables
 relatives
@@ -25245,6 +25525,7 @@ une
 langue
 non
 officielle
+
 D'
 autres
 recherches
@@ -25470,6 +25751,7 @@ en
 général
 ou
 vitent
+
 Niveau
 de
 compétence
@@ -25647,6 +25929,7 @@ majorit
 d'
 entre
 eux
+
 La
 disponibilit
 des
@@ -25809,6 +26092,7 @@ sant
 de
 la
 population
+
 Langue
 spécifique
 similarités
@@ -25822,6 +26106,7 @@ probabilit
 de
 compréhension
 partielle
+
 La
 langue
 pour
@@ -26171,6 +26456,7 @@ Mesa
 1996
 Mesa
 1997
+
 utilisées
 couramment
 aux
@@ -26543,6 +26829,7 @@ dans
 une
 langue
 autochtone
+
 obstacles
 liés
 la
@@ -26672,6 +26959,7 @@ que
 la
 recherche
 limitée
+
 a
 l'
 espagnol
@@ -26714,6 +27002,7 @@ Minkler
 et
 Looper
 1978
+
 faire
 en
 sorte
@@ -26742,6 +27031,7 @@ de
 la
 sant
 hispanophones
+
 Les
 tudes
 publiées
@@ -26786,6 +27076,7 @@ Comme
 le
 reconnaissent
 les
+
 On
 value
 17
@@ -27319,6 +27610,7 @@ ou
 les
 consultations
 avec
+
 Au
 Canada
 tant
@@ -27494,6 +27786,7 @@ des
 cours
 de
 langue
+
 d'
 obtenir
 une
@@ -27524,6 +27817,7 @@ rencontres
 les
 raisons
 pour
+
 6
 Les
 enfants
@@ -27637,6 +27931,7 @@ tre
 le
 facteur
 déterminant
+
 Des
 différences
 importantes
@@ -27910,6 +28205,7 @@ mais
 plutôt
 comme
 un
+
 Une
 des
 premières
@@ -29456,6 +29752,7 @@ donn
 la
 façon
 dont
+
 Les
 chercheurs
 canadiens
@@ -30340,6 +30637,7 @@ recherches
 sur
 la
 communication
+
 Une
 autre
 source
@@ -30436,6 +30734,7 @@ Witte
 et
 Kuzel
 2000
+
 Fourniture
 de
 documentation
@@ -30444,6 +30743,7 @@ les
 langues
 non
 officielles
+
 Bien
 que
 le
@@ -30577,6 +30877,7 @@ intér
 ts
 de
 la
+
 Cependant
 bon
 nombre
@@ -31001,6 +31302,7 @@ pas
 prise
 en
 considération
+
 Les
 personnes
 qui
@@ -31512,6 +31814,7 @@ des
 langues
 non
 officielles
+
 tudier
 la
 possibilit
@@ -31784,6 +32087,7 @@ dont
 il
 est
 question
+
 Health
 77
 1315
@@ -31807,7 +32111,6 @@ Travaux
 publics
 et
 Services
-
 manifestations
 on
 peut
@@ -32035,8 +32338,10 @@ niveau
 
 Langue
 classique
+
 33
 langues
+
 En
 sociolinguistique
 une
@@ -32060,6 +32365,7 @@ que
 porteuse
 d'
 une
+
 L'
 expression
 s'
@@ -32147,6 +32453,7 @@ largement
 lue
 et
 ventuellement
+
 Exemples
 de
 langues
@@ -32168,6 +32475,7 @@ par
 extension
 en
 Occident
+
 Exemples
 de
 langues
@@ -32192,6 +32500,7 @@ Langues
 anciennes
 sur
 Wikiversity
+
 Diglossie
 Langue
 liturgique
@@ -32235,6 +32544,7 @@ Philologie
 Langue
 et
 culture
+
 Portail
 Linguistique
 Articles
@@ -32259,7 +32569,6 @@ Portail
 Sociét
 Articles
 liés
-
 Louis
 Sébastien
 Mercier
@@ -32309,6 +32618,7 @@ comprend
 que
 l
 homme
+
 Alors
 entre
 XVIII
@@ -32346,6 +32656,7 @@ Langues
 science
 des
 Latin
+
 L'
 An
 2440
@@ -32359,6 +32670,7 @@ Langues
 pp
 247
 250
+
 Néologie
 IV
 1
@@ -32384,8 +32696,12 @@ avez
 toujours
 r
 vé
+
+
 BUTTON
 Langues
+
+
 Apprenez
 une
 langue
@@ -32395,6 +32711,7 @@ quand
 vous
 voulez
 ANGLAIS
+
 Quelle
 langue
 désirez
@@ -32701,6 +33018,7 @@ les
 tics
 de
 langage
+
 Apprenez
 une
 nouvelle
@@ -32709,6 +33027,7 @@ avec
 Babbel
 Commencez
 aujourd'hui
+
 Arnaud
 est
 un
@@ -32737,6 +33056,7 @@ et
 de
 la
 diversité
+
 Arnaud
 est
 un
@@ -32765,6 +33085,7 @@ et
 de
 la
 diversité
+
 Apprendre
 des
 langues
@@ -32775,13 +33096,13 @@ l
 anglais
 en
 ligne
+
 Apprenez
 une
 nouvelle
 langue
 Essayer
 Babbel
-
 Les
 terminales
 du
@@ -32801,6 +33122,7 @@ dans
 la
 langue
 idoine
+
 section
 européenne
 de
@@ -32863,6 +33185,7 @@ et
 indiennes
 en
 version
+
 La
 dégustation
 s
@@ -32886,7 +33209,6 @@ ces
 lèves
 partiront
 donc
-
 Pour
 savoir
 quand
@@ -33026,6 +33348,7 @@ des
 langues
 du
 monde
+
 malgr
 leur
 larynx
@@ -33123,6 +33446,7 @@ ces
 modèles
 offriraient
 la
+
 Prédire
 la
 langue
@@ -33136,6 +33460,7 @@ de
 la
 t
 te
+
 Mais
 sur
 quoi
@@ -33253,6 +33578,7 @@ de
 près
 de
 3
+
 Ce
 modèle
 rend
@@ -33299,6 +33625,8 @@ la
 langue
 au
 larynx
+
+
 Modèle
 de
 langue
@@ -33307,6 +33635,7 @@ et
 Gipsa
 lab
 Grenoble
+
 C
 est
 en
@@ -33520,6 +33849,7 @@ la
 langue
 du
 babouin
+
 structures
 osseuses
 des
@@ -33620,6 +33950,8 @@ les
 4
 Proto
 langues
+
+
 36
 langues
 Afrikaans
@@ -33751,8 +34083,10 @@ sont
 mises
 en
 jeu
+
 Proto
 langues
+
 Certains
 soutiennent
 que
@@ -33810,6 +34144,7 @@ la
 polygénèse
 des
 langues
+
 Les
 travaux
 récents
@@ -34246,6 +34581,7 @@ individu
 dans
 une
 sociét
+
 Ces
 trois
 dynamiques
@@ -34276,6 +34612,7 @@ soumis
 l
 volution
 biologique
+
 1
 L'
 origine
@@ -34385,6 +34722,7 @@ une
 langue
 biblique
 retrouvée
+
 naturelle
 de
 la
@@ -34421,7 +34759,6 @@ et
 sociales
 Articles
 liés
-
 REFRESH
 500
 sec
@@ -34455,6 +34792,7 @@ omene
 de
 langue
 20240119
+
 Automobile
 Langue
 française
@@ -34463,6 +34801,7 @@ Expressions
 françaises
 Langue
 française
+
 1
 Accueil
 2
@@ -34489,9 +34828,12 @@ nouveau
 phénomène
 de
 langue
+
 Sujet
 langue
 française
+
+
 lire
 aussi
 Quelle
@@ -34501,6 +34843,8 @@ hommes
 préhistoriques
 parlaient
 ils
+
+
 Non
 l'
 affrication
@@ -34791,6 +35135,19 @@ de
 langue
 S'
 ABONNER
+
+Notre
+Dame
+de
+Paris
+la
+redécouverte
+de
+la
+langue
+des
+métiers
+
 Notre
 Dame
 de
@@ -34813,17 +35170,8 @@ la
 langue
 des
 métiers
-Notre
-Dame
-de
-Paris
-la
-redécouverte
-de
-la
-langue
-des
-métiers
+
+
 Triompherez
 vous
 de
@@ -34930,6 +35278,7 @@ vous
 faisant
 des
 amis
+
 Que
 faire
 si
@@ -34939,6 +35288,7 @@ plutôt
 bien
 une
 langue
+
 Il
 y
 a
@@ -34958,6 +35308,7 @@ d'
 une
 nouvelle
 langue
+
 Logiquement
 vous
 vous
@@ -34979,6 +35330,8 @@ de
 ses
 locuteurs
 natifs
+
+
 L'
 oral
 ternel
@@ -34986,6 +35339,7 @@ parent
 pauvre
 des
 langues
+
 S'
 il
 est
@@ -35029,6 +35383,8 @@ un
 consensus
 se
 dessine
+
+
 Pas
 parce
 qu'
@@ -35045,6 +35401,7 @@ l'
 entend
 trop
 souvent
+
 L'
 oral
 un
@@ -35053,6 +35410,8 @@ pour
 maîtriser
 une
 langue
+
+
 Ils
 considéreront
 que
@@ -35090,6 +35449,8 @@ bien
 parler
 la
 langue
+
+
 Il
 suffirait
 de
@@ -35136,6 +35497,7 @@ de
 temps
 en
 immersion
+
 Mais
 aussi
 parce
@@ -35155,6 +35517,7 @@ part
 de
 leurs
 parents
+
 Le
 réemploi
 permanent
@@ -35164,6 +35527,8 @@ pour
 maîtriser
 une
 langue
+
+
 Pour
 vous
 habituer
@@ -35175,6 +35540,8 @@ ainsi
 muscler
 votre
 oral
+
+
 Pourquoi
 il
 est
@@ -35189,6 +35556,7 @@ tranger
 la
 vraie
 raison
+
 La
 seule
 manière
@@ -35209,6 +35577,7 @@ l'
 apprendre
 en
 immersion
+
 Si
 vous
 vous
@@ -35245,6 +35614,7 @@ pas
 la
 langue
 locale
+
 Vous
 entendrez
 sans
@@ -35268,6 +35638,8 @@ elle
 est
 réellement
 parlée
+
+
 Si
 vous
 n'
@@ -35300,6 +35672,7 @@ aider
 pratiquer
 leur
 langue
+
 Par
 exemple
 avec
@@ -35355,6 +35728,7 @@ emmener
 vers
 les
 sommets
+
 Il
 vous
 aidera
@@ -35403,6 +35777,7 @@ en
 aisance
 l'
 oral
+
 Cette
 méthode
 s'
@@ -35484,6 +35859,7 @@ préparer
 toutes
 les
 situations
+
 Le
 pouvoir
 de
@@ -35494,6 +35870,7 @@ parler
 couramment
 une
 langue
+
 La
 majorit
 des
@@ -35640,6 +36017,7 @@ et
 silencieux
 aussi
 rasoir
+
 Savoir
 pratiquer
 une
@@ -35658,6 +36036,7 @@ long
 de
 votre
 vie
+
 Bref
 une
 libert
@@ -35668,6 +36047,8 @@ parcours
 avec
 les
 langues
+
+
 C'
 est
 sans
@@ -35681,6 +36062,7 @@ d'
 apprendre
 une
 langue
+
 suivants
 Vous
 voulez
@@ -35739,6 +36121,7 @@ pour
 de
 langues
 années
+
 l'
 oral
 n'
@@ -35810,6 +36193,7 @@ pour
 atteindre
 plus
 rapidement
+
 Pour
 atteindre
 tous
@@ -35830,10 +36214,12 @@ et
 affective
 dans
 un
+
 Apprenons
 une
 langue
 ensemble
+
 Depuis
 plus
 de
@@ -35948,6 +36334,7 @@ cours
 de
 langue
 classique
+
 organiser
 des
 conversations
@@ -35961,6 +36348,7 @@ de
 votre
 langue
 cible
+
 Vous
 pourrez
 ainsi
@@ -35985,6 +36373,7 @@ naturelle
 compréhension
 orale
 prononciation
+
 Rappelons
 qu'
 il
@@ -36012,6 +36401,7 @@ appliquer
 toutes
 les
 langues
+
 Vous
 pourrez
 ensuite
@@ -36037,6 +36427,7 @@ de
 votre
 langue
 cible
+
 J'
 apprends
 une
@@ -36051,6 +36442,7 @@ pour
 trouver
 un
 correspondant
+
 C'
 est
 un
@@ -36075,6 +36467,7 @@ que
 si
 vous
 appreniez
+
 Les
 locuteurs
 des
@@ -36107,6 +36500,7 @@ ravis
 d
 changer
 avec
+
 Apprendre
 une
 langue
@@ -36141,6 +36535,7 @@ personnellement
 contact
 mondelangues
 fr
+
 si
 cette
 formation
@@ -36154,6 +36549,7 @@ adresse
 contact
 mondelangues
 fr
+
 Le
 Monde
 des
@@ -36350,6 +36746,7 @@ aspect
 oblig
 du
 rapport
+
 L
 apprentissage
 de
@@ -36714,6 +37111,7 @@ la
 langue
 d
 enseignement
+
 Moins
 avouée
 mais
@@ -36813,6 +37211,7 @@ la
 syntaxe
 du
 vocabulaire
+
 ces
 phénomènes
 classiques
@@ -36932,6 +37331,8 @@ fait
 de
 façon
 ambigu
+
+
 c
 la
 répression
@@ -36956,6 +37357,7 @@ et
 les
 stratégies
 de
+
 d
 les
 nouvelles
@@ -37171,6 +37573,7 @@ assure
 leur
 maîtrise
 théorique
+
 Contre
 ces
 tendances
@@ -37341,6 +37744,7 @@ approche
 pragmatique
 du
 texte
+
 Il
 importe
 de
@@ -37380,6 +37784,7 @@ registre
 de
 communication
 adéquat
+
 Pour
 faire
 mieux
@@ -37403,6 +37808,7 @@ les
 ressources
 En
 face
+
 La
 grammaire
 l
@@ -37455,6 +37861,7 @@ une
 culture
 linguistique
 géographique
+
 C
 est
 vident
@@ -37504,6 +37911,7 @@ laborieusement
 une
 langue
 nouvelle
+
 attentes
 des
 interlocuteurs
@@ -37720,6 +38128,7 @@ et
 des
 marchés
 linguistiques
+
 Chacun
 est
 renvoy
@@ -37866,6 +38275,7 @@ la
 Révolution
 Paris
 Hachette
+
 Duneton
 C
 1984
@@ -37884,6 +38294,8 @@ langue
 française
 Paris
 Seuil
+
+
 François
 F
 1981
@@ -37981,6 +38393,7 @@ Québec
 pp
 37
 57
+
 Schoeni
 G
 Bronckart
@@ -38001,7 +38414,6 @@ Normes
 et
 activités
 langagières
-
 La
 parole
 réfère
@@ -38238,6 +38650,7 @@ langue
 mission
 du
 souffle
+
 entendante
 sans
 s'
@@ -38281,6 +38694,7 @@ couple
 il
 n'
 est
+
 Pour
 les
 enfants
@@ -38327,6 +38741,7 @@ perception
 complète
 et
 sans
+
 Lorsque
 les
 personnes
@@ -38395,6 +38810,7 @@ le
 langage
 du
 corps
+
 icône
 décorative
 Portail
@@ -38428,9 +38844,12 @@ liés
 
 Langue
 métadonnée
+
 Ajouter
 des
 langues
+
+
 Pour
 les
 articles
@@ -38438,6 +38857,8 @@ homonymes
 voir
 Langue
 homonymie
+
+
 La
 langue
 language
@@ -38492,6 +38913,7 @@ des
 exemples
 avec
 en
+
 L'
 attribut
 langue
@@ -38552,6 +38974,7 @@ X
 HTML
 Forum
 ARTIST
+
 icône
 décorative
 Portail
@@ -38602,6 +39025,8 @@ ce
 que
 c'
 est
+
+
 La
 langue
 est
@@ -38630,6 +39055,7 @@ la
 phonation
 univ
 paris5
+
 La
 langue
 est
@@ -38644,6 +39070,7 @@ la
 phonation
 univ
 paris5
+
 La
 langue
 est
@@ -38658,10 +39085,12 @@ alimentation
 et
 la
 parole
+
 Fonction
 de
 la
 langue
+
 Alimentation
 située
 dans
@@ -38762,10 +39191,12 @@ les
 lèvres
 ou
 les
+
 Structure
 de
 la
 langue
+
 La
 langue
 est
@@ -38808,6 +39239,7 @@ sur
 l'
 os
 hyoïdehyoïde
+
 La
 langue
 possède
@@ -38919,6 +39351,7 @@ côtés
 de
 la
 langue
+
 24
 01
 2006
@@ -38946,6 +39379,7 @@ incisives
 Laurent
 Saillard
 Fotolia
+
 Piercing
 sur
 la
@@ -38955,6 +39389,7 @@ il
 abîmer
 les
 dents
+
 07
 07
 2013
@@ -39007,6 +39442,7 @@ ils
 une
 bonne
 excuse
+
 Pourquoi
 est
 il
@@ -39016,26 +39452,36 @@ apprendre
 une
 langue
 trangère
+
+
 langue
 bleue
+
 langue
 covid
+
+
 Fonction
 de
 la
 langue
+
 Structure
 de
 la
 langue
+
+
 Racine
 de
 la
 langue
+
 Muscle
 de
 la
 langue
+
 
 Apnée
 du
@@ -39142,6 +39588,7 @@ un
 peu
 d
 anatomie
+
 La
 langue
 un
@@ -39243,6 +39690,7 @@ un
 rôle
 essentiel
 au
+
 Rééducation
 de
 la
@@ -39378,6 +39826,7 @@ l
 apprentissage
 et
 la
+
 Comment
 placer
 sa
@@ -39557,6 +40006,7 @@ encouragent
 se
 placer
 correctement
+
 Exercices
 de
 la
@@ -39641,6 +40091,7 @@ mais
 constante
 Maintenez
 cette
+
 Glissement
 de
 la
@@ -39684,6 +40135,7 @@ avant
 Effectuez
 ce
 mouvement
+
 tirement
 de
 la
@@ -39818,7 +40270,10 @@ Rueff
 PREMIERES
 PAGES
 PDF
+
 jpg
+
+
 En
 français
 le
@@ -39958,6 +40413,7 @@ la
 langue
 lauteur
 gif
+
 Au
 bout
 de
@@ -39979,10 +40435,12 @@ aliments
 que
 vous
 aimez
+
 Personne
 exhibant
 sa
 langue
+
 Plus
 large
 plus
@@ -40002,6 +40460,7 @@ présenter
 de
 différences
 notables
+
 Bien
 qu'
 il
@@ -40026,6 +40485,7 @@ langues
 sont
 très
 uniques
+
 Selon
 les
 chercheurs
@@ -40137,6 +40597,7 @@ ce
 que
 nous
 mangeons
+
 Quel
 est
 le
@@ -40202,6 +40663,7 @@ hauteur
 de
 sa
 mission
+
 La
 langue
 un
@@ -40211,6 +40673,7 @@ hauteur
 de
 sa
 mission
+
 joue
 un
 rôle
@@ -40248,6 +40711,7 @@ une
 multitude
 de
 récepteurs
+
 Car
 la
 langue
@@ -40297,6 +40761,7 @@ pas
 seulement
 Elle
 participe
+
 Mais
 la
 langue
@@ -40333,6 +40798,7 @@ est
 un
 véritable
 multitalent
+
 Partie
 du
 corps
@@ -40344,6 +40810,7 @@ est
 un
 véritable
 multitalent
+
 BUTTON
 Celui
 qui
@@ -40422,6 +40889,7 @@ sous
 estimés
 Sans
 elle
+
 La
 langue
 ne
@@ -40501,6 +40969,7 @@ cours
 de
 l
 volution
+
 La
 langue
 peut
@@ -40513,6 +40982,7 @@ sans
 changer
 de
 volume
+
 Par
 exemple
 certains
@@ -40657,6 +41127,7 @@ herbe
 et
 les
 arrachent
+
 Les
 poissons
 eux
@@ -40679,6 +41150,7 @@ une
 fraction
 de
 seconde
+
 Par
 rapport
 la
@@ -40700,6 +41172,7 @@ animal
 lui
 m
 me
+
 Pourtant
 il
 y
@@ -40810,6 +41283,7 @@ l
 eau
 l
 poque
+
 La
 langue
 la
@@ -40872,6 +41346,7 @@ rafraîchit
 Photo
 Getty
 Images
+
 Mais
 chez
 les
@@ -40928,6 +41403,7 @@ salive
 qui
 s
 vapore
+
 Pour
 l
 homme
@@ -41082,6 +41558,7 @@ Larry
 W
 Smith
 EPA
+
 Mais
 ce
 n
@@ -41121,6 +41598,7 @@ d
 utiliser
 sa
 langue
+
 ou
 malveillant
 pour
@@ -41151,13 +41629,15 @@ déterminée
 AboFemmes
 sous
 
-
 Langue
 anatomie
 animale
+
 Ajouter
 des
 langues
+
+
 Pour
 les
 articles
@@ -41273,6 +41753,7 @@ gélada
 ou
 singe
 lion
+
 La
 langue
 est
@@ -41513,6 +41994,7 @@ espèces
 aux
 mimiques
 faciales
+
 La
 taille
 la
@@ -41601,6 +42083,7 @@ alors
 qu'
 elle
 est
+
 Chez
 les
 reptiles
@@ -41626,6 +42109,7 @@ olfaction
 Elle
 est
 capable
+
 Chez
 les
 vertébrés
@@ -41653,6 +42137,7 @@ l'
 Homme
 Chez
 les
+
 La
 langue
 est
@@ -41717,6 +42202,7 @@ cartilages
 peut
 voquer
 celle
+
 Chez
 la
 plupart
@@ -41850,6 +42336,7 @@ de
 la
 langue
 bleue
+
 p
 307
 324
@@ -41892,6 +42379,7 @@ animal
 sur
 Wikimedia
 Commons
+
 maltose
 and
 sucrose
@@ -41959,6 +42447,7 @@ Bouche
 Langue
 anatomie
 
+
 Accueil
 Bien
 tre
@@ -41970,6 +42459,7 @@ organe
 aux
 multiples
 fonctions
+
 bien
 etre
 svg
@@ -41980,6 +42470,7 @@ organe
 aux
 multiples
 fonctions
+
 arrow
 bleu
 svg
@@ -41987,6 +42478,7 @@ Langue
 I
 MAGIC
 jpg
+
 Elle
 est
 très
@@ -42126,6 +42618,7 @@ De
 parler
 tout
 simplement
+
 Mais
 la
 langue
@@ -42150,14 +42643,15 @@ lequel
 nous
 serions
 incapables
-
 4
 Organes
 5
 La
 langue
+
 La
 langue
+
 Le
 muscle
 le
@@ -42321,6 +42815,7 @@ diviser
 en
 différentes
 sections
+
 La
 partie
 la
@@ -42612,6 +43107,7 @@ sucr
 
 41
 langues
+
 La
 glossolalie
 du
@@ -42794,6 +43290,7 @@ décrit
 comme
 inférieur
 la
+
 En
 1906
 le
@@ -42971,6 +43468,7 @@ pouvaient
 comprendre
 ce
 qui
+
 Car
 celui
 qui
@@ -43021,6 +43519,7 @@ Esprit
 Langue
 construite
 
+
 Notre
 langue
 ciseleuse
@@ -43029,6 +43528,7 @@ pair
 de
 la
 parole
+
 Le
 langage
 articul
@@ -43053,6 +43553,7 @@ jouent
 un
 rôle
 crucial
+
 C
 est
 notre
@@ -43133,12 +43634,14 @@ signes
 4
 1
 Introduction
+
 7
 Comparaison
 des
 langues
 des
 signes
+
 BUTTON
 Afficher
 masquer
@@ -43165,6 +43668,8 @@ la
 langue
 des
 signes
+
+
 7
 2
 Reconnaissance
@@ -43173,6 +43678,8 @@ langues
 signées
 par
 pays
+
+
 7
 3
 Liste
@@ -43180,6 +43687,8 @@ des
 langues
 des
 signes
+
+
 7
 4
 Langue
@@ -43187,6 +43696,8 @@ des
 signes
 pour
 bébés
+
+
 7
 5
 Langue
@@ -43197,12 +43708,16 @@ avec
 des
 enfants
 autistes
+
+
 7
 6
 Langue
 des
 signes
 tactile
+
+
 9
 Personnalités
 sourdes
@@ -43213,9 +43728,12 @@ la
 langue
 des
 signes
+
+
 Langue
 des
 signes
+
 102
 langues
 Afrikaans
@@ -43240,6 +43758,7 @@ the
 Sign
 Language
 1913
+
 Les
 langues
 des
@@ -43287,6 +43806,7 @@ par
 les
 langues
 vocales
+
 Les
 langues
 des
@@ -43322,6 +43842,7 @@ locuteurs
 sans
 planification
 ni
+
 Des
 recherches
 linguistiques
@@ -43460,6 +43981,7 @@ langue
 naturelle
 part
 entière
+
 Le
 caractère
 naturel
@@ -43690,6 +44212,7 @@ la
 langue
 des
 signes
+
 privilégiées
 dans
 l
@@ -43819,6 +44342,7 @@ plus
 nombreux
 suivent
 cet
+
 Trouver
 des
 sources
@@ -43828,6 +44352,7 @@ des
 signes
 Archive
 Wikiwix
+
 Si
 la
 langue
@@ -43987,6 +44512,7 @@ description
 circonstanciée
 réf
 nécessaire
+
 Comme
 toute
 langue
@@ -44077,6 +44603,7 @@ orale
 pour
 un
 entendant
+
 On
 parle
 souvent
@@ -44131,6 +44658,7 @@ deux
 types
 de
 structures
+
 La
 phonologie
 et
@@ -44140,6 +44668,8 @@ des
 langues
 des
 signes
+
+
 Contrairement
 aux
 langues
@@ -44259,6 +44789,7 @@ mouvement
 ou
 l'
 orientation
+
 La
 phonétique
 des
@@ -44302,6 +44833,7 @@ dans
 l
 expression
 grammaticale
+
 Le
 verbe
 demander
@@ -44322,6 +44854,7 @@ demandez
 et
 Quelqu
 un
+
 Trouver
 des
 sources
@@ -44392,6 +44925,7 @@ degrés
 divers
 La
 grande
+
 Tout
 comme
 les
@@ -44430,6 +44964,7 @@ qui
 caractérise
 ces
 langues
+
 Ces
 spécificités
 sont
@@ -44447,6 +44982,7 @@ plusieurs
 informations
 simultanément
 Le
+
 Les
 langues
 des
@@ -44508,6 +45044,7 @@ Verbe
 Objet
 et
 SOV
+
 On
 observe
 une
@@ -44588,6 +45125,8 @@ des
 signes
 américaine
 ASL
+
+
 SOV
 en
 langue
@@ -44606,6 +45145,8 @@ des
 signes
 allemande
 DGS
+
+
 Ordre
 flexible
 en
@@ -44657,6 +45198,7 @@ ordre
 SOV
 est
 aussi
+
 L
 une
 des
@@ -44722,6 +45264,7 @@ langue
 des
 signes
 australienne
+
 tablir
 principalement
 en
@@ -44755,6 +45298,7 @@ les
 LS
 utilisent
 bien
+
 En
 somme
 les
@@ -44785,11 +45329,13 @@ pour
 les
 langues
 orales
+
 Comparaison
 des
 langues
 des
 signes
+
 220px
 Hole
 C4
@@ -44823,6 +45369,7 @@ sculptrice
 tchèque
 Zuzana
 kov
+
 Les
 langues
 des
@@ -44924,6 +45471,7 @@ le
 signe
 Maman
 est
+
 En
 dépit
 des
@@ -44983,6 +45531,7 @@ naturels
 entre
 signifiant
 et
+
 Reconnaissance
 légale
 et
@@ -44996,6 +45545,7 @@ la
 langue
 des
 signes
+
 Seules
 quelques
 unes
@@ -45096,12 +45646,14 @@ aux
 universités
 31
 etc
+
 Reconnaissance
 des
 langues
 signées
 par
 pays
+
 modifier
 modifier
 le
@@ -45733,6 +46285,7 @@ ducation
 veille
 favoriser
 son
+
 Une
 mission
 d'
@@ -45799,11 +46352,13 @@ la
 NZSL
 dans
 le
+
 Liste
 des
 langues
 des
 signes
+
 modifier
 modifier
 le
@@ -45815,11 +46370,13 @@ des
 langues
 des
 signes
+
 Langue
 des
 signes
 pour
 bébés
+
 modifier
 modifier
 le
@@ -45831,6 +46388,7 @@ des
 signes
 pour
 béb
+
 Depuis
 la
 fin
@@ -45890,6 +46448,7 @@ entre
 parent
 et
 enfant
+
 Langue
 des
 signes
@@ -45898,6 +46457,8 @@ avec
 des
 enfants
 autistes
+
+
 Certaines
 langues
 des
@@ -45949,10 +46510,12 @@ d
 apprentissage
 le
 plus
+
 Langue
 des
 signes
 tactile
+
 Devos
 sourde
 avertit
@@ -46184,6 +46747,7 @@ les
 langues
 des
 signes
+
 Personnalités
 sourdes
 ou
@@ -46193,6 +46757,7 @@ la
 langue
 des
 signes
+
 ligne
 6
 Aude
@@ -46491,6 +47056,7 @@ des
 signes
 sur
 Wikiversity
+
 ligne
 Ivani
 Fusellier
@@ -46600,6 +47166,7 @@ langue
 des
 signes
 Langue
+
 Anniversaire
 des
 300
@@ -46666,6 +47233,7 @@ des
 langues
 des
 signes
+
 Langues
 des
 signes
@@ -46678,17 +47246,20 @@ des
 signes
 principales
 Internationale
+
 Langues
 des
 signes
 villageoises
 en
 Afrique
+
 Langues
 des
 signes
 auxiliaires
 monastique
+
 Statut
 des
 langues
@@ -46727,18 +47298,21 @@ des
 signes
 en
 Océanie
+
 Roulement
 des
 yeux
 Rouler
 la
 langue
+
 Communication
 non
 verbale
 Langue
 des
 signes
+
 icône
 décorative
 Portail
@@ -46809,6 +47383,7 @@ langue
 sur
 sa
 pointe
+
 Ankyloglossie
 est
 un
@@ -46871,6 +47446,8 @@ trop
 court
 et
 fibreux
+
+
 Quand
 elle
 est
@@ -46924,10 +47501,12 @@ praticiens
 sur
 Frénectomie
 Langue
+
 Odonto
 stomatologie
 Langue
 anatomie
+
 
 13
 langues
@@ -46976,6 +47555,7 @@ et
 gl
 ssa
 langue
+
 déterminable
 Les
 causes
@@ -47201,11 +47781,13 @@ de
 la
 langue
 
+
 Capacit
 de
 rouler
 la
 langue
+
 11
 langues
 Bosanski
@@ -47219,6 +47801,7 @@ correspondants
 jpg
 Langue
 roulée
+
 La
 capacit
 de
@@ -47387,6 +47970,7 @@ rouler
 la
 langue
 7
+
 Sur
 les
 autres
@@ -47400,12 +47984,14 @@ langue
 sur
 Wikimedia
 Commons
+
 Roulement
 des
 yeux
 Rouler
 la
 langue
+
 Communication
 non
 verbale
