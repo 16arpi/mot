@@ -41,3 +41,25 @@ Exemple d'usage (se placer dans le dossier `./ressources`)
 $ chmod +x ../programmes/urls-to-table.sh
 $ ../programmes/urls-to-table.sh ./URLs/lang-fr.txt fr '[Ll]angues?' > ./tableaux/fr.html
 ```
+
+_César_
+
+### Lundi 6 janvier 2025
+
+J'ai mis à jours les aspirations HTTP pour le français, ainsi que leur dump et contextes. J'ai aussi rajouté un script `make_pals_corpus_fr.sh` qui s'occupe de tokeniser les fichiers entrants. Je l'ai utilisé pour écrire `pals/contextes-fr.txt` et `pals/dumps-text-fr.txt`.
+
+La stratégie de tokenisation choisie _pour le français seulement_ est de récupérer tous les mots alphanumériques (plus les caractères accentués du français) et de les retourner un par ligne.
+
+_César_
+
+### Mardi 7 janvier 2025
+
+Cette journée a été l'occasion de créer un premier jet site internet pour le projet. Ce site utilise le framework CSS Bulma présenté en cours. Il comporte quatre sections :
+
+* Présentation : une présentation générale du projet et sa problématisation
+* Notre groupe : la présentation des membres du groupe
+* Tableaux : un accès aux tableaux de synthèse des aspirations HTTP
+* Nuages de mot : un aperçu des nuages de mot pour les trois corpus
+* Textométrie : une analyse textométrique de notre corpus
+
+_César_
