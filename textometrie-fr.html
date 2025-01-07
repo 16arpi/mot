@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html data-theme="light">
+
+<head>
+    <title>Langue | PPE1</title>
+    <link rel="stylesheet" href="./css/main.css" />
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container is-max-desktop">
+            <div class="navbar-brand">
+                <div class="navbar-item">
+                    <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu"
+                        aria-expanded="false">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                    <h1 class="subtitle" ><a href="./">Langue</a></h1>
+                </div>
+            </div>
+
+            <div class="navbar-end navbar-menu" id="navMenu">
+                <a class="navbar-item" href="./">
+                    Présentation
+                </a>
+                <a class="navbar-item" href="./groupe.html">
+                    Notre groupe
+                </a>
+                <a class="navbar-item" href="./tableaux.html">
+                    Tableaux
+                </a>
+                <a class="navbar-item" href="./wordcloud.html">
+                    Nuages de mot
+                </a>
+                <a class="navbar-item" href="./textometrie-fr.html">
+                    Textométrie
+                </a>
+                <a class="navbar-item" href="https://github.com/16arpi/mot/">
+                    <img src="./assets/github.svg" width="20" />
+                </a>
+            </div>
+
+        </div>
+    </nav>
+    <section class="hero is-link ">
+        <div class="container is-max-desktop">
+            <div class="hero-body">
+                <p class="title">Analyse de la textométrie</p>
+                <p class="subtitle">Les résultats de notre analyse scientifique</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" >
+        <!-- POUR LA TEXTOMETRIE EN FRANCAIS  -->
+        <div class="container is-max-desktop" >
+            <div class="tabs is-boxed is-medium">
+                <ul>
+                    <li class="is-active" id="fr">
+                        <a href="./textometrie-fr.html"><span>Français</span></a>
+                    </li>
+                    <li class="" id="kr">
+                        <a href="./textometrie-kr.html"><span>Coréen</span></a>
+                    </li>
+                    <li class="" id="tr">
+                        <a href="./textometrie-tr.html"><span>Turc</span></a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="content pt-5 target-content" >
+                <h1 class="title">Analyses de la textométrie en français</h1>
+            </div>
+        </div>
+    </section>
+    <div class="footer" >
+        <div class="container is-max-desktop" >
+            <div class="content" >
+                <p>
+                    <b>Programmation et projet encadré 1</b>
+                    <br>Sébastien Durna, Fabiola Emal et César Pichon
+                    <br>CC-BY-NC
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        // Get all "navbar-burger" elements
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+        // Add a click event on each of them
+        $navbarBurgers.forEach(el => {
+            el.addEventListener('click', () => {
+
+                // Get the target from the "data-target" attribute
+                const target = el.dataset.target;
+                const $target = document.getElementById(target);
+
+                // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+                el.classList.toggle('is-active');
+                $target.classList.toggle('is-active');
+
+            });
+        });
+
+    });
+</script>
+
+</html>
