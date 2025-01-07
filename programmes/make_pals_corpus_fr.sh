@@ -19,10 +19,14 @@ ls $SOURCE/$LANG-*.txt | while read -r file
 do
     cat "$file" | while read -r line
     do
+        if [[ ! $line ]]
+        then
+            echo ""
+        fi
+
         echo "$line" | egrep -o "([Aa]ujourd'hui)|(\b[éèàçôöùüûïî[:alnum:]]+\'?\b)" | while read -r token
         do
             echo $token
         done
     done
-    echo ""
 done
