@@ -80,16 +80,18 @@ while read -r URL
 do
 
     # Récupération header + html
-    RESPONSE=$(curl -s -i "$URL")
+    RESPONSE=$(curl -s -i -L "$URL")
 
     # Code HTTP
     HTTP_CODE=$(echo $RESPONSE | head -n 1 | cut -d ' ' -f 2)
+
 
     # Si le code HTTP n'est pas 200
     # Sauter l'URL et retourner une erreur dans stderr
     if [ $HTTP_CODE != "200" ]
     then
         echo "URL $URL non traité car != 200" >&2
+        continue
     fi
 
 
