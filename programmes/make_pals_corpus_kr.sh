@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+export LC_ALL=ko_KR.UTF-8
+export LANG=ko_KR.UTF-8
+
 SOURCE=$1
 LANG=$2
 
