@@ -1,0 +1,382 @@
+   #CIO » Feed CIO » Comments Feed alternate
+
+    1. (BUTTON) 토픽
+    2. Spotlight: Building a winning team
+    3. Events
+    4. Newsletters
+    5. Resources
+    6. BrandHubs
+    7. Videos
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON)
+
+About
+
+     * About Us
+     * Advertise
+     * Contact Us
+     * Foundry Careers
+     * Reprints
+     * Newsletters
+
+Policies
+
+     * Terms of Service
+     * Privacy Policy
+     * Cookie Policy
+     * Copyright Notice
+     * Member Preferences
+     * About AdChoices
+     * Your California Privacy Rights
+
+Our Network
+
+     * Computerworld
+     * CSO
+     * InfoWorld
+     * Network World
+
+More
+
+     * Awards
+     * Blogs
+     * BrandPosts
+     * Events
+     * Podcasts
+     * Videos
+     * DEMO
+     * Enterprise Buyer’s Guides
+       (BUTTON) 닫기
+          + 애널리틱스
+          + 인공지능
+          + 생성형 AI
+          + 비즈니스 운영
+          + 경력 관리
+          + 클라우드 컴퓨팅
+          + 데이터센터
+          + 데이터 관리
+          + 미래기술
+          + 엔터프라이즈 애플리케이션
+          + 산업
+          + IT 리더십
+          + 디지털 트랜스포메이션
+          + IT 전략
+          + IT 관리
+          + 혁신
+          + 다양성 및 포용성
+          + IT 운영
+          + 프로젝트 관리
+          + 네트워크
+          + 보안
+          + 소프트웨어 개발
+          + 기술 업계 동향
+          + 엔터프라이즈 바이어스 가이드
+       (BUTTON) 뒤로
+       (BUTTON) 닫기
+
+Africa
+          + Africa
+
+Americas
+          + Canada
+          + United States
+
+Asia
+          + ASEAN
+          + India
+          + Middle East
+          + 日本 (Japan)
+          + 대한민국(Korea)
+
+Europe
+          + España (Spain)
+          + Ireland
+          + Italia (Italy)
+          + Netherlands
+          + United Kingdom
+          + Deutschland (Germany)
+
+Oceania
+          + Australia
+          + New Zealand
+       (BUTTON) 뒤로
+       (BUTTON) 닫기
+       인기 토픽
+          + IT 리더십
+          + 디지털 트랜스포메이션
+          + 혁신
+          + 데이터 분석 및 AI
+          + 엔터프라이즈 애플리케이션
+          + 다양성 및 포용성
+       (BUTTON)
+          + (BUTTON) 검색
+          + (BUTTON) US-EN
+          + (BUTTON) 토픽
+          + Spotlight: Building a winning team
+          + Events
+          + Newsletters
+          + Resources
+          + BrandHubs
+          + Videos
+          + (BUTTON) About
+          + (BUTTON) Policies
+          + (BUTTON) Our Network
+          + (BUTTON) More
+       (BUTTON) 뒤로
+
+토픽
+          + 애널리틱스
+          + 인공지능
+          + 생성형 AI
+          + 비즈니스 운영
+          + 경력 관리
+          + 클라우드 컴퓨팅
+          + 데이터센터
+          + 데이터 관리
+          + 미래기술
+          + 엔터프라이즈 애플리케이션
+          + 산업
+          + IT 리더십
+          + 디지털 트랜스포메이션
+          + IT 전략
+          + IT 관리
+          + 혁신
+          + 다양성 및 포용성
+          + IT 운영
+          + 프로젝트 관리
+          + 네트워크
+          + 보안
+          + 소프트웨어 개발
+          + 기술 업계 동향
+          + 엔터프라이즈 바이어스 가이드
+       (BUTTON) 뒤로
+       (BUTTON)
+
+About
+          + About Us
+          + Advertise
+          + Contact Us
+          + Foundry Careers
+          + Reprints
+          + Newsletters
+       (BUTTON) 뒤로
+       (BUTTON)
+
+Policies
+          + Terms of Service
+          + Privacy Policy
+          + Cookie Policy
+          + Copyright Notice
+          + Member Preferences
+          + About AdChoices
+          + Your California Privacy Rights
+       (BUTTON) 뒤로
+       (BUTTON)
+
+Our Network
+          + Computerworld
+          + CSO
+          + InfoWorld
+          + Network World
+       (BUTTON) 뒤로
+       (BUTTON)
+
+More
+          + Awards
+          + Blogs
+          + BrandPosts
+          + Events
+          + Podcasts
+          + Videos
+          + DEMO
+          + Enterprise Buyer’s Guides
+              1. 홈
+          Artificial Intelligence
+          + 허깅페이스, 메모리 효율화 극대화한 ‘스몰VLM’ 출시···“브라우저서도 구동 가능”
+       이지현
+       By 이지현
+       Senior Editor
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+
+허깅페이스, 메모리 효율화 극대화한 ‘스몰VLM’ 출시···“브라우저서도 구동 가능”
+       뉴스
+       Nov 27, 20242분
+       생성형 AI머신 비전오픈소스
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+         1. (BUTTON)
+         2. (BUTTON)
+         3. (BUTTON)
+         4. (BUTTON)
+         5. (BUTTON)
+         6. (BUTTON)
+       (BUTTON)
+
+허깅페이스가 새로운 오픈소스 비전언어모델 ‘스몰VLM(SmolVLM)’을 26일 출시했다.
+       Hugging Face
+       CREDIT: T. Schneider / Shutterstock
+   스몰VLM은 비전(이미지)과 언어(텍스트) 데이터를 함께 처리할 수 있는 모델이다. 이 모델은 이미지를 분석해 설명문을
+       생성하고, 이미지와 텍스트를 결합한 질의응답을 수행하며, 시각 데이터에서 특정 정보를 추출해 텍스트로 변환하는 기능을
+       제공한다. 허깅페이스는 스몰VLM이 경쟁 모델들과 비교해 현저히 적은 컴퓨팅 자원으로도 높은 효율성을 달성하도록
+       개발됐다고 밝혔다. 특히 메모리 효율성 측면에서 업계 최고 수준(SOTA)의 성능을 기록했다고 강조했다.
+       스몰VLM은 총 세 가지 버전으로 제공된다. 기본 모델인 스몰VLM-베이스는 사전 학습된 AI 모델로 특정 작업을 위한
+       기초를 제공하며, 스몰VLM-신세틱은 합성 데이터를 활용해 파인튜닝된 버전이다. 스몰VLM-인스트럭트는 사용자와의
+       직접적인 상호작용을 위해 최적화된 모델이다. 허깅페이스는 이 세 가지 모델을 자사의 트랜스포머(Transformers)
+       라이브러리에 통합해 제공한다고 밝혔다
+       허깅페이스가 공개한 스몰VLM은 20억 개(2B) 파라미터 규모의 소형 비전-언어 모델군으로, 상업적 활용이 가능하며
+       소규모 로컬 환경에서도 구동할 수 있도록 설계됐다. 특히 이 모델은 AI 학습에 필요한 모든 요소를 투명하게 공개했다는
+       점이 특징이다. 모델의 학습된 가중치값(체크포인트), 학습에 사용된 데이터셋, 세부적인 학습 방법과 관련 도구들이 모두
+       아파치 2.0 라이선스로 제공된다.
+       허깅페이스가 최근 생성형 AI 모델의 소형화 트렌드에 발맞춰 스몰VLM 모델을 출시했다고 전했다. 허깅페이스는 “올해는
+       멀티모달 AI의 급성장과 함께 대형 비전-언어 모델(Vision-Language Model, VLM)이 잇따라 출시된
+       해였다”라며 “초기에는 컴퓨팅 자원을 확장하는 방식이 주를 이뤘고, 이후 대형 모델로 합성 데이터를 생성해 데이터
+       다양성을 확대하는 추세가 이어졌다”라고 밝혔다. 이어 “최근에는 모델을 소형화해 효율성을 극대화하는 방향이 주목받고
+       있다”라고 설명했다.
+   허깅페이스는 소형 오픈 모델의 장점으로 브라우저나 엣지 디바이스에서 로컬 구동이 가능하고, 추론 비용을 절감할 수 있으며,
+       사용자 맞춤화가 용이하다는 점을 꼽았다. 대표적인 소형 멀티모달 모델로는 구글의 팔리젬마(PaLiGemma) 3B,
+       문드림AI의 문드림2(moondream2), 알리바바의 퀜2VL(Qwen2VL) 등이 있다고 덧붙였다.
+       jihyun.lee@foundryco.com
+
+관련 콘텐츠
+   News
+
+깃허브, 코파일럿 무료 버전 공식 출시··· “VS코드 통해 최대 월 2,000회 코드 제공”
+   By 이지현
+   Dec 18, 2024 2분
+   개발자 생성형 AI 오픈소스
+   News
+
+“AI 훈련 효율 20% 향상”··· 서비스나우, ‘패스트LLM’ 오픈소스 라이브러리 공개
+   By 이지현
+   Dec 10, 2024 2분
+   생성형 AI 오픈소스
+   News
+
+허깅페이스 CEO “중국 AI 모델, 정부 검열로 정치·역사관 편향될 수 있어”
+   By 이지현
+   Dec 03, 2024 2분
+   생성형 AI 오픈소스
+
+Other Sections
+          + 팟캐스트
+          + VIDEOS
+          + 리소스
+          + 이벤트
+          + Spotlight: Building a winning team
+       SUBSCRIBE TO OUR NEWSLETTER
+
+From our editors straight to your inbox
+       Get started by entering your email address below.
+       ____________________
+       유효한 이메일 주소를 입력하세요.
+       (BUTTON) 구독하기
+       이지현
+       By 이지현
+       Senior Editor
+         1. Follow 이지현 on LinkedIn
+       CIO 코리아의 기자로서 취재, 인터뷰, 번역 업무를 담당하고 있습니다. 2013년부터 IT 전문 기자로 활동하며, IT
+       업계 종사자와 리더를 위한 양질의 콘텐츠 발굴 및 제작에 주력하고 있습니다.
+
+이 저자의 추가 콘텐츠
+          + news
+         메타의 ‘표현의 자유 강화’ 정책에 반발?··· 페이스북 탈퇴 검색량 급증
+            Jan 09, 2025 7분
+          + news
+         AI 격변기 맞은 이미지 공룡들의 선택··· 게티이미지·셔터스톡 합병
+            Jan 07, 2025 2분
+          + news
+         BBC “애플 AI 요약 기능이 뉴스 내용 왜곡” 항의에… 애플 “오류 인정, 시스템 개선 지원”
+            Jan 06, 2025 2분
+          + news
+         조주완 LG전자 CEO, CES서 ‘공감지능’ 비전 제시··· MS 협력 및 B2B AI 투자 강화
+            Jan 06, 2025 2분
+          + news
+         MS, 2025년 AI 데이터센터에 100조원 규모 투자
+            Jan 05, 2025 2분
+          + news
+         IDC “삼성SDS, 국내 MSP 시장 점유율 1위··· LG CNS·메가존 뒤이어”
+            Jan 01, 2025 2분
+          + news
+         오픈소스화로 반독점 규제 우려 해소?··· 엔비디아, AI SW 기업 ‘런AI’ 인수 완료
+            Jan 01, 2025 2분
+          + news
+         구글, 추론 특화 AI 모델 ‘제미나이 2.0 FTE’ 공개
+            Dec 19, 2024 2분
+
+추천 콘텐츠
+
+   (BUTTON) 인기 (BUTTON) 기사
+   기획
+
+최고 데이터 책임자(CDO)의 전략적 위상은 '변화 중'
+
+   By Dan Roberts
+   Jan 10, 20258분
+   인공지능최고 데이터 책임자IT 전략
+   이미지
+   오피니언
+
+기고 | '비싼' 기업용 소프트웨어의 시대는 끝났을까?
+
+   By Robert Glaser
+   Jan 10, 20259분
+   인공지능엔터프라이즈 애플리케이션생성형 AI
+   이미지
+   기획
+
+“AI 도입했더니 클라우드 비용 폭탄”··· IT 리더 6인이 전하는 퍼블릭 클라우드 전략 재검토 배경
+
+   By Robert Mitchell
+   Jan 10, 202511분
+   예산 책정CIO클라우드 관리
+   이미지
+
+   About
+
+     * About Us
+     * Advertise
+     * Contact Us
+     * Foundry Careers
+     * Reprints
+     * Newsletters
+     * BrandPosts
+
+   Policies
+
+     * Terms of Service
+     * Privacy Policy
+     * Cookie Policy
+     * Copyright Notice
+     * Member Preferences
+     * About AdChoices
+     * Your California Privacy Rights
+     * 개인정보 설정
+
+   네트워크
+
+     * Computerworld
+     * CSO
+     * Infoworld
+     * Network World
+
+     * LinkedIn
+     * X
+     * Facebook
+     * 유튜브
+     * Google News
+
+   Copyright © 2025 IDG Communications, Inc.
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5JGZ3LH
+
+   Go to mobile version

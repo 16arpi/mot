@@ -1,0 +1,159 @@
+커리어넷
+
+   뒤로가기 메뉴 펼치기
+
+학과정보
+
+  학과정보
+
+커리어넷 서비스
+
+   로그인 회원가입
+   홈 닫기
+   프로필사진
+   나의 진로활동 메뉴
+     * 나의 정보관리
+     * 나의 심리검사 결과
+     * 나의 진로상담
+     * 나의 관심직업·학과
+
+   커리어넷 카테고리
+     * 진로심리검사
+     * 진로심리검사
+     * 진로상담
+          + 상담신청
+          + 진로탐험대
+          + 이주의 공감상담
+          + 진로솔루션
+     * 직업 · 학과정보
+          + 직업백과
+          + 미래직업
+          + 학과정보
+          + 직업인인터뷰
+          + 학과 인터뷰
+     * 진로동영상
+     * 진로교육자료
+     * 알림마당
+          + 공지사항
+          + 웹소식지
+          + 이용안내
+          + 행사·이벤트
+          + 이용문의
+          + 서비스약관
+
+   로그아웃 APP 다운로드
+
+   커리어넷 학과계열 > {{major.categoryNm}}
+
+   {{major.majorNm}}
+
+   취업률 : {{major.employRate}}% 이상 첫 직장 임금 : {{major.salaryCode}}
+
+   관심학과
+     * 학과개요
+     * 개설대학
+     * 학과전망
+     * 학과인터뷰
+
+  학과개요
+
+   학과개요
+   {{ major.majorSumry }}
+
+   학과특성
+   {{ major.characteristics }}
+
+   흥미와 적성
+   {{ major.interest }}
+
+   관련 고교 교과목
+   {{ major.relateSubject }}
+
+   진로탐색 활동
+   {{ item[0] }} - {{ item[1] }}
+
+   대학 주요 교과목
+   {{ item[0] }}
+   {{ item[1] }}
+
+   관련 자격
+   {{ major.relateQualf }}
+
+   관련 직업
+   {{ item.relateJobName }} ,
+
+   졸업 후 진출 분야
+   {{ item[0] }}
+   {{ item[1] }}
+
+   관련 동영상
+     * [noimage.png] item.videoTitle {{ item.videoTitle }}
+
+   세부관련학과
+   {{ major.relatedMajors }}
+   {{buttonMsg}}
+
+  개설대학
+
+   CAPTION: 개설대학 목록
+
+        지역                   대학명                학과명
+   {{ item[0] }} {{ item[1] }}({{item[2]}}) {{ item[4]}}
+
+   {{major.prospects[0].sj}}
+
+   [자료 : {{ major.prospects[0].insttNm }}, {{ major.prospects[0].dtaNm
+   }}({{ major.prospects[0].dtaYear }}), {{ major.prospects[0].etc }}]
+
+   {{major.prospects[1].sj}}
+
+   [자료 : {{ major.prospects[1].insttNm }}, {{ major.prospects[1].dtaNm
+   }}({{ major.prospects[1].dtaYear }}), {{ major.prospects[1].etc }}]
+
+   {{major.prospects[2].sj}}
+
+   [자료 : {{ major.prospects[2].insttNm }}, {{ major.prospects[2].dtaNm
+   }}({{ major.prospects[2].dtaYear }}), {{ major.prospects[2].etc }}]
+
+   {{major.prospects[6].sj}}
+
+   [자료 : {{ major.prospects[6].insttNm }}, {{ major.prospects[6].dtaNm
+   }}({{ major.prospects[6].dtaYear }}), {{ major.prospects[6].etc }}]
+
+   {{major.prospects[3].sj}}
+
+   [자료 : {{ major.prospects[3].insttNm }}, {{ major.prospects[3].dtaNm
+   }}({{ major.prospects[3].dtaYear }}), {{ major.prospects[3].etc }}]
+
+   {{major.prospects[4].sj}}
+
+   [자료 : {{ major.prospects[4].insttNm }}, {{ major.prospects[4].dtaNm
+   }}({{ major.prospects[4].dtaYear }}), {{ major.prospects[4].etc }}]
+
+   {{major.prospects[5].sj}}
+
+   [자료 : {{ major.prospects[5].insttNm }}, {{ major.prospects[5].dtaNm
+   }}({{ major.prospects[5].dtaYear }}), {{ major.prospects[5].etc }}]
+
+   [mv_default.png] 기본이미지
+   {{major.majorInterview.intveComp}} {{major.majorInterview.intveName}}
+   {{major.majorInterview.intveJob}}
+
+     * [noimage.png]
+
+   {{ item }}
+
+     * 페이스북
+     * 트위터
+     * ____________________ 복사
+
+   목록
+
+   로그인 로그아웃 PC버전 알림마당 이용문의
+   이용약관 개인정보처리방침 이메일 무단수집 거부
+
+
+    세종특별자치시 시청대로 370 세종국책연구단지
+    사회정책동 한국직업능력연구원 커리어넷
+
+   Copyrights©KRIVET All Rrights Reserved.
