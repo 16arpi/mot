@@ -13,9 +13,8 @@ DIR_CONTEXT="./contextes"
 I=1
 for file in $DIR_DUMP/$LANG-*.txt
 do
-    echo $file
     FILENAME_CONTEXT="$DIR_CONTEXT/$LANG-$I.txt"
-    cat $file | egrep $REGEX -C 1 > $FILENAME_CONTEXT
+    cat "$file" | egrep $REGEX -C 1 > $FILENAME_CONTEXT
     ((I++))
 done
 
