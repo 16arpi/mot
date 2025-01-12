@@ -17,14 +17,14 @@ fi
 
 ls $SOURCE/$LANG-*.txt | while read -r file
 do
-    cat $file | while read -r line
+    cat "$file" | while read -r line
     do
         if [[ ! $line ]]
         then
             echo ""
         else
-            echo $line | egrep -o "([가-힣]+|[A-Za-z]+|[0-9]+)" | while read -r token; do
-                echo $token
+            echo "$line" | egrep -o "([가-힣]+|[A-Za-z]+|[0-9]+)" | while read -r token; do
+                echo "$token"
             done
         fi
     done
