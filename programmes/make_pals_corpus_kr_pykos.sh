@@ -17,13 +17,16 @@ fi
 
 ls $SOURCE/$LANG-*.txt | while read -r file
 do
-    cat $file | while read -r line
+    cat "$file" | while read -r line
     do
         if [[ ! $line ]]
         then
             echo ""
         else
-            echo $line | egrep -o "([가-힣]+|[A-Za-z]+|[0-9]+)" | while read -r token; do
+            # Utilisation de pykospacing pour corriger l'espacement
+            corrected_line=$(python3 -m pykospacing "$line")
+            echo "$corrected_line" | egrep -o "([가-힣]+|[A-Za-z]+|[0-9]+)" | while read -r token
+            do
                 echo $token
             done
         fi
