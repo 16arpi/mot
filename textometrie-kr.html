@@ -76,6 +76,16 @@
             <div class="content pt-5 target-content" >
                 <h1 class="title">Analyses de la textométrie en coréen</h1>
             </div>
+            <div>
+                <p>
+                    Avant de commencer, il est important de noter que pour des raisons inconnues, certains urls n'ont pu être analysées correctement (cf tableau). Le corpus est donc incomplet et l'analyse ne peut être considérée comme exacte. 
+                </p>
+                <p>En observant les cooccurrences des URLs que nous avons réussi à traiter, le mot qui ressort le plus est le mot "언어" ou "langue" (fréquence :1248; spécificité : 44,12) dans son sens le plus littéraire.</p>
+                <p>Cela s'explique très simplement. En effet en coréen, il est d'usage, de par son mélange lointain avec le chinois, d'avoir certains suffixes sémantiques tel que par exemple "-인" dans "한국인" <i>(한국 Corée du sud + 인 personne = coréen)</i>. C'est également le cas pour le mot "langue". Le suffixe "- 어" signifie parole, parler. On va donc trouver "한국어" pour la langue coréenne ou encore "영어" pour l'anglais. Pour cette raison, nous avons fait le choix d'écrire notre expression régulière en prenant en compte les mots suivants : 언어 <i>(eoneo, language/langue)</i>, 국어 <i>(gugeo, langue nationale)</i>, 표준어 <i>(pyojuneo, langue d'usage)</i>, 현지어 <i>(hyeonjieo, langue locale)</i>, 음성어 <i>(eumsangeo, langue parlée)</i>, 공용어 <i>(gongyongeo, langue officielle)</i>, 구어 <i>(gueo, langue parlée)</i>. Nous trouvons qu'ils reflètent tous ensemble la signification première de notre mot "langue".</p>
+                <p> Il est donc intéressant de noter la forte apparition de "언어" dont on comprends l'utilisation dans les différentes définitions de ses variantes, ce qui est appuyé par le mot "규정에" (définition, règles, caractérisation) (spécificité : 12,55). On notera aussi "국어" (langue nationale) (fréquence : 85; spécificité : 10,37) ainsi que "문자" (lettre, écriture) pour appuyer sur le sens linguistique. En continuant notre analyse, nous retrouvons "중" qui associé à "언어" signifie "chinois" mais peut également signifier "parmis"/"au milieu de" lors d'une énumération (co-fréquence : 81, spécificités : 17,36). </p>
+                <p>On retrouve également les mots "프로그래밍" (programation) (co-fréquence : 156; spécificité : 63,69), "CSS" (fréquence : 26; spécificité : 10,41) ou encore "script" (fréquence : 22; spécificité : 9,82) caractéristique du champs lexical de l'informatique et des languages de programmation. On en conclus donc qu'en coréen, les équivalents du mot "langue" désignent aussi bien la communication orale ou écrite entre humains qu'un système de signes, expressions ou chiffres permettant de formuler des algorithmes en informatique.</p>
+                <p></p>
+            </div>
         </div>
     </section>
     <div class="footer" >
